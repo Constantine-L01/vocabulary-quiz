@@ -3,18 +3,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vocabulary Quiz</title>
+    <title>MCQ Vocabulary Quiz</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div class="container">
         <h1>Vocabulary Quiz</h1>
         <p id="question">Loading question...</p>
-        <input type="text" id="answer" placeholder="Your answer here">
-        <button onclick="checkAnswer()">Submit</button>
+        <div id="options"></div> <!-- Options will be inserted here -->
         <p id="result"></p>
+        <p><strong>Correct Answers:</strong> <span id="correct-count">0</span></p>
+        <p><strong>Attempted Questions:</strong> <span id="attempted-count">0</span></p>
+        <p><strong>Questions Left:</strong> <span id="questions-left">20</span></p>
     </div>
     <script src="script.js"></script>
 </body>
 </html>
-s
