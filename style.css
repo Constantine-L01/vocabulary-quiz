@@ -1,17 +1,51 @@
-#correct-count, #attempted-count {
+/* Styling for the question */
+#question {
+    font-size: 24px;
     font-weight: bold;
-    color: green;
+    margin-bottom: 20px;
 }
 
-#correct-count {
-    color: #4CAF50;  /* Green color for correct answers */
+/* Styling for the option buttons */
+.option-button {
+    display: block;
+    width: 100%;
+    padding: 15px;
+    margin: 10px auto;
+    background-color: #ffffff;
+    color: rgb(0, 0, 0);
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 22px;  /* Bigger font size for options */
+    text-align: left;
+    transition: background-color 0.3s ease;
 }
 
-#attempted-count {
-    color: #FF9800;  /* Orange color for attempted questions */
+.option-button:hover {
+    background-color: #e7e7e7;
+}
+
+/* Styling for the result and counters */
+#result {
+    font-size: 22px;
+    font-weight: bold;
+    color: #333;
+}
+
+#correct-count{
+    font-size: 22px;  /* Larger font size for counters */
+    margin-top: 20px;
+    color:rgb(13, 187, 21)
+}
+
+#attempted-count{
+    font-size: 22px;  /* Larger font size for counters */
+    margin-top: 20px;
+    color: rgb(202, 0, 0)
 }
 
 #questions-left {
-    font-weight: bold;
-    color: #FF9800;  /* Orange color for questions left */
+    font-size: 22px;  /* Larger font size for counters */
+    margin-top: 20px;
+    color:orange
 }

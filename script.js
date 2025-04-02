@@ -1,6 +1,7 @@
 let questions = [];
 let currentQuestionIndex = 0;
 let correctAnswers = 0;
+let incorrectAnswers = 0;
 let attemptedQuestions = 0;
 let selectedQuestions = [];  // To hold 20 random questions for the session
 
@@ -30,22 +31,24 @@ function displayQuestion() {
     const questionData = selectedQuestions[currentQuestionIndex];
     document.getElementById("question").innerText = questionData.question;
 
-    const optionsContainer = document.getElementById("options");
-    optionsContainer.innerHTML = "";  // Clear previous options
-
+    // Shuffle the options
     const shuffledOptions = shuffleOptions(questionData.options);
 
-    shuffledOptions.forEach(option => {
-        const button = document.createElement("button");
-        button.innerText = option;
-        button.classList.add("option-button");
-        button.onclick = () => checkAnswer(option);
-        optionsContainer.appendChild(button);
-    });
+    // Assign shuffled options to A), B), C), D)
+    document.getElementById("option-A").innerText = `A) ${shuffledOptions[0]}`;
+    document.getElementById("option-B").innerText = `B) ${shuffledOptions[1]}`;
+    document.getElementById("option-C").innerText = `C) ${shuffledOptions[2]}`;
+    document.getElementById("option-D").innerText = `D) ${shuffledOptions[3]}`;
+
+    // Set up event listeners to check the answer
+    document.getElementById("option-A").onclick = () => checkAnswer(shuffledOptions[0]);
+    document.getElementById("option-B").onclick = () => checkAnswer(shuffledOptions[1]);
+    document.getElementById("option-C").onclick = () => checkAnswer(shuffledOptions[2]);
+    document.getElementById("option-D").onclick = () => checkAnswer(shuffledOptions[3]);
 
     // Update question left and correct answers display
     document.getElementById("correct-count").innerText = correctAnswers;
-    document.getElementById("attempted-count").innerText = attemptedQuestions;
+    document.getElementById("attempted-count").innerText = incorrectAnswers;
     document.getElementById("questions-left").innerText = selectedQuestions.length - attemptedQuestions;
 }
 
@@ -60,12 +63,13 @@ function checkAnswer(selectedOption) {
         correctAnswers++;  // Increment correct answers counter
         resultText.innerText = "Correct! 🎉";
     } else {
+        incorrectAnswers++;
         resultText.innerText = `Wrong! The correct answer is "${correctAnswer}".`;
     }
 
     // Update the counters in the UI
     document.getElementById("correct-count").innerText = correctAnswers;
-    document.getElementById("attempted-count").innerText = attemptedQuestions;
+    document.getElementById("attempted-count").innerText = incorrectAnswers;
     document.getElementById("questions-left").innerText = selectedQuestions.length - attemptedQuestions;
 
     // Move to the next question after 2 seconds
@@ -73,9 +77,9 @@ function checkAnswer(selectedOption) {
 
     // If all questions are answered, show a completion message
     if (attemptedQuestions === selectedQuestions.length) {
-        setTimeout(() => alert("Quiz Completed!"), 2000);
+        setTimeout(() => alert("Quiz Completed!"), 1000);
     } else {
-        setTimeout(displayQuestion, 2000);  // Show the next question after 2 seconds
+        setTimeout(displayQuestion, 1000);  // Show the next question after 2 seconds
     }
 }
 
