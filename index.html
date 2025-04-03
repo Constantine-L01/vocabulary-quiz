@@ -3,27 +3,28 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vocabulary Quiz</title>
+    <title>Select Quiz</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <div class="container" style="font-size: 20px;">
-        <h1>Vocabulary Quiz</h1>
-        <p id="question">Loading question...</p>
+        <h1>Welcome to the Vocabulary Quiz</h1>
+        <p>Select a question set to begin:</p>
 
-        <div class="options">
-            <button id="option-A" class="option-button">A) Option 1</button>
-            <button id="option-B" class="option-button">B) Option 2</button>
-            <button id="option-C" class="option-button">C) Option 3</button>
-            <button id="option-D" class="option-button">D) Option 4</button>
-        </div>
+        <select id="questionSet">
+            <option value="A.json">Set A</option>
+            <option value="B.json">Set B</option>
+            <option value="C.json">Set C</option>
+        </select>
 
-        <p id="result"></p>
-        <p><strong>Correct:</strong> <span id="correct-count">0</span></p>
-        <p><strong>Wrong:</strong> <span id="attempted-count">0</span></p>
-        <p><strong>Questions Left:</strong> <span id="questions-left">20</span></p>
+        <button onclick="startQuiz()">Start Quiz</button>
     </div>
 
-    <script src="script.js"></script>
+    <script>
+        function startQuiz() {
+            const selectedSet = document.getElementById("questionSet").value;
+            window.location.href = `quiz.html?set=${selectedSet}`;
+        }
+    </script>
 </body>
 </html>
