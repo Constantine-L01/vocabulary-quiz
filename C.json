@@ -1,0 +1,672 @@
+[
+    {
+        "question": "Which word refers to 'a small wooden house, often in a remote area'?",
+        "options": ["cabin", "castle", "cave", "cell"],
+        "answer": "cabin"
+    },
+    {
+        "question": "Which word refers to 'a thick wire used for transmitting electricity or signals'?",
+        "options": ["cable", "cast", "chain", "carbon"],
+        "answer": "cable"
+    },
+    {
+        "question": "Which word means 'to determine a numerical value'?",
+        "options": ["calculate", "capture", "clarify", "classify"],
+        "answer": "calculate"
+    },
+    {
+        "question": "Which word refers to 'an artificial waterway for boats or irrigation'?",
+        "options": ["canal", "circuit", "cave", "certificate"],
+        "answer": "canal"
+    },
+    {
+        "question": "Which word means 'to call off or end an arrangement'?",
+        "options": ["cancel", "catch", "cheer", "chop"],
+        "answer": "cancel"
+    },
+    {
+        "question": "Which word refers to 'a disease caused by abnormal cell growth'?",
+        "options": ["cancer", "certainty", "civilization", "cite"],
+        "answer": "cancer"
+    },
+    {
+        "question": "Which word refers to 'a wax stick with a wick that produces light'?",
+        "options": ["candle", "circuit", "castle", "cheek"],
+        "answer": "candle"
+    },
+    {
+        "question": "Which word means 'having the ability to do something'?",
+        "options": ["capable", "casual", "chief", "challenging"],
+        "answer": "capable"
+    },
+    {
+        "question": "Which word refers to 'the maximum amount something can hold'?",
+        "options": ["capacity", "carbon", "championship", "challenge"],
+        "answer": "capacity"
+    },
+    {
+        "question": "Which word means 'to take control of something, often by force'?",
+        "options": ["capture", "chase", "cite", "chair"],
+        "answer": "capture"
+    },
+    {
+        "question": "Which word refers to 'a chemical element found in all living things'?",
+        "options": ["carbon", "cheek", "candle", "circumstance"],
+        "answer": "carbon"
+    },
+    {
+        "question": "Which word means 'to throw or select an actor for a role'?",
+        "options": ["cast", "circuit", "chairman", "chart"],
+        "answer": "cast"
+    },
+    {
+        "question": "Which word refers to 'a large fortress or stronghold'?",
+        "options": ["castle", "cabin", "cell", "citizen"],
+        "answer": "castle"
+    },
+    {
+        "question": "Which word means 'relaxed, informal, or not planned'?",
+        "options": ["casual", "chief", "circumstance", "carbon"],
+        "answer": "casual"
+    },
+    {
+        "question": "Which word means 'to grab or seize something'?",
+        "options": ["catch", "chop", "cite", "cable"],
+        "answer": "catch"
+    },
+    {
+        "question": "Which word refers to 'a natural underground chamber'?",
+        "options": ["cave", "circuit", "certificate", "carbon"],
+        "answer": "cave"
+    },
+    {
+        "question": "Which word refers to 'the smallest structural unit of living organisms'?",
+        "options": ["cell", "candle", "chain", "challenge"],
+        "answer": "cell"
+    },
+    {
+        "question": "Which word means 'complete confidence that something is true'?",
+        "options": ["certainty", "chief", "castle", "civil"],
+        "answer": "certainty"
+    },
+    {
+        "question": "Which word refers to 'an official document proving something'?",
+        "options": ["certificate", "circuit", "capacity", "carbon"],
+        "answer": "certificate"
+    },
+    {
+        "question": "Which word refers to 'a series of linked objects or events'?",
+        "options": ["chain", "candle", "chop", "cheek"],
+        "answer": "chain"
+    },
+    {
+        "question": "Which word refers to 'a piece of furniture used for sitting'?",
+        "options": ["chair", "castle", "cabin", "capacity"],
+        "answer": "chair"
+    },
+    {
+        "question": "Which word refers to 'the leader of a meeting or committee'?",
+        "options": ["chairman", "championship", "chief", "chart"],
+        "answer": "chairman"
+    },
+    {
+        "question": "Which word means 'something that tests one's ability'?",
+        "options": ["challenge", "circuit", "cheek", "chain"],
+        "answer": "challenge"
+    },
+    {
+        "question": "Which word means 'difficult and requiring effort'?",
+        "options": ["challenging", "carbon", "castle", "certificate"],
+        "answer": "challenging"
+    },
+    {
+        "question": "Which word refers to 'a competition to determine the best in a sport'?",
+        "options": ["championship", "chart", "capacity", "circuit"],
+        "answer": "championship"
+    },
+    {
+        "question": "Which word refers to 'a distinctive quality of a person or thing'?",
+        "options": ["characteristic", "capacity", "cave", "carbon"],
+        "answer": "characteristic"
+    },
+    {
+        "question": "Which word means 'pleasant and attractive in personality'?",
+        "options": ["charming", "broad", "bunch", "burn"],
+        "answer": "charming"
+    },
+    {
+        "question": "Which word refers to 'a visual representation of data'?",
+        "options": ["chart", "challenge", "chief", "certificate"],
+        "answer": "chart"
+    },
+    {
+        "question": "Which word means 'to run after something to catch it'?",
+        "options": ["chase", "chop", "chief", "candle"],
+        "answer": "chase"
+    },
+    {
+        "question": "Which word refers to 'the side of the face below the eye'?",
+        "options": ["cheek", "chair", "chain", "challenge"],
+        "answer": "cheek"
+    },
+    {
+        "question": "Which word means 'to express joy or encouragement'?",
+        "options": ["cheer", "chief", "circumstance", "catch"],
+        "answer": "cheer"
+    },
+    {
+        "question": "Which word means 'the most important leader in a group'?",
+        "options": ["chief", "chain", "chairman", "carbon"],
+        "answer": "chief"
+    },
+    {
+        "question": "Which word means 'to cut something into pieces'?",
+        "options": ["chop", "chain", "castle", "certificate"],
+        "answer": "chop"
+    },
+    {
+        "question": "Which word refers to 'a path through which an electric current flows'?",
+        "options": ["circuit", "cheek", "challenge", "chain"],
+        "answer": "circuit"
+    },
+    {
+        "question": "Which word refers to 'a situation or condition affecting an event'?",
+        "options": ["circumstance", "cheer", "carbon", "candle"],
+        "answer": "circumstance"
+    },
+    {
+        "question": "Which word means 'to quote or reference a source'?",
+        "options": ["cite", "civil", "chart", "charming"],
+        "answer": "cite"
+    },
+    {
+        "question": "Which word refers to 'a person who legally belongs to a country'?",
+        "options": ["citizen", "carbon", "chain", "cheek"],
+        "answer": "citizen"
+    },
+    {
+        "question": "Which word means 'relating to ordinary people, not military or religious'?",
+        "options": ["civil", "cave", "catch", "chair"],
+        "answer": "civil"
+    },
+    {
+        "question": "Which word refers to 'an advanced human society'?",
+        "options": ["civilization", "carbon", "certificate", "circumstance"],
+        "answer": "civilization"
+    },
+    {
+        "question": "Which word means 'to make something clearer'?",
+        "options": ["clarify", "charming", "chain", "challenge"],
+        "answer": "clarify"
+    },
+    {
+        "question": "Which word means 'traditional and of high quality'?",
+        "options": ["classic", "carbon", "chart", "cheek"],
+        "answer": "classic"
+    },
+    {
+        "question": "Which word means 'to arrange things into categories'?",
+        "options": ["classify", "carbon", "certificate", "circumstance"],
+        "answer": "classify"
+    },
+    {
+        "question": "Which word refers to 'a steep rock face, especially at the edge of the sea'?",
+        "options": ["cliff", "clinic", "compound", "clip"],
+        "answer": "cliff"
+    },
+    {
+        "question": "Which word refers to 'a place where people receive medical treatment'?",
+        "options": ["clinic", "commander", "committee", "colorful"],
+        "answer": "clinic"
+    },
+    {
+        "question": "Which word means 'a small piece cut from something'?",
+        "options": ["clip", "cliff", "collapse", "coincidence"],
+        "answer": "clip"
+    },
+    {
+        "question": "Which word means 'to shut something or be near something'?",
+        "options": ["close", "collapse", "completion", "committee"],
+        "answer": "close"
+    },
+    {
+        "question": "Which word means 'in a careful and detailed manner'?",
+        "options": ["closely", "commitment", "complex", "commonly"],
+        "answer": "closely"
+    },
+    {
+        "question": "Which word refers to 'a remarkable and unexpected occurrence of two events'?",
+        "options": ["coincidence", "completion", "compound", "collector"],
+        "answer": "coincidence"
+    },
+    {
+        "question": "Which word means 'to fall down or give way suddenly'?",
+        "options": ["collapse", "cliff", "colorful", "comfort"],
+        "answer": "collapse"
+    },
+    {
+        "question": "Which word refers to 'a person who gathers objects as a hobby or for a living'?",
+        "options": ["collector", "commander", "composer", "commission"],
+        "answer": "collector"
+    },
+    {
+        "question": "Which word refers to 'a group of people living in a foreign land under control of another country'?",
+        "options": ["colony", "committee", "commission", "commonly"],
+        "answer": "colony"
+    },
+    {
+        "question": "Which word means 'having bright or varied colors'?",
+        "options": ["colorful", "comic", "comprehensive", "cliff"],
+        "answer": "colorful"
+    },
+    {
+        "question": "Which word means 'a mixture of different elements'?",
+        "options": ["combination", "completion", "concept", "compound"],
+        "answer": "combination"
+    },
+    {
+        "question": "Which word refers to 'a state of physical or mental ease'?",
+        "options": ["comfort", "commitment", "cliff", "commander"],
+        "answer": "comfort"
+    },
+    {
+        "question": "Which word refers to 'a humorous magazine or story'?",
+        "options": ["comic", "comfort", "collector", "compound"],
+        "answer": "comic"
+    },
+    {
+        "question": "Which word refers to 'an order given by an authority'?",
+        "options": ["command", "composer", "committee", "completion"],
+        "answer": "command"
+    },
+    {
+        "question": "Which word refers to 'a leader in a military force'?",
+        "options": ["commander", "compound", "commitment", "collector"],
+        "answer": "commander"
+    },
+    {
+        "question": "Which word refers to 'a group of people officially in charge of something'?",
+        "options": ["commission", "committee", "commander", "concept"],
+        "answer": "commission"
+    },
+    {
+        "question": "Which word means 'a strong dedication to something'?",
+        "options": ["commitment", "completion", "comfort", "colorful"],
+        "answer": "commitment"
+    },
+    {
+        "question": "Which word refers to 'a group of people assigned for a specific function'?",
+        "options": ["committee", "commander", "compound", "coincidence"],
+        "answer": "committee"
+    },
+    {
+        "question": "Which word means 'in a usual or frequent manner'?",
+        "options": ["commonly", "completion", "compose", "comfort"],
+        "answer": "commonly"
+    },
+    {
+        "question": "Which word refers to 'relating to the comparison of two or more things'?",
+        "options": ["comparative", "comprehensive", "complex", "concept"],
+        "answer": "comparative"
+    },
+    {
+        "question": "Which word refers to 'the act of finishing something'?",
+        "options": ["completion", "collapse", "compound", "coincidence"],
+        "answer": "completion"
+    },
+    {
+        "question": "Which word means 'not simple and having many parts'?",
+        "options": ["complex", "comprehensive", "committee", "cliff"],
+        "answer": "complex"
+    },
+    {
+        "question": "Which word means 'difficult to understand or deal with'?",
+        "options": ["complicated", "collapse", "comfort", "comic"],
+        "answer": "complicated"
+    },
+    {
+        "question": "Which word refers to 'a part of a larger whole'?",
+        "options": ["component", "collector", "cliff", "command"],
+        "answer": "component"
+    },
+    {
+        "question": "Which word means 'to create or make up something'?",
+        "options": ["compose", "completion", "compound", "comfort"],
+        "answer": "compose"
+    },
+    {
+        "question": "Which word refers to 'a person who writes music'?",
+        "options": ["composer", "commander", "collector", "comparative"],
+        "answer": "composer"
+    },
+    {
+        "question": "Which word refers to 'a substance made up of two or more elements'?",
+        "options": ["compound", "committee", "completion", "certificate"],
+        "answer": "compound"
+    },
+    {
+        "question": "Which word means 'including everything that is necessary'?",
+        "options": ["comprehensive", "comparative", "complex", "coincidence"],
+        "answer": "comprehensive"
+    },
+    {
+        "question": "Which word means 'to consist of or include'?",
+        "options": ["comprise", "coincidence", "collapse", "completion"],
+        "answer": "comprise"
+    },
+    {
+        "question": "Which word means 'required by law or rules'?",
+        "options": ["compulsory", "complex", "committee", "commonly"],
+        "answer": "compulsory"
+    },
+    {
+        "question": "Which word refers to 'the ability to focus on something intensely'?",
+        "options": ["concentration", "comfort", "compound", "completion"],
+        "answer": "concentration"
+    },
+    {
+        "question": "Which word means 'an abstract idea or general notion'?",
+        "options": ["concept", "committee", "collector", "comparative"],
+        "answer": "concept"
+    },
+    {
+        "question": "Which word means 'a matter that causes worry'?",
+        "options": ["concern", "completion", "complex", "component"],
+        "answer": "concern"
+    },
+    {
+        "question": "Which word means 'worried or interested in something'?",
+        "options": ["concerned", "command", "coincidence", "comic"],
+        "answer": "concerned"
+    },
+    {
+        "question": "Which word refers to 'a building material made from a mixture of broken stone, gravel, sand, cement, and water'?",
+        "options": ["concrete", "conduct", "confess", "confidence"],
+        "answer": "concrete"
+    },
+    {
+        "question": "Which word means 'to organize and carry out an activity or process'?",
+        "options": ["conduct", "contest", "construct", "contract"],
+        "answer": "conduct"
+    },
+    {
+        "question": "Which word means 'to admit to something, especially a crime or wrongdoing'?",
+        "options": ["confess", "convey", "convert", "consult"],
+        "answer": "confess"
+    },
+    {
+        "question": "Which word means 'a belief in one's abilities or qualities'?",
+        "options": ["confidence", "controversy", "conscious", "conspiracy"],
+        "answer": "confidence"
+    },
+    {
+        "question": "Which word refers to 'a serious disagreement or argument'?",
+        "options": ["conflict", "construction", "convey", "convenience"],
+        "answer": "conflict"
+    },
+    {
+        "question": "Which word means 'causing or feeling uncertainty or lack of clarity'?",
+        "options": ["confusing", "constant", "contemporary", "cop"],
+        "answer": "confusing"
+    },
+    {
+        "question": "Which word means 'a state of uncertainty or lack of understanding'?",
+        "options": ["confusion", "confidence", "convey", "consult"],
+        "answer": "confusion"
+    },
+    {
+        "question": "Which word means 'aware of and responding to one's surroundings'?",
+        "options": ["conscious", "considerable", "consistent", "contribute"],
+        "answer": "conscious"
+    },
+    {
+        "question": "Which word means 'as a result or consequence'?",
+        "options": ["consequently", "convention", "cooperate", "corporation"],
+        "answer": "consequently"
+    },
+    {
+        "question": "Which word refers to 'the protection and preservation of natural resources'?",
+        "options": ["conservation", "convert", "contract", "cop"],
+        "answer": "conservation"
+    },
+    {
+        "question": "Which word means 'holding traditional attitudes and values and cautious about change'?",
+        "options": ["conservative", "controversial", "consistent", "council"],
+        "answer": "conservative"
+    },
+    {
+        "question": "Which word means 'large in size, amount, or extent'?",
+        "options": ["considerable", "conventional", "conspiracy", "contribute"],
+        "answer": "considerable"
+    },
+    {
+        "question": "Which word means 'to take into account or give thought to something'?",
+        "options": ["consideration", "core", "counter", "consult"],
+        "answer": "consideration"
+    },
+    {
+        "question": "Which word means 'acting or done in the same way over time'?",
+        "options": ["consistent", "contest", "construct", "confidence"],
+        "answer": "consistent"
+    },
+    {
+        "question": "Which word means 'a secret plan by a group to do something unlawful or harmful'?",
+        "options": ["conspiracy", "core", "contest", "counter"],
+        "answer": "conspiracy"
+    },
+    {
+        "question": "Which word means 'happening all the time or very often'?",
+        "options": ["constant", "contemporary", "conservative", "construction"],
+        "answer": "constant"
+    },
+    {
+        "question": "Which word means 'to build or create something'?",
+        "options": ["construct", "confidence", "contribute", "confess"],
+        "answer": "construct"
+    },
+    {
+        "question": "Which word refers to 'a person who gives expert advice professionally'?",
+        "options": ["consultant", "council", "committee", "corporation"],
+        "answer": "consultant"
+    },
+    {
+        "question": "Which word means 'the act of using up a resource'?",
+        "options": ["consumption", "conflict", "contribute", "committee"],
+        "answer": "consumption"
+    },
+    {
+        "question": "Which word means 'modern or occurring in the present'?",
+        "options": ["contemporary", "constant", "contract", "confess"],
+        "answer": "contemporary"
+    },
+    {
+        "question": "Which word refers to 'a formal agreement between two or more parties'?",
+        "options": ["contract", "construct", "consult", "core"],
+        "answer": "contract"
+    },
+    {
+        "question": "Which word means 'a disagreement that attracts public attention'?",
+        "options": ["controversy", "convention", "conspiracy", "core"],
+        "answer": "controversy"
+    },
+    {
+        "question": "Which word means 'something that makes life easier or more comfortable'?",
+        "options": ["convenience", "confidence", "contribute", "construct"],
+        "answer": "convenience"
+    },
+    {
+        "question": "Which word means 'a large meeting or conference'?",
+        "options": ["convention", "counter", "council", "consult"],
+        "answer": "convention"
+    },
+    {
+        "question": "Which word means 'to change something into a different form'?",
+        "options": ["convert", "cope", "cop", "conspiracy"],
+        "answer": "convert"
+    },
+    {
+        "question": "Which word means 'to communicate or express something'?",
+        "options": ["convey", "confess", "conventional", "concentrate"],
+        "answer": "convey"
+    },
+    {
+        "question": "Which word refers to 'the most important or central part of something'?",
+        "options": ["core", "contest", "conspiracy", "convert"],
+        "answer": "core"
+    },
+    {
+        "question": "Which word means 'a flat surface used for food preparation in a kitchen'?",
+        "options": ["counter", "council", "confidence", "contest"],
+        "answer": "counter"
+    },
+    {
+        "question": "Which word refers to 'a region within a state that has its own local government'?",
+        "options": ["county", "council", "contract", "corporation"],
+        "answer": "county"
+    },
+    {
+        "question": "Which word means 'the ability to face danger or pain with bravery'?",
+        "options": ["courage", "confidence", "convenience", "conflict"],
+        "answer": "courage"
+    },
+    {
+        "question": "Which word refers to 'the amount of media attention given to an event'?",
+        "options": ["coverage", "conservation", "consideration", "conspiracy"],
+        "answer": "coverage"
+    },
+    {
+        "question": "Which word refers to 'a person who herds cattle and rides horses, especially in the western U.S.'?",
+        "options": ["cowboy", "cop", "contractor", "consultant"],
+        "answer": "cowboy"
+    },
+    {
+        "question": "Which word means 'a narrow break or split in a surface'?",
+        "options": ["crack", "curve", "core", "cue"],
+        "answer": "crack"
+    },
+    {
+        "question": "Which word refers to 'a sudden accident, often involving vehicles'?",
+        "options": ["crash", "contest", "contract", "consult"],
+        "answer": "crash"
+    },
+    {
+        "question": "Which word means 'the act of bringing something into existence'?",
+        "options": ["creation", "creativity", "construction", "contribution"],
+        "answer": "creation"
+    },
+    {
+        "question": "Which word refers to 'the ability to generate new ideas'?",
+        "options": ["creativity", "credit", "confidence", "criterion"],
+        "answer": "creativity"
+    },
+    {
+        "question": "Which word refers to 'a living being, especially an animal'?",
+        "options": ["creature", "crop", "crisis", "consultant"],
+        "answer": "creature"
+    },
+    {
+        "question": "Which word refers to 'recognition for a good deed or financial trustworthiness'?",
+        "options": ["credit", "coverage", "council", "consumption"],
+        "answer": "credit"
+    },
+    {
+        "question": "Which word refers to 'a group of people working together, often on a ship or aircraft'?",
+        "options": ["crew", "county", "corporation", "convention"],
+        "answer": "crew"
+    },
+    {
+        "question": "Which word refers to 'a time of intense difficulty or danger'?",
+        "options": ["crisis", "criticism", "contract", "consumption"],
+        "answer": "crisis"
+    },
+    {
+        "question": "Which word refers to 'a standard or principle by which something is judged'?",
+        "options": ["criterion", "criticism", "cure", "current"],
+        "answer": "criterion"
+    },
+    {
+        "question": "Which word refers to 'a person who judges or evaluates something'?",
+        "options": ["critic", "consultant", "contest", "contractor"],
+        "answer": "critic"
+    },
+    {
+        "question": "Which word means 'extremely important or serious'?",
+        "options": ["critical", "crucial", "core", "current"],
+        "answer": "critical"
+    },
+    {
+        "question": "Which word means 'in a way that is very serious or essential'?",
+        "options": ["critically", "comprehensively", "constantly", "consciously"],
+        "answer": "critically"
+    },
+    {
+        "question": "Which word refers to 'negative feedback or analysis'?",
+        "options": ["criticism", "criterion", "credit", "coverage"],
+        "answer": "criticism"
+    },
+    {
+        "question": "Which word means 'to express disapproval or point out flaws'?",
+        "options": ["criticize", "consider", "convert", "construct"],
+        "answer": "criticize"
+    },
+    {
+        "question": "Which word refers to 'plants grown for food or profit'?",
+        "options": ["crop", "creature", "county", "curve"],
+        "answer": "crop"
+    },
+    {
+        "question": "Which word means 'extremely significant or decisive'?",
+        "options": ["crucial", "critical", "considerable", "consistently"],
+        "answer": "crucial"
+    },
+    {
+        "question": "Which word refers to 'a trip taken for pleasure on a large ship'?",
+        "options": ["cruise", "contract", "convention", "coincidence"],
+        "answer": "cruise"
+    },
+    {
+        "question": "Which word refers to 'the act of shedding tears'?",
+        "options": ["cry", "cue", "curve", "critic"],
+        "answer": "cry"
+    },
+    {
+        "question": "Which word means 'a signal or hint for someone to act'?",
+        "options": ["cue", "contract", "criterion", "crew"],
+        "answer": "cue"
+    },
+    {
+        "question": "Which word refers to 'a solution or remedy for an illness'?",
+        "options": ["cure", "crucial", "contest", "core"],
+        "answer": "cure"
+    },
+    {
+        "question": "Which word means 'eager to know or learn something'?",
+        "options": ["curious", "current", "contracted", "content"],
+        "answer": "curious"
+    },
+    {
+        "question": "Which word means 'happening now or belonging to the present time'?",
+        "options": ["current", "contract", "crucial", "considerable"],
+        "answer": "current"
+    },
+    {
+        "question": "Which word refers to 'the subjects studied in a school or course'?",
+        "options": ["curriculum", "coverage", "criterion", "creativity"],
+        "answer": "curriculum"
+    },
+    {
+        "question": "Which word refers to 'a line that bends smoothly without angles'?",
+        "options": ["curve", "cue", "crash", "credit"],
+        "answer": "curve"
+    },
+    {
+        "question": "Which word means 'having a smooth, rounded shape'?",
+        "options": ["curved", "contracted", "criticized", "covered"],
+        "answer": "curved"
+    },
+    {
+        "question": "Which word describes something 'charming or attractive in a childlike way'?",
+        "options": ["cute", "considerate", "creative", "confident"],
+        "answer": "cute"
+    }
+]
