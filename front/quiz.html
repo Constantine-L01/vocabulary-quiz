@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Canvas Vocabulary Quiz</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding-top: 30px;
+        }
+
+        canvas {
+            background-color: #fff;
+            margin-bottom: 20px;
+        }
+
+        #nextButton {
+            font-size: 18px;
+            padding: 10px 20px;
+            background-color: #4285f4;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-bottom: 10px;
+        }
+
+        #nextButton:disabled {
+            background-color: #ccc;
+            cursor: not-allowed;
+        }
+
+
+        #result,
+        #correct-count,
+        #wrong-count,
+        #questions-left {
+            font-size: 22px;
+            margin: 10px;
+        }
+
+        #correct-count {
+            color: rgb(13, 187, 21);
+        }
+
+        #wrong-count {
+            color: rgb(202, 0, 0);
+        }
+
+        #questions-left {
+            color: orange;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>VocabQuiz</h1>
+    <canvas id="quiz-canvas" width="850" height="300"></canvas>
+    <div style="margin-top: 0px;">
+        <button id="nextButton" disabled>Next Question</button>
+    </div>
+    <p id="result"></p>
+    <p><strong>Correct:</strong> <span id="correct-count">0</span></p>
+    <p><strong>Wrong:</strong> <span id="wrong-count">0</span></p>
+    <p><strong>Questions Left:</strong> <span id="questions-left">20</span></p>
+
+    <script src="script.js"></script>
+    <script>
+        const canvas = document.getElementById("quiz-canvas");
+        const ctx = canvas.getContext("2d");
+        const nextButton = document.getElementById("nextButton");
+
+        let questions = [];
+        let selectedQuestions = [];
+        let currentQuestionIndex = 0;
+        let correctAnswers = 0;
+        let incorrectAnswers = 0;
+        let attemptedQuestions = 0;
+        let optionRects = [];
+
+        const questionSet = new URLSearchParams(window.location.search).get("set") || "A.json";
+
+        async function loadQuestions() {
+            const filePath = localStorage.getItem("questionFile");
+            const mode = localStorage.getItem("quizMode");
+
+            const response = await fetch(filePath);
+            questions = await response.json();
+
+            if (mode === "exam") {
+                // min 20 or questions.length              
+                selectedQuestions = getRandomQuestions(Math.min(20, questions.length));
+            } else {
+                selectedQuestions = getRandomQuestions(questions.length); // all questions in random order
+            }
+
+            renderQuiz();
+        }
+
+        function getRandomQuestions(num) {
+            return questions.sort(() => Math.random() - 0.5).slice(0, num);
+        }
+
+        function shuffleOptions(options) {
+            return options.sort(() => Math.random() - 0.5);
+        }
+
+        function renderQuiz() {
+            const questionData = selectedQuestions[currentQuestionIndex];
+            const options = shuffleOptions([...questionData.options]);
+
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+            ctx.fillStyle = "#000";
+            ctx.font = "24px Arial";
+
+            // Draw the question with text wrapping
+            const question = questionData.question;
+            const maxWidth = canvas.width - 100;  // Padding from sides
+            let lines = wrapText(question, maxWidth);
+
+            let yPosition = 50;  // Starting y position for the question text
+            lines.forEach(line => {
+                ctx.fillText(line, 50, yPosition);  // Draw each line of the question
+                yPosition += 30;  // Adjust vertical spacing between lines
+            });
+
+            // Draw options
+            const optionLabels = ["A", "B", "C", "D"];
+            optionRects = [];
+
+            ctx.font = "22px Arial";
+            options.forEach((opt, index) => {
+                const x = 50;
+                const y = yPosition + index * 60;
+                ctx.fillText(`${optionLabels[index]}) ${opt}`, x, y);
+                optionRects.push({ x, y: y - 30, width: 700, height: 40, option: opt });
+            });
+
+            updateCounters();
+            document.getElementById("result").innerText = "";
+
+            nextButton.disabled = true; // Always disable Next at the start
+        }
+
+        function wrapText(text, maxWidth) {
+            const words = text.split(' ');
+            const lines = [];
+            let currentLine = '';
+
+            words.forEach(word => {
+                const testLine = currentLine + word + ' ';
+                const testWidth = ctx.measureText(testLine).width;
+
+                if (testWidth > maxWidth && currentLine.length > 0) {
+                    lines.push(currentLine);  // Push current line to lines array
+                    currentLine = word + ' ';  // Start a new line with the current word
+                } else {
+                    currentLine = testLine;  // Add the word to the current line
+                }
+            });
+
+            lines.push(currentLine);  // Push the last line
+            return lines;
+        }
+
+        function updateCounters() {
+            document.getElementById("correct-count").innerText = correctAnswers;
+            document.getElementById("wrong-count").innerText = incorrectAnswers;
+            document.getElementById("questions-left").innerText = selectedQuestions.length - attemptedQuestions;
+        }
+
+        function handleClick(event) {
+            const rect = canvas.getBoundingClientRect();
+            const x = event.clientX - rect.left;
+            const y = event.clientY - rect.top;
+
+            for (let opt of optionRects) {
+                if (
+                    x >= opt.x &&
+                    x <= opt.x + opt.width &&
+                    y >= opt.y &&
+                    y <= opt.y + opt.height
+                ) {
+                    checkAnswer(opt.option);
+                    break;
+                }
+            }
+        }
+
+        function checkAnswer(selectedOption) {
+            const correctAnswer = selectedQuestions[currentQuestionIndex].answer;
+            const resultText = document.getElementById("result");
+
+            attemptedQuestions++;
+
+            if (selectedOption === correctAnswer) {
+                correctAnswers++;
+                resultText.innerText = "Correct! 🎉";
+            } else {
+                incorrectAnswers++;
+                resultText.innerText = `Wrong! The correct answer is "${correctAnswer}".`;
+            }
+
+            updateCounters();
+            nextButton.disabled = false; // Enable Next only after answer is selected
+
+            // Disable further clicks (optional: so user can’t change answer)
+            canvas.removeEventListener("click", handleClick);
+        }
+
+        async function saveScore() {
+            try {
+                const response = await fetch('http://localhost:3000/save-score', {
+                    method: 'POST',
+                    credentials: 'include',  // Important! This sends cookies/session
+                    headers: {
+                        'Content-Type': 'application/json',
+                    },
+                    body: JSON.stringify({
+                        correct: correctAnswers,
+                        total: selectedQuestions.length,
+                    }),
+                });
+
+                const data = await response.json();
+                console.log(data.message); // Optional: show confirmation message
+            } catch (error) {
+                console.error('Error saving score:', error);
+            }
+        }
+
+        function nextQuestion() {
+            currentQuestionIndex++;
+
+            if (attemptedQuestions === selectedQuestions.length) {
+                alert("Quiz Completed!");
+                saveScore();
+            } else {
+                canvas.addEventListener("click", handleClick); // Re-enable click for next question
+                renderQuiz();
+            }
+        }
+        canvas.addEventListener("click", handleClick);
+        window.onload = loadQuestions;
+        nextButton.addEventListener("click", nextQuestion);
+    </script>
+</body>
+
+</html>

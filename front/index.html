@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="google" content="notranslate">
+    <title>Select Quiz</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container" style="font-size: 20px;">
+        <h1>Welcome to the Vocabulary Quiz</h1>
+        <p>Select a question set to begin:</p>
+
+        <label for="levelSelect"><strong>Level:</strong></label>
+        <select id="levelSelect" onchange="updateQuestionSets()">
+            <option value="B2">B2</option>
+            <option value="C1">C1</option>
+        </select>
+
+        <br><br>
+
+        <label for="questionSet"><strong>Question Set:</strong></label>
+        <select id="questionSet">
+            <option value="A.json">Set A</option>
+            <option value="B.json">Set B</option>
+            <option value="C.json">Set C</option>
+            <option value="D.json">Set D</option>
+            <option value="E.json">Set E</option>
+        </select>
+
+        <br><br>
+
+        <label for="modeSelect"><strong>Mode:</strong></label>
+        <select id="modeSelect">
+            <option value="practice">Practice</option>
+            <option value="exam">Exam</option>
+        </select>
+
+        <button onclick="startQuiz()">Start Quiz</button>
+    </div>
+
+    <script src="script.js"></script>
+    <script>
+        function updateQuestionSets() {
+            const level = document.getElementById("levelSelect").value;
+            const questionSetSelect = document.getElementById("questionSet");
+
+            // Optional: dynamically update question sets if each level has different sets
+            // You can implement this later, for now we assume all levels have A/B/C.json
+        }
+
+        function startQuiz() {
+            const level = document.getElementById("levelSelect").value;
+            const questionSet = document.getElementById("questionSet").value;
+            const mode = document.getElementById("modeSelect").value;
+
+            const filePath = `${level}/${questionSet}`;
+
+            localStorage.setItem("questionFile", filePath);
+            localStorage.setItem("quizMode", mode);  // Store mode
+
+            window.location.href = "quiz.html";
+        }
+
+    </script>
+</body>
+
+</html>

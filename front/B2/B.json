@@ -1,0 +1,282 @@
+[
+    {
+        "question": "Which word means 'the rear part of something'?",
+        "options": ["back", "bar", "bat", "bias"],
+        "answer": "back"
+    },
+    {
+        "question": "Which word refers to 'microscopic organisms that can cause disease'?",
+        "options": ["bacteria", "barrier", "basket", "bill"],
+        "answer": "bacteria"
+    },
+    {
+        "question": "Which word refers to 'a small tag or emblem worn to show identity or rank'?",
+        "options": ["badge", "battle", "bid", "barely"],
+        "answer": "badge"
+    },
+    {
+        "question": "Which word means 'having equal amounts of different elements or qualities'?",
+        "options": ["balanced", "bargain", "ballet", "bent"],
+        "answer": "balanced"
+    },
+    {
+        "question": "Which word refers to 'a form of classical dance'?",
+        "options": ["ballet", "balloon", "bar", "barely"],
+        "answer": "ballet"
+    },
+    {
+        "question": "Which word refers to 'a rubber or plastic bag filled with air or gas'?",
+        "options": ["balloon", "basket", "bias", "bid"],
+        "answer": "balloon"
+    },
+    {
+        "question": "Which word refers to 'a place where drinks are served or a solid structure'?",
+        "options": ["bar", "basement", "bargain", "bear"],
+        "answer": "bar"
+    },
+    {
+        "question": "Which word means 'almost not at all'?",
+        "options": ["barely", "basically", "battle", "beat"],
+        "answer": "barely"
+    },
+    {
+        "question": "Which word means 'a deal that is bought at a low price'?",
+        "options": ["bargain", "badge", "bias", "bill"],
+        "answer": "bargain"
+    },
+    {
+        "question": "Which word refers to 'something that blocks movement or progress'?",
+        "options": ["barrier", "battle", "bid", "bear"],
+        "answer": "barrier"
+    },
+    {
+        "question": "Which word refers to 'the lowest floor of a building, often underground'?",
+        "options": ["basement", "basket", "bar", "ballet"],
+        "answer": "basement"
+    },
+    {
+        "question": "Which word means 'in a fundamental or simple way'?",
+        "options": ["basically", "barely", "beyond", "beat"],
+        "answer": "basically"
+    },
+    {
+        "question": "Which word refers to 'a container used to carry or hold things'?",
+        "options": ["basket", "badge", "bid", "bill"],
+        "answer": "basket"
+    },
+    {
+        "question": "Which word refers to 'a flying mammal or a wooden club used in sports'?",
+        "options": ["bat", "bar", "bacteria", "bias"],
+        "answer": "bat"
+    },
+    {
+        "question": "Which word means 'a fight between two opposing forces'?",
+        "options": ["battle", "barrier", "basement", "ballet"],
+        "answer": "battle"
+    },
+    {
+        "question": "Which word means 'to handle or endure a difficult situation'?",
+        "options": ["bear", "beyond", "bid", "balanced"],
+        "answer": "bear"
+    },
+    {
+        "question": "Which word means 'to strike repeatedly or defeat someone'?",
+        "options": ["beat", "bent", "beside", "barrier"],
+        "answer": "beat"
+    },
+    {
+        "question": "Which word means 'to plead for something, often desperately'?",
+        "options": ["beg", "beneficial", "battle", "bet"],
+        "answer": "beg"
+    },
+    {
+        "question": "Which word means 'a living creature or existence itself'?",
+        "options": ["being", "bear", "bias", "ballet"],
+        "answer": "being"
+    },
+    {
+        "question": "Which word means 'having a positive or helpful effect'?",
+        "options": ["beneficial", "barely", "badge", "battle"],
+        "answer": "beneficial"
+    },
+    {
+        "question": "Which word means 'curved or not straight'?",
+        "options": ["bent", "beyond", "barrier", "basket"],
+        "answer": "bent"
+    },
+    {
+        "question": "Which word is a preposition meaning 'next to'?",
+        "options": ["beside", "bias", "basement", "bear"],
+        "answer": "beside"
+    },
+    {
+        "question": "Which word is a preposition meaning 'in addition to'?",
+        "options": ["besides", "barrier", "basically", "battle"],
+        "answer": "besides"
+    },
+    {
+        "question": "Which word means 'to risk money on the outcome of an event'?",
+        "options": ["bet", "bid", "beat", "ballet"],
+        "answer": "bet"
+    },
+    {
+        "question": "Which word means 'farther than or outside of a limit'?",
+        "options": ["beyond", "basement", "bias", "bent"],
+        "answer": "beyond"
+    },
+    {
+        "question": "Which word means 'a preference for or against something, often unfairly'?",
+        "options": ["bias", "badge", "beat", "bid"],
+        "answer": "bias"
+    },
+    {
+        "question": "Which word means 'to offer a price for something in an auction'?",
+        "options": ["bid", "bargain", "bill", "beneficial"],
+        "answer": "bid"
+    },
+    {
+        "question": "Which word refers to 'a statement of money owed for goods or services'?",
+        "options": ["bill", "bid", "bias", "battle"],
+        "answer": "bill"
+    },
+    {
+        "question": "Which word means 'relating to living organisms'?",
+        "options": ["biological", "broad", "brick", "bug"],
+        "answer": "biological"
+    },
+    {
+        "question": "Which word means 'having a strong, often unpleasant taste'?",
+        "options": ["bitter", "broad", "blame", "bond"],
+        "answer": "bitter"
+    },
+    {
+        "question": "Which word means 'to hold someone responsible for something bad'?",
+        "options": ["blame", "blow", "border", "broadcaster"],
+        "answer": "blame"
+    },
+    {
+        "question": "Which word refers to 'a large piece of fabric used to keep warm'?",
+        "options": ["blanket", "brief", "boost", "bunch"],
+        "answer": "blanket"
+    },
+    {
+        "question": "Which word means 'unable to see'?",
+        "options": ["blind", "broad", "buck", "burn"],
+        "answer": "blind"
+    },
+    {
+        "question": "Which word means 'a strong movement of air' or 'to hit or destroy something forcefully'?",
+        "options": ["blow", "bombing", "border", "bullet"],
+        "answer": "blow"
+    },
+    {
+        "question": "Which word means 'showing confidence and courage'?",
+        "options": ["bold", "bitter", "brief", "broad"],
+        "answer": "bold"
+    },
+    {
+        "question": "Which word means 'an attack using explosives'?",
+        "options": ["bombing", "bullet", "blow", "budget"],
+        "answer": "bombing"
+    },
+    {
+        "question": "Which word means 'a strong connection or relationship'?",
+        "options": ["bond", "border", "broadcaster", "bush"],
+        "answer": "bond"
+    },
+    {
+        "question": "Which word means 'to increase or improve something'?",
+        "options": ["boost", "broad", "brief", "burn"],
+        "answer": "boost"
+    },
+    {
+        "question": "Which word means 'the dividing line between two areas or countries'?",
+        "options": ["border", "broad", "bond", "bullet"],
+        "answer": "border"
+    },
+    {
+        "question": "Which word means 'obligated or certain to do something'?",
+        "options": ["bound", "brief", "boost", "burn"],
+        "answer": "bound"
+    },
+    {
+        "question": "Which word refers to 'the front part of a woman's chest'?",
+        "options": ["breast", "border", "blanket", "broadcaster"],
+        "answer": "breast"
+    },
+    {
+        "question": "Which word refers to 'a rectangular block used for building'?",
+        "options": ["brick", "bullet", "blame", "broad"],
+        "answer": "brick"
+    },
+    {
+        "question": "Which word means 'short in duration'?",
+        "options": ["brief", "broad", "boost", "buck"],
+        "answer": "brief"
+    },
+    {
+        "question": "Which word means 'in a short and concise way'?",
+        "options": ["briefly", "broad", "bug", "bunch"],
+        "answer": "briefly"
+    },
+    {
+        "question": "Which word means 'wide or extensive'?",
+        "options": ["broad", "border", "buck", "burn"],
+        "answer": "broad"
+    },
+    {
+        "question": "Which word refers to 'a transmission of information via radio or TV'?",
+        "options": ["broadcast", "bombing", "boost", "brick"],
+        "answer": "broadcast"
+    },
+    {
+        "question": "Which word means 'a person who presents news or shows on TV or radio'?",
+        "options": ["broadcaster", "brief", "blind", "bitter"],
+        "answer": "broadcaster"
+    },
+    {
+        "question": "Which word means 'in a general way, without going into details'?",
+        "options": ["broadly", "blow", "blame", "bond"],
+        "answer": "broadly"
+    },
+    {
+        "question": "Which word refers to 'a slang term for a dollar'?",
+        "options": ["buck", "budget", "bunch", "bullet"],
+        "answer": "buck"
+    },
+    {
+        "question": "Which word refers to 'a plan for managing money'?",
+        "options": ["budget", "bond", "briefly", "bug"],
+        "answer": "budget"
+    },
+    {
+        "question": "Which word means 'a small insect or a flaw in a system'?",
+        "options": ["bug", "boost", "burn", "border"],
+        "answer": "bug"
+    },
+    {
+        "question": "Which word refers to 'a small metal projectile fired from a gun'?",
+        "options": ["bullet", "boost", "blow", "blame"],
+        "answer": "bullet"
+    },
+    {
+        "question": "Which word means 'a group of things that are close together'?",
+        "options": ["bunch", "bond", "broad", "broadcast"],
+        "answer": "bunch"
+    },
+    {
+        "question": "Which word means 'to destroy or damage with fire'?",
+        "options": ["burn", "bitter", "buck", "border"],
+        "answer": "burn"
+    },
+    {
+        "question": "Which word refers to 'a dense plant or shrub'?",
+        "options": ["bush", "bond", "blow", "brick"],
+        "answer": "bush"
+    },
+    {
+        "question": "Which word is a preposition meaning 'except for'?",
+        "options": ["but", "beside", "briefly", "burn"],
+        "answer": "but"
+    }
+]

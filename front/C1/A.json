@@ -1,0 +1,512 @@
+[
+    {
+        "question": "Which word refers to 'to formally end or stop something, especially a law or policy'?",
+        "options": ["abolish", "accumulate", "align", "allocate"],
+        "answer": "abolish"
+    },
+    {
+        "question": "Which word refers to 'the deliberate termination of a pregnancy'?",
+        "options": ["abortion", "absence", "accumulation", "acquisition"],
+        "answer": "abortion"
+    },
+    {
+        "question": "Which word refers to 'the state of being absent or not present'?",
+        "options": ["absence", "accomplishment", "acquire", "advocate"],
+        "answer": "absence"
+    },
+    {
+        "question": "Which word means 'not present in a place or situation'?",
+        "options": ["absent", "abuse", "absurd", "activate"],
+        "answer": "absent"
+    },
+    {
+        "question": "Which word means 'ridiculously unreasonable or foolish'?",
+        "options": ["absurd", "acquire", "adjacent", "aesthetic"],
+        "answer": "absurd"
+    },
+    {
+        "question": "Which word refers to 'to treat someone badly or cruelly, especially over a long period'?",
+        "options": ["abuse", "accomplishment", "accumulation", "adaptation"],
+        "answer": "abuse"
+    },
+    {
+        "question": "Which word refers to 'a place of learning, especially one for higher education'?",
+        "options": ["academy", "activation", "adhere", "acquire"],
+        "answer": "academy"
+    },
+    {
+        "question": "Which word refers to 'to increase speed or progress something more quickly'?",
+        "options": ["accelerate", "affection", "allocate", "adopt"],
+        "answer": "accelerate"
+    },
+    {
+        "question": "Which word refers to 'the action or process of being accepted or approved'?",
+        "options": ["acceptance", "accusation", "aide", "adverse"],
+        "answer": "acceptance"
+    },
+    {
+        "question": "Which word refers to 'easy to approach, reach, or use'?",
+        "options": ["accessible", "accomplishment", "adopt", "alert"],
+        "answer": "accessible"
+    },
+    {
+        "question": "Which word refers to 'something that has been achieved or successfully completed'?",
+        "options": ["accomplishment", "advocate", "accuse", "adaptation"],
+        "answer": "accomplishment"
+    },
+    {
+        "question": "Which word means 'in a manner that is consistent with the circumstances'?",
+        "options": ["accordingly", "affection", "allocate", "acquire"],
+        "answer": "accordingly"
+    },
+    {
+        "question": "Which word refers to 'the responsibility for something, such as a task or decision'?",
+        "options": ["accountability", "activation", "allocate", "acquisition"],
+        "answer": "accountability"
+    },
+    {
+        "question": "Which word means 'being responsible for something or someone'?",
+        "options": ["accountable", "accomplishment", "acquire", "adopt"],
+        "answer": "accountable"
+    },
+    {
+        "question": "Which word refers to 'to gather or amass over time'?",
+        "options": ["accumulate", "acquire", "align", "allocate"],
+        "answer": "accumulate"
+    },
+    {
+        "question": "Which word refers to 'the process of gathering or amassing something'?",
+        "options": ["accumulation", "adopt", "adverse", "alert"],
+        "answer": "accumulation"
+    },
+    {
+        "question": "Which word refers to 'an accusation or charge against someone, often in a legal context'?",
+        "options": ["accusation", "adverse", "acquisition", "align"],
+        "answer": "accusation"
+    },
+    {
+        "question": "Which word refers to 'a person or thing that is blamed or held responsible for something'?",
+        "options": ["accused", "alert", "align", "aide"],
+        "answer": "accused"
+    },
+    {
+        "question": "Which word refers to 'a chemical substance that can dissolve in water or react in some way'?",
+        "options": ["acid", "adaptation", "alert", "adoption"],
+        "answer": "acid"
+    },
+    {
+        "question": "Which word refers to 'the act of obtaining or acquiring something, especially through effort'?",
+        "options": ["acquisition", "accumulation", "adverse", "adjustment"],
+        "answer": "acquisition"
+    },
+    {
+        "question": "Which word refers to 'the process of starting or triggering something, especially an event or action'?",
+        "options": ["activation", "adopt", "acquire", "alert"],
+        "answer": "activation"
+    },
+    {
+        "question": "Which word refers to 'a person who campaigns or takes action for a cause or idea'?",
+        "options": ["activist", "adopt", "adaptation", "accuse"],
+        "answer": "activist"
+    },
+    {
+        "question": "Which word refers to 'a situation or condition that is severe, intense, or extreme in nature'?",
+        "options": ["acute", "affection", "allocate", "adopt"],
+        "answer": "acute"
+    },
+    {
+        "question": "Which word refers to 'the process of making changes to suit new conditions or environments'?",
+        "options": ["adaptation", "alert", "acquisition", "adjustment"],
+        "answer": "adaptation"
+    },
+    {
+        "question": "Which word means 'to stick to something, especially a rule or principle'?",
+        "options": ["adhere", "adopt", "affection", "allocate"],
+        "answer": "adhere"
+    },
+    {
+        "question": "Which word refers to 'a location or position next to something else'?",
+        "options": ["adjacent", "acquire", "accomplishment", "adverse"],
+        "answer": "adjacent"
+    },
+    {
+        "question": "Which word refers to 'a small change or improvement, often related to adjustments'?",
+        "options": ["adjustment", "activation", "adopt", "alert"],
+        "answer": "adjustment"
+    },
+    {
+        "question": "Which word refers to 'to manage or supervise something, such as a project or organization'?",
+        "options": ["administer", "accumulate", "acquire", "adapt"],
+        "answer": "administer"
+    },
+    {
+        "question": "Which word refers to 'related to the management or organization of something'?",
+        "options": ["administrative", "adopt", "alert", "accusation"],
+        "answer": "administrative"
+    },
+    {
+        "question": "Which word refers to 'a person who is in charge of an organization or project'?",
+        "options": ["administrator", "activist", "adopt", "alert"],
+        "answer": "administrator"
+    },
+    {
+        "question": "Which word refers to 'the action or process of entering or being allowed to enter a place, group, or institution'?",
+        "options": ["admission", "accuse", "adverse", "adjustment"],
+        "answer": "admission"
+    },
+    {
+        "question": "Which word refers to 'a person who is in the stage between childhood and adulthood'?",
+        "options": ["adolescent", "activist", "acquire", "alert"],
+        "answer": "adolescent"
+    },
+    {
+        "question": "Which word refers to 'the process of taking legal or official responsibility for a child'?",
+        "options": ["adoption", "adjustment", "acquisition", "alert"],
+        "answer": "adoption"
+    },
+    {
+        "question": "Which word refers to 'a negative or harmful effect or situation'?",
+        "options": ["adverse", "affection", "acquire", "adopt"],
+        "answer": "adverse"
+    },
+    {
+        "question": "Which word refers to 'to support or argue in favor of something or someone'?",
+        "options": ["advocate", "acquire", "adopt", "alert"],
+        "answer": "advocate"
+    },
+    {
+        "question": "Which word refers to 'something that is related to beauty or artistic expression'?",
+        "options": ["aesthetic", "adaptation", "alert", "adopt"],
+        "answer": "aesthetic"
+    },
+    {
+        "question": "Which word refers to 'a feeling of fondness or tenderness toward someone or something'?",
+        "options": ["affection", "acquire", "adjustment", "alert"],
+        "answer": "affection"
+    },
+    {
+        "question": "Which word refers to 'the consequence or result of a particular event or action'?",
+        "options": ["aftermath", "advocate", "alert", "adopt"],
+        "answer": "aftermath"
+    },
+    {
+        "question": "Which word refers to 'hostile or violent behavior or attitudes'?",
+        "options": ["aggression", "adopt", "affection", "advocate"],
+        "answer": "aggression"
+    },
+    {
+        "question": "Which word refers to 'related to farming, crops, or the cultivation of land'?",
+        "options": ["agricultural", "advocate", "alert", "adopt"],
+        "answer": "agricultural"
+    },
+    {
+        "question": "Which word refers to 'a person who provides help or support, especially in emergencies'?",
+        "options": ["aide", "alert", "advocate", "adopt"],
+        "answer": "aide"
+    },
+    {
+        "question": "Which word refers to 'a state of being aware of something or paying attention'?",
+        "options": ["alert", "adaptation", "adopt", "accuse"],
+        "answer": "alert"
+    },
+    {
+        "question": "Which word means 'to bring into a straight line or position, or make consistent'?",
+        "options": ["align", "alert", "adapt", "affection"],
+        "answer": "align"
+    },
+    {
+        "question": "Which word refers to 'a state of being arranged or positioned in relation to something else'?",
+        "options": ["alignment", "accuse", "adopt", "adjust"],
+        "answer": "alignment"
+    },
+    {
+        "question": "Which word refers to 'having similar qualities or characteristics'?",
+        "options": ["alike", "advocate", "adopt", "accuse"],
+        "answer": "alike"
+    },
+    {
+        "question": "Which word refers to 'a claim or accusation that someone has done something wrong'?",
+        "options": ["allegation", "accuse", "adopt", "adjust"],
+        "answer": "allegation"
+    },
+    {
+        "question": "Which word refers to 'to state or claim something, especially without proof'?",
+        "options": ["allege", "adopt", "accuse", "alert"],
+        "answer": "allege"
+    },
+    {
+        "question": "Which word means 'according to what is said or believed, without confirmation'?",
+        "options": ["allegedly", "accuse", "adjust", "adopt"],
+        "answer": "allegedly"
+    },
+    {
+        "question": "Which word refers to 'a union or partnership formed for a common purpose'?",
+        "options": ["alliance", "adjustment", "adopt", "accuse"],
+        "answer": "alliance"
+    },
+    {
+        "question": "Which word refers to 'to distribute or give out something for a specific purpose'?",
+        "options": ["allocate", "adapt", "advocate", "adjust"],
+        "answer": "allocate"
+    },
+    {
+        "question": "Which word refers to 'the process of distributing or assigning something'?",
+        "options": ["allocation", "adjust", "advocate", "adopt"],
+        "answer": "allocation"
+    },
+    {
+        "question": "Which word refers to 'a sum of money given regularly for a specific purpose'?",
+        "options": ["allowance", "ally", "aluminium", "apparel"],
+        "answer": "allowance"
+    },
+    {
+        "question": "Which word refers to 'a person or country that is united with another for a common purpose'?",
+        "options": ["ally", "amateur", "ambassador", "apparel"],
+        "answer": "ally"
+    },
+    {
+        "question": "Which word refers to 'a metal that is often used in construction and manufacturing, often called 'aluminum' in the U.S.'?",
+        "options": ["aluminium", "amateur", "apparel", "archive"],
+        "answer": "aluminium"
+    },
+    {
+        "question": "Which word refers to 'a person who is not professional or experienced in a particular activity'?",
+        "options": ["amateur", "apparel", "angel", "anchor"],
+        "answer": "amateur"
+    },
+    {
+        "question": "Which word refers to 'a representative of a country or organization, typically a high-ranking official'?",
+        "options": ["ambassador", "amendment", "appealing", "appoint"],
+        "answer": "ambassador"
+    },
+    {
+        "question": "Which word refers to 'to make changes to a law, document, or agreement'?",
+        "options": ["amend", "amendment", "appealing", "auction"],
+        "answer": "amend"
+    },
+    {
+        "question": "Which word refers to 'a formal change or addition to a law or document'?",
+        "options": ["amendment", "auction", "autumn", "aspire"],
+        "answer": "amendment"
+    },
+    {
+        "question": "Which word means 'in the middle of or surrounded by something'?",
+        "options": ["amid", "archive", "angel", "apparel"],
+        "answer": "amid"
+    },
+    {
+        "question": "Which word refers to 'a comparison between two things for the purpose of explanation'?",
+        "options": ["analogy", "anchor", "attribute", "aspire"],
+        "answer": "analogy"
+    },
+    {
+        "question": "Which word refers to 'a heavy object used to hold a ship in place or provide stability'?",
+        "options": ["anchor", "archive", "attain", "arena"],
+        "answer": "anchor"
+    },
+    {
+        "question": "Which word refers to 'a supernatural being often depicted as benevolent and helping humans'?",
+        "options": ["angel", "apparel", "assault", "archive"],
+        "answer": "angel"
+    },
+    {
+        "question": "Which word refers to 'something that is not named or identified by a known person or group'?",
+        "options": ["anonymous", "autumn", "audit", "amendment"],
+        "answer": "anonymous"
+    },
+    {
+        "question": "Which word refers to 'equipment or machinery designed for a particular purpose'?",
+        "options": ["apparatus", "assembly", "attain", "auction"],
+        "answer": "apparatus"
+    },
+    {
+        "question": "Which word refers to 'clothing, especially of a particular type or for a specific occasion'?",
+        "options": ["apparel", "amendment", "assault", "autonomy"],
+        "answer": "apparel"
+    },
+    {
+        "question": "Which word refers to 'having qualities that attract or interest people'?",
+        "options": ["appealing", "assess", "aspiration", "auction"],
+        "answer": "appealing"
+    },
+    {
+        "question": "Which word refers to 'a strong desire or hunger for something, usually related to food'?",
+        "options": ["appetite", "assemble", "audit", "authentic"],
+        "answer": "appetite"
+    },
+    {
+        "question": "Which word means 'to praise or applaud someone for their actions'?",
+        "options": ["applaud", "apparel", "attain", "affirm"],
+        "answer": "applaud"
+    },
+    {
+        "question": "Which word refers to 'something that is suitable or relevant in a particular situation'?",
+        "options": ["applicable", "assault", "assemble", "auction"],
+        "answer": "applicable"
+    },
+    {
+        "question": "Which word refers to 'to officially choose or appoint someone to a particular position'?",
+        "options": ["appoint", "audit", "autonomous", "affection"],
+        "answer": "appoint"
+    },
+    {
+        "question": "Which word refers to 'recognizing or showing gratitude or admiration'?",
+        "options": ["appreciation", "assemble", "apparel", "amend"],
+        "answer": "appreciation"
+    },
+    {
+        "question": "Which word means 'based on random choice or personal whim, rather than any reason or system'?",
+        "options": ["arbitrary", "attain", "assemble", "authorise"],
+        "answer": "arbitrary"
+    },
+    {
+        "question": "Which word refers to 'relating to the design and structure of buildings or other physical spaces'?",
+        "options": ["architectural", "autonomous", "apparel", "amend"],
+        "answer": "architectural"
+    },
+    {
+        "question": "Which word refers to 'a collection or store of historical records or documents'?",
+        "options": ["archive", "arena", "autumn", "asylum"],
+        "answer": "archive"
+    },
+    {
+        "question": "Which word refers to 'a place or area where events or activities happen, especially sports'?",
+        "options": ["arena", "audit", "affirm", "appealing"],
+        "answer": "arena"
+    },
+    {
+        "question": "Which word refers to 'to supply or equip with something, especially to aid or strengthen'?",
+        "options": ["arm", "array", "asylum", "assault"],
+        "answer": "arm"
+    },
+    {
+        "question": "Which word refers to 'a large number of things, typically arranged in a particular order or structure'?",
+        "options": ["array", "attain", "auction", "apparel"],
+        "answer": "array"
+    },
+    {
+        "question": "Which word refers to 'to express something clearly and effectively'?",
+        "options": ["articulate", "aspire", "autonomous", "amend"],
+        "answer": "articulate"
+    },
+    {
+        "question": "Which word refers to 'the residue left after something is burned or destroyed'?",
+        "options": ["ash", "affection", "attain", "amend"],
+        "answer": "ash"
+    },
+    {
+        "question": "Which word refers to 'a strong desire or goal, usually related to future achievements'?",
+        "options": ["aspiration", "assault", "autonomous", "auction"],
+        "answer": "aspiration"
+    },
+    {
+        "question": "Which word refers to 'to have a strong desire or ambition to achieve something'?",
+        "options": ["aspire", "attain", "assemble", "autumn"],
+        "answer": "aspire"
+    },
+    {
+        "question": "Which word refers to 'the deliberate killing of a prominent person, usually for political reasons'?",
+        "options": ["assassination", "assault", "arena", "authentic"],
+        "answer": "assassination"
+    },
+    {
+        "question": "Which word refers to 'a violent physical attack on someone'?",
+        "options": ["assault", "archive", "affection", "attain"],
+        "answer": "assault"
+    },
+    {
+        "question": "Which word refers to 'to gather people or things together for a purpose'?",
+        "options": ["assemble", "auction", "asylum", "apparel"],
+        "answer": "assemble"
+    },
+    {
+        "question": "Which word refers to 'a group of people or things that are brought together for a specific purpose'?",
+        "options": ["assembly", "assault", "assess", "authorise"],
+        "answer": "assembly"
+    },
+    {
+        "question": "Which word refers to 'to state something in a firm or confident manner'?",
+        "options": ["assert", "attain", "assemble", "auction"],
+        "answer": "assert"
+    },
+    {
+        "question": "Which word refers to 'a confident statement or declaration, especially one made without evidence'?",
+        "options": ["assertion", "autumn", "amendment", "affection"],
+        "answer": "assertion"
+    },
+    {
+        "question": "Which word refers to 'a guarantee or promise, especially in relation to safety or security'?",
+        "options": ["assurance", "autonomous", "amend", "assemble"],
+        "answer": "assurance"
+    },
+    {
+        "question": "Which word refers to 'a place of refuge or protection, especially for those in danger'?",
+        "options": ["asylum", "assault", "auction", "amend"],
+        "answer": "asylum"
+    },
+    {
+        "question": "Which word refers to 'a terrible act or event, often associated with war or cruelty'?",
+        "options": ["atrocity", "assault", "auction", "attain"],
+        "answer": "atrocity"
+    },
+    {
+        "question": "Which word refers to 'to achieve or reach something, especially a goal or objective'?",
+        "options": ["attain", "assault", "auction", "assemble"],
+        "answer": "attain"
+    },
+    {
+        "question": "Which word refers to 'the act of being present at a particular event or place'?",
+        "options": ["attendance", "amendment", "auction", "asylum"],
+        "answer": "attendance"
+    },
+    {
+        "question": "Which word refers to 'a characteristic or quality of someone or something, often used to identify it'?",
+        "options": ["attribute", "asylum", "autumn", "auction"],
+        "answer": "attribute"
+    },
+    {
+        "question": "Which word refers to 'a public sale of goods or property, often to the highest bidder'?",
+        "options": ["auction", "assault", "attain", "archive"],
+        "answer": "auction"
+    },
+    {
+        "question": "Which word refers to 'an examination of records, finances, or processes to ensure accuracy'?",
+        "options": ["audit", "assault", "asylum", "auction"],
+        "answer": "audit"
+    },
+    {
+        "question": "Which word refers to 'genuine and real, not fake or copied'?",
+        "options": ["authentic", "auto", "autonomy", "await"],
+        "answer": "authentic"
+    },
+    {
+        "question": "Which word refers to 'to give official permission for something to happen'?",
+        "options": ["authorise", "autonomy", "autumn", "availability"],
+        "answer": "authorise"
+    },
+    {
+        "question": "Which word refers to 'a type of car, often used informally'?",
+        "options": ["auto", "authentic", "availability", "autumn"],
+        "answer": "auto"
+    },
+    {
+        "question": "Which word refers to 'the right or condition of self-government, independence'?",
+        "options": ["autonomy", "autumn", "await", "authorise"],
+        "answer": "autonomy"
+    },
+    {
+        "question": "Which word refers to 'the season between summer and winter, characterized by falling leaves'?",
+        "options": ["autumn", "auto", "authentic", "authorise"],
+        "answer": "autumn"
+    },
+    {
+        "question": "Which word refers to 'the state of being available or accessible for use'?",
+        "options": ["availability", "await", "autonomy", "authentic"],
+        "answer": "availability"
+    },
+    {
+        "question": "Which word refers to 'to wait for something or someone'?",
+        "options": ["await", "auto", "availability", "autumn"],
+        "answer": "await"
+    }
+]

@@ -1,0 +1,632 @@
+[
+    {
+        "question": "Which word means 'feeling excited or ready to do something'?",
+        "options": [
+            "eager",
+            "economics",
+            "elegant",
+            "encounter"
+        ],
+        "answer": "eager"
+    },
+    {
+        "question": "Which word refers to 'the study of the production, distribution, and consumption of goods and services'?",
+        "options": [
+            "economics",
+            "editorial",
+            "eliminate",
+            "engage"
+        ],
+        "answer": "economics"
+    },
+    {
+        "question": "Which word refers to 'a person who studies economics'?",
+        "options": [
+            "economist",
+            "engage",
+            "edit",
+            "eager"
+        ],
+        "answer": "economist"
+    },
+    {
+        "question": "Which word means 'to prepare and make changes to a document or piece of writing'?",
+        "options": [
+            "edit",
+            "eager",
+            "elementary",
+            "elbow"
+        ],
+        "answer": "edit"
+    },
+    {
+        "question": "Which word refers to 'a particular version of a published book, magazine, or broadcast'?",
+        "options": [
+            "edition",
+            "elderly",
+            "engage",
+            "encounter"
+        ],
+        "answer": "edition"
+    },
+    {
+        "question": "Which word refers to 'a type of writing that expresses opinions or comments on an issue'?",
+        "options": [
+            "editorial",
+            "elegant",
+            "elementary",
+            "eliminate"
+        ],
+        "answer": "editorial"
+    },
+    {
+        "question": "Which word refers to 'achieving maximum productivity with minimum wasted effort or expense'?",
+        "options": [
+            "efficient",
+            "eager",
+            "emerge",
+            "editorial"
+        ],
+        "answer": "efficient"
+    },
+    {
+        "question": "Which word means 'to do something in a way that saves time and effort'?",
+        "options": [
+            "efficiently",
+            "engage",
+            "elbow",
+            "embrace"
+        ],
+        "answer": "efficiently"
+    },
+    {
+        "question": "Which word refers to 'a part of the body used for pushing or lifting with force'?",
+        "options": [
+            "elbow",
+            "elementary",
+            "eliminate",
+            "economics"
+        ],
+        "answer": "elbow"
+    },
+    {
+        "question": "Which word refers to 'people who are advanced in age'?",
+        "options": [
+            "elderly",
+            "embrace",
+            "economist",
+            "emotional"
+        ],
+        "answer": "elderly"
+    },
+    {
+        "question": "Which word means 'to choose someone for a particular position or role by voting'?",
+        "options": [
+            "elect",
+            "eliminate",
+            "encounter",
+            "enhance"
+        ],
+        "answer": "elect"
+    },
+    {
+        "question": "Which word refers to 'the use of scientific knowledge in industry, especially in the production of goods'?",
+        "options": [
+            "electronics",
+            "eager",
+            "elementary",
+            "editorial"
+        ],
+        "answer": "electronics"
+    },
+    {
+        "question": "Which word means 'showing refined beauty or taste'?",
+        "options": [
+            "elegant",
+            "elbow",
+            "elderly",
+            "encounter"
+        ],
+        "answer": "elegant"
+    },
+    {
+        "question": "Which word refers to 'something related to the basic or introductory level'?",
+        "options": [
+            "elementary",
+            "eliminate",
+            "eager",
+            "encounter"
+        ],
+        "answer": "elementary"
+    },
+    {
+        "question": "Which word means 'to completely remove or get rid of something'?",
+        "options": [
+            "eliminate",
+            "eager",
+            "encounter",
+            "engage"
+        ],
+        "answer": "eliminate"
+    },
+    {
+        "question": "Which word means 'in a place other than the one being considered'?",
+        "options": [
+            "elsewhere",
+            "embrace",
+            "emotional",
+            "encounter"
+        ],
+        "answer": "elsewhere"
+    },
+    {
+        "question": "Which word refers to 'to accept or support something willingly and enthusiastically'?",
+        "options": [
+            "embrace",
+            "emerge",
+            "eliminate",
+            "elbow"
+        ],
+        "answer": "embrace"
+    },
+    {
+        "question": "Which word refers to 'to come out or into view'?",
+        "options": [
+            "emerge",
+            "eager",
+            "encounter",
+            "elbow"
+        ],
+        "answer": "emerge"
+    },
+    {
+        "question": "Which word refers to 'the release of substances, such as gas or radiation'?",
+        "options": [
+            "emission",
+            "engage",
+            "elderly",
+            "elementary"
+        ],
+        "answer": "emission"
+    },
+    {
+        "question": "Which word means 'showing strong feelings or reactions'?",
+        "options": [
+            "emotional",
+            "encounter",
+            "eliminate",
+            "eager"
+        ],
+        "answer": "emotional"
+    },
+    {
+        "question": "Which word means 'in a way that involves strong feelings or reactions'?",
+        "options": [
+            "emotionally",
+            "eager",
+            "engage",
+            "elementary"
+        ],
+        "answer": "emotionally"
+    },
+    {
+        "question": "Which word refers to 'special importance, value, or significance given to something'?",
+        "options": [
+            "emphasis",
+            "eager",
+            "engage",
+            "elderly"
+        ],
+        "answer": "emphasis"
+    },
+    {
+        "question": "Which word means 'to give special importance or attention to something'?",
+        "options": [
+            "emphasize",
+            "encounter",
+            "elderly",
+            "eager"
+        ],
+        "answer": "emphasize"
+    },
+    {
+        "question": "Which word refers to 'a large and powerful group of states or countries under a single ruler'?",
+        "options": [
+            "empire",
+            "encounter",
+            "elementary",
+            "eliminate"
+        ],
+        "answer": "empire"
+    },
+    {
+        "question": "Which word means 'to make something possible or easier to happen'?",
+        "options": [
+            "enable",
+            "engage",
+            "elbow",
+            "encounter"
+        ],
+        "answer": "enable"
+    },
+    {
+        "question": "Which word refers to 'a meeting or experience, especially one that happens unexpectedly'?",
+        "options": [
+            "encounter",
+            "eager",
+            "enhance",
+            "elementary"
+        ],
+        "answer": "encounter"
+    },
+    {
+        "question": "Which word means 'to involve or participate in something'?",
+        "options": [
+            "engage",
+            "elbow",
+            "emerge",
+            "encounter"
+        ],
+        "answer": "engage"
+    },
+    {
+        "question": "Which word means 'to improve or increase something in quality or value'?",
+        "options": [
+            "enhance",
+            "eliminate",
+            "eager",
+            "elementary"
+        ],
+        "answer": "enhance"
+    },
+    {
+        "question": "Which word refers to 'something that is enjoyable or pleasing'?",
+        "options": [
+            "enjoyable",
+            "elderly",
+            "encounter",
+            "elementary"
+        ],
+        "answer": "enjoyable"
+    },
+    {
+        "question": "Which word refers to 'a request for information'?",
+        "options": [
+            "enquiry",
+            "encounter",
+            "eager",
+            "engage"
+        ],
+        "answer": "enquiry"
+    },
+    {
+        "question": "Which word means 'to make certain that something happens or is true'?",
+        "options": [
+            "ensure",
+            "encounter",
+            "eager",
+            "enhance"
+        ],
+        "answer": "ensure"
+    },
+    {
+        "question": "Which word means 'providing enjoyment or amusement'?",
+        "options": [
+            "entertaining",
+            "elementary",
+            "emotional",
+            "eager"
+        ],
+        "answer": "entertaining"
+    },
+    {
+        "question": "Which word refers to 'a strong feeling of excitement or interest'?",
+        "options": [
+            "enthusiasm",
+            "encounter",
+            "elderly",
+            "elbow"
+        ],
+        "answer": "enthusiasm"
+    },
+    {
+        "question": "Which word means 'showing excitement or passion for something'?",
+        "options": [
+            "enthusiastic",
+            "emotional",
+            "eager",
+            "elderly"
+        ],
+        "answer": "enthusiastic"
+    },
+    {
+        "question": "Which word refers to 'the whole of something, without exceptions'?",
+        "options": [
+            "entire",
+            "elementary",
+            "engage",
+            "enhance"
+        ],
+        "answer": "entire"
+    },
+    {
+        "question": "Which word means 'completely or fully'?",
+        "options": [
+            "entirely",
+            "emotional",
+            "eager",
+            "engage"
+        ],
+        "answer": "entirely"
+    },
+    {
+        "question": "Which word refers to 'a person who starts and operates a business'?",
+        "options": [
+            "entrepreneur",
+            "elderly",
+            "engage",
+            "elementary"
+        ],
+        "answer": "entrepreneur"
+    },
+    {
+        "question": "Which word refers to 'a flat, usually rectangular container for letters or other items'?",
+        "options": [
+            "envelope",
+            "editorial",
+            "elbow",
+            "engage"
+        ],
+        "answer": "envelope"
+    },
+    {
+        "question": "Which word means 'having the same amount, size, value, or status'?",
+        "options": [
+            "equal",
+            "encounter",
+            "enhance",
+            "eager"
+        ],
+        "answer": "equal"
+    },
+    {
+        "question": "Which word refers to 'to supply with necessary items or equipment'?",
+        "options": [
+            "equip",
+            "eliminate",
+            "engage",
+            "elementary"
+        ],
+        "answer": "equip"
+    },
+    {
+        "question": "Which word refers to 'something that is of equal value, amount, or meaning'?",
+        "options": [
+            "equivalent",
+            "engage",
+            "eager",
+            "elbow"
+        ],
+        "answer": "equivalent"
+    },
+    {
+        "question": "Which word refers to 'a period in history or a person's life'?",
+        "options": [
+            "era",
+            "elementary",
+            "eliminate",
+            "enhance"
+        ],
+        "answer": "era"
+    },
+    {
+        "question": "Which word refers to 'to erupt violently, often referring to a volcano or sudden outburst'?",
+        "options": ["erupt", "examine", "expand", "evaluate"],
+        "answer": "erupt"
+    },
+    {
+        "question": "Which word means 'in a fundamental or basic way'?",
+        "options": ["essentially", "estimate", "exclude", "examine"],
+        "answer": "essentially"
+    },
+    {
+        "question": "Which word refers to 'to set up or create something, such as an organization or system'?",
+        "options": ["establish", "expand", "expectation", "excuse"],
+        "answer": "establish"
+    },
+    {
+        "question": "Which word refers to 'a large area of land, especially one that is owned by someone'?",
+        "options": ["estate", "examine", "exceed", "expand"],
+        "answer": "estate"
+    },
+    {
+        "question": "Which word refers to 'an approximate calculation of the value, number, quantity, or extent of something'?",
+        "options": ["estimate", "evaluate", "exclude", "expand"],
+        "answer": "estimate"
+    },
+    {
+        "question": "Which word refers to 'the moral principles that govern a person's behavior'?",
+        "options": ["ethic", "expertise", "extend", "excuse"],
+        "answer": "ethic"
+    },
+    {
+        "question": "Which word refers to 'relating to moral principles'?",
+        "options": ["ethical", "external", "expand", "extend"],
+        "answer": "ethical"
+    },
+    {
+        "question": "Which word refers to 'relating to a specific group of people, especially those sharing a common cultural background'?",
+        "options": ["ethnic", "evident", "expand", "exceed"],
+        "answer": "ethnic"
+    },
+    {
+        "question": "Which word refers to 'to assess or judge something carefully'?",
+        "options": ["evaluate", "expand", "exclude", "excuse"],
+        "answer": "evaluate"
+    },
+    {
+        "question": "Which word refers to 'the process of judging or examining something'?",
+        "options": ["evaluation", "ethnic", "extend", "excuse"],
+        "answer": "evaluation"
+    },
+    {
+        "question": "Which word means 'in spite of being in a specific or distinct way'?",
+        "options": ["even", "exclude", "excuse", "extend"],
+        "answer": "even"
+    },
+    {
+        "question": "Which word refers to 'clearly seen or understood, obvious'?",
+        "options": ["evident", "excuse", "expand", "exclude"],
+        "answer": "evident"
+    },
+    {
+        "question": "Which word means 'morally wrong or wicked'?",
+        "options": ["evil", "expand", "ethic", "exceed"],
+        "answer": "evil"
+    },
+    {
+        "question": "Which word refers to 'the process of change or development, especially from simpler forms to more complex ones'?",
+        "options": ["evolution", "ethic", "expand", "exclude"],
+        "answer": "evolution"
+    },
+    {
+        "question": "Which word means 'to develop or change gradually over time'?",
+        "options": ["evolve", "expand", "excuse", "exclude"],
+        "answer": "evolve"
+    },
+    {
+        "question": "Which word refers to 'a formal test or trial of something, such as knowledge or skills'?",
+        "options": ["examination", "expand", "excuse", "exclude"],
+        "answer": "examination"
+    },
+    {
+        "question": "Which word refers to 'to go beyond or surpass a limit or expectation'?",
+        "options": ["exceed", "exclude", "expand", "extend"],
+        "answer": "exceed"
+    },
+    {
+        "question": "Which word refers to 'a situation where something or someone is not included'?",
+        "options": ["exception", "expand", "examine", "excuse"],
+        "answer": "exception"
+    },
+    {
+        "question": "Which word means 'more than what is necessary, normal, or acceptable'?",
+        "options": ["excessive", "expand", "excuse", "exclude"],
+        "answer": "excessive"
+    },
+    {
+        "question": "Which word means 'to leave out or not include something or someone'?",
+        "options": ["exclude", "expand", "ethic", "examine"],
+        "answer": "exclude"
+    },
+    {
+        "question": "Which word refers to 'to forgive someone or say it is acceptable'?",
+        "options": ["excuse", "expand", "evaluate", "extend"],
+        "answer": "excuse"
+    },
+    {
+        "question": "Which word refers to 'a person responsible for managing an organization or company'?",
+        "options": ["executive", "expand", "exclude", "examine"],
+        "answer": "executive"
+    },
+    {
+        "question": "Which word refers to 'the state of being alive or existing'?",
+        "options": ["existence", "expand", "exclude", "examine"],
+        "answer": "existence"
+    },
+    {
+        "question": "Which word refers to 'something that is unusual or different from what is typical'?",
+        "options": ["exotic", "expand", "exclude", "evaluate"],
+        "answer": "exotic"
+    },
+    {
+        "question": "Which word refers to 'the process of increasing in size, number, or importance'?",
+        "options": ["expansion", "expand", "exclude", "examine"],
+        "answer": "expansion"
+    },
+    {
+        "question": "Which word means 'the belief or assumption that something will happen in the future'?",
+        "options": ["expectation", "expand", "exclude", "excuse"],
+        "answer": "expectation"
+    },
+    {
+        "question": "Which word refers to 'a journey or trip made for a specific purpose, such as exploration'?",
+        "options": ["expedition", "expand", "excuse", "exclude"],
+        "answer": "expedition"
+    },
+    {
+        "question": "Which word refers to 'the total amount of money spent'?",
+        "options": ["expense", "expand", "excuse", "exclude"],
+        "answer": "expense"
+    },
+    {
+        "question": "Which word refers to 'specialized knowledge or skills in a particular area'?",
+        "options": ["expertise", "expand", "examine", "excuse"],
+        "answer": "expertise"
+    },
+    {
+        "question": "Which word means 'to use something in a way that helps you or benefits you'?",
+        "options": ["exploit", "expand", "exclude", "evaluate"],
+        "answer": "exploit"
+    },
+    {
+        "question": "Which word refers to 'the act of traveling or searching for new information, resources, or places'?",
+        "options": ["exploration", "expand", "excuse", "examine"],
+        "answer": "exploration"
+    },
+    {
+        "question": "Which word refers to 'to uncover or make something visible that was hidden or unknown'?",
+        "options": ["expose", "expand", "exclude", "excuse"],
+        "answer": "expose"
+    },
+    {
+        "question": "Which word refers to 'the act of being made visible or known to the public'?",
+        "options": ["exposure", "expand", "exclude", "excuse"],
+        "answer": "exposure"
+    },
+    {
+        "question": "Which word refers to 'to make something longer or increase its range or time'?",
+        "options": ["extend", "expand", "excuse", "exclude"],
+        "answer": "extend"
+    },
+    {
+        "question": "Which word refers to 'an addition to something, such as a building or an event'?",
+        "options": ["extension", "expand", "excuse", "exclude"],
+        "answer": "extension"
+    },
+    {
+        "question": "Which word refers to 'something that is large or comprehensive in nature or scope'?",
+        "options": ["extensive", "expand", "excuse", "exclude"],
+        "answer": "extensive"
+    },
+    {
+        "question": "Which word refers to 'something done in a large or wide manner'?",
+        "options": ["extensively", "expand", "excuse", "exclude"],
+        "answer": "extensively"
+    },
+    {
+        "question": "Which word means 'the degree or amount to which something happens or exists'?",
+        "options": ["extent", "expand", "excuse", "exclude"],
+        "answer": "extent"
+    },
+    {
+        "question": "Which word refers to 'outside or outward, or relating to the outside'?",
+        "options": ["external", "expand", "exclude", "excuse"],
+        "answer": "external"
+    },
+    {
+        "question": "Which word means 'to remove something from its source or location'?",
+        "options": ["extract", "expand", "excuse", "exclude"],
+        "answer": "extract"
+    },
+    {
+        "question": "Which word refers to 'something extraordinary, remarkable, or unusual'?",
+        "options": ["extraordinary", "expand", "exclude", "excuse"],
+        "answer": "extraordinary"
+    },
+    {
+        "question": "Which word refers to 'something that is very intense or severe'?",
+        "options": ["extreme", "expand", "excuse", "exclude"],
+        "answer": "extreme"
+    }
+]
