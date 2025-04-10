@@ -1,0 +1,202 @@
+[
+    {
+        "question": "Which word refers to 'to give attention to, often with care or effort'?",
+        "options": ["Tending", "Stumbled", "Antiquities", "Unearthed"],
+        "answer": "Tending"
+    },
+    {
+        "question": "Which word refers to 'to fall or trip by accident'?",
+        "options": ["Tending", "Stumbled", "Antiquities", "Unearthed"],
+        "answer": "Stumbled"
+    },
+    {
+        "question": "Which word refers to 'objects from ancient times, especially those of historical interest'?",
+        "options": ["Antiquities", "Unearthed", "Manuscripts", "Archaeological"],
+        "answer": "Antiquities"
+    },
+    {
+        "question": "Which word refers to 'something that has been dug out from the ground, often as an archaeological discovery'?",
+        "options": ["Unearthed", "Manuscripts", "Archaeological", "Prevailing"],
+        "answer": "Unearthed"
+    },
+    {
+        "question": "Which word refers to 'written works, especially old or historical documents'?",
+        "options": ["Manuscripts", "Archaeological", "Prevailing", "Sectarian"],
+        "answer": "Manuscripts"
+    },
+    {
+        "question": "Which word refers to 'relating to the study of human history through excavation and artifacts'?",
+        "options": ["Archaeological", "Prevailing", "Sectarian", "Parchment"],
+        "answer": "Archaeological"
+    },
+    {
+        "question": "Which word refers to 'existing or accepted at a particular time, commonly used'?",
+        "options": ["Prevailing", "Sectarian", "Parchment", "Intriguing"],
+        "answer": "Prevailing"
+    },
+    {
+        "question": "Which word refers to 'relating to or promoting division between groups based on different beliefs'?",
+        "options": ["Sectarian", "Parchment", "Intriguing", "Miscellaneous"],
+        "answer": "Sectarian"
+    },
+    {
+        "question": "Which word refers to 'a type of material, often used for writing or printing in ancient times'?",
+        "options": ["Parchment", "Intriguing", "Miscellaneous", "Deciphered"],
+        "answer": "Parchment"
+    },
+    {
+        "question": "Which word refers to 'something that catches attention because it is interesting or fascinating'?",
+        "options": ["Intriguing", "Miscellaneous", "Deciphered", "Insight"],
+        "answer": "Intriguing"
+    },
+    {
+        "question": "Which word refers to 'various, diverse in nature or kind'?",
+        "options": ["Miscellaneous", "Deciphered", "Insight", "Domestication"],
+        "answer": "Miscellaneous"
+    },
+    {
+        "question": "Which word refers to 'having been translated into understandable language, often after being coded or obscured'?",
+        "options": ["Deciphered", "Insight", "Domestication", "Strains"],
+        "answer": "Deciphered"
+    },
+    {
+        "question": "Which word refers to 'a deep understanding or perception, often about a complex issue'?",
+        "options": ["Insight", "Domestication", "Strains", "Aromatic"],
+        "answer": "Insight"
+    },
+    {
+        "question": "Which word refers to 'the process of taming or training animals or plants for human use'?",
+        "options": ["Domestication", "Strains", "Aromatic", "Sprawling"],
+        "answer": "Domestication"
+    },
+    {
+        "question": "Which word refers to 'variations or types within a group or species, often implying some difficulty or challenge'?",
+        "options": ["Strains", "Aromatic", "Sprawling", "Obscure"],
+        "answer": "Strains"
+    },
+    {
+        "question": "Which word refers to 'having a pleasant smell or fragrance'?",
+        "options": ["Aromatic", "Sprawling", "Obscure", "Staple"],
+        "answer": "Aromatic"
+    },
+    {
+        "question": "Which word refers to 'extending over a large area, often referring to land or growth'?",
+        "options": ["Sprawling", "Obscure", "Staple", "Catapulted"],
+        "answer": "Sprawling"
+    },
+    {
+        "question": "Which word refers to 'not well known or unclear, often intentionally hidden'?",
+        "options": ["Obscure", "Staple", "Catapulted", "Drought"],
+        "answer": "Obscure"
+    },
+    {
+        "question": "Which word refers to 'something commonly used or essential, such as a basic food item'?",
+        "options": ["Staple", "Catapulted", "Drought", "Thrive"],
+        "answer": "Staple"
+    },
+    {
+        "question": "Which word refers to 'to throw or launch with great force, often unexpectedly'?",
+        "options": ["Catapulted", "Drought", "Thrive", "Sheer"],
+        "answer": "Catapulted"
+    },
+    {
+        "question": "Which word refers to 'a prolonged period of abnormally low rainfall, often leading to water shortages'?",
+        "options": ["Drought", "Thrive", "Sheer", "Disregards"],
+        "answer": "Drought"
+    },
+    {
+        "question": "Which word refers to 'to grow or develop vigorously or successfully'?",
+        "options": ["Thrive", "Sheer", "Disregards", "Predecessors"],
+        "answer": "Thrive"
+    },
+    {
+        "question": "Which word refers to 'complete or utter, often used to emphasize something'?",
+        "options": ["Sheer", "Disregards", "Predecessors", "Spontaneously"],
+        "answer": "Sheer"
+    },
+    {
+        "question": "Which word refers to 'to ignore or fail to consider something or someone'?",
+        "options": ["Disregards", "Predecessors", "Spontaneously", "Endeavor"],
+        "answer": "Disregards"
+    },
+    {
+        "question": "Which word refers to 'those who came before, often in terms of roles or positions'?",
+        "options": ["Predecessors", "Spontaneously", "Endeavor", "Monumental"],
+        "answer": "Predecessors"
+    },
+    {
+        "question": "Which word refers to 'happening by chance, without premeditation or planning'?",
+        "options": ["Spontaneously", "Endeavor", "Monumental", "Duly"],
+        "answer": "Spontaneously"
+    },
+    {
+        "question": "Which word refers to 'a determined effort or attempt to achieve something'?",
+        "options": ["Endeavor", "Monumental", "Duly", "Undermines"],
+        "answer": "Endeavor"
+    },
+    {
+        "question": "Which word refers to 'of great importance or significance, often referring to a large-scale effort or achievement'?",
+        "options": ["Monumental", "Duly", "Undermines", "Postulated"],
+        "answer": "Monumental"
+    },
+    {
+        "question": "Which word refers to 'in a proper or correct manner, as expected by law or regulation'?",
+        "options": ["Duly", "Undermines", "Postulated", "Speculations"],
+        "answer": "Duly"
+    },
+    {
+        "question": "Which word refers to 'to weaken or damage something, often in a gradual or subtle way'?",
+        "options": ["Undermines", "Postulated", "Speculations", "Conceive"],
+        "answer": "Undermines"
+    },
+    {
+        "question": "Which word refers to 'suggested or assumed as a hypothesis or idea'?",
+        "options": ["Postulated", "Speculations", "Conceive", "Gleaned"],
+        "answer": "Postulated"
+    },
+    {
+        "question": "Which word refers to 'the process of forming ideas or theories without sufficient evidence'?",
+        "options": ["Speculations", "Conceive", "Gleaned", "Arbitrary"],
+        "answer": "Speculations"
+    },
+    {
+        "question": "Which word refers to 'to think of or imagine something'?",
+        "options": ["Conceive", "Gleaned", "Arbitrary", "Serendipity"],
+        "answer": "Conceive"
+    },
+    {
+        "question": "Which word refers to 'to gather or collect information, often bit by bit'?",
+        "options": ["Gleaned", "Arbitrary", "Serendipity", "Notions"],
+        "answer": "Gleaned"
+    },
+    {
+        "question": "Which word refers to 'based on random choice or personal whim, rather than reason or system'?",
+        "options": ["Arbitrary", "Serendipity", "Notions", "Ingenious"],
+        "answer": "Arbitrary"
+    },
+    {
+        "question": "Which word refers to 'a happy accident or event, often happening by chance'?",
+        "options": ["Serendipity", "Notions", "Ingenious", "Banal"],
+        "answer": "Serendipity"
+    },
+    {
+        "question": "Which word refers to 'ideas or beliefs about something, often not fully developed or substantiated'?",
+        "options": ["Notions", "Ingenious", "Banal", "Provenance"],
+        "answer": "Notions"
+    },
+    {
+        "question": "Which word refers to 'being clever, original, and inventive'?",
+        "options": ["Ingenious", "Banal", "Provenance", "Tending"],
+        "answer": "Ingenious"
+    },
+    {
+        "question": "Which word refers to 'commonplace, dull, or lacking originality'?",
+        "options": ["Banal", "Provenance", "Tending", "Stumbled"],
+        "answer": "Banal"
+    },
+    {
+        "question": "Which word refers to 'the origin or source of something, especially in terms of history or ownership'?",
+        "options": ["Provenance", "Tending", "Stumbled", "Antiquities"],
+        "answer": "Provenance"
+    }
+]
