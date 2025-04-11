@@ -1,0 +1,162 @@
+[
+    {
+        "question": "Which word means 'a set of clothes for a particular occasion or job'?",
+        "options": ["Suit", "Shed", "Groom", "Sculptures"],
+        "answer": "Suit"
+    },
+    {
+        "question": "Which word means 'to suppose something is true without proof'?",
+        "options": ["Presume", "Wander", "Justify", "Themes"],
+        "answer": "Presume"
+    },
+    {
+        "question": "Which word describes someone who is having difficulty doing something?",
+        "options": ["Struggling", "Brilliant", "Expense", "Inevitable"],
+        "answer": "Struggling"
+    },
+    {
+        "question": "Which word means 'to add items to make something more attractive'?",
+        "options": ["Decorate", "Plough", "Pickles", "Barn"],
+        "answer": "Decorate"
+    },
+    {
+        "question": "Which word refers to 'removing unwanted plants from a garden'?",
+        "options": ["Weeding", "Groom", "Carriage", "Suit"],
+        "answer": "Weeding"
+    },
+    {
+        "question": "Which word means 'it is reasonable to assume'?",
+        "options": ["Presumably", "Expense", "Worthy", "Tension"],
+        "answer": "Presumably"
+    },
+    {
+        "question": "Which word means 'focuses on a particular area or subject'?",
+        "options": ["Specialises", "Bottleneck", "Justify", "Themes"],
+        "answer": "Specialises"
+    },
+    {
+        "question": "Which word refers to 'a point of congestion or blockage'?",
+        "options": ["Bottleneck", "Contemporary", "Dimly", "Sow"],
+        "answer": "Bottleneck"
+    },
+    {
+        "question": "Which word means 'deserving of attention or respect'?",
+        "options": ["Worthy", "Expense", "Intensified", "Barn"],
+        "answer": "Worthy"
+    },
+    {
+        "question": "Which word refers to 'works of art made by carving or shaping materials'?",
+        "options": ["Sculptures", "Tractors", "Pickles", "Plough"],
+        "answer": "Sculptures"
+    },
+    {
+        "question": "Which word refers to 'powerful vehicles used in farming'?",
+        "options": ["Tractors", "Groom", "Carriage", "Dimly"],
+        "answer": "Tractors"
+    },
+    {
+        "question": "Which word means 'to turn over soil using a tool or machine'?",
+        "options": ["Plough", "Sow", "Weeding", "Decorate"],
+        "answer": "Plough"
+    },
+    {
+        "question": "Which word means 'to plant seeds in soil'?",
+        "options": ["Sow", "Pickles", "Expense", "Audit"],
+        "answer": "Sow"
+    },
+    {
+        "question": "Which word refers to 'a farm building used to store grain or house animals'?",
+        "options": ["Barn", "Shed", "Carriage", "Themes"],
+        "answer": "Barn"
+    },
+    {
+        "question": "Which word means 'to take care of appearance or clean an animal'?",
+        "options": ["Groom", "Wander", "Dimly", "Justify"],
+        "answer": "Groom"
+    },
+    {
+        "question": "Which word refers to 'vegetables preserved in vinegar or brine'?",
+        "options": ["Pickles", "Expense", "Contemporary", "Audit"],
+        "answer": "Pickles"
+    },
+    {
+        "question": "Which word means 'a small simple building used for storage'?",
+        "options": ["Shed", "Barn", "Carriage", "Suit"],
+        "answer": "Shed"
+    },
+    {
+        "question": "Which word refers to 'a wheeled vehicle, often pulled by horses'?",
+        "options": ["Carriage", "Sculptures", "Themes", "Tractors"],
+        "answer": "Carriage"
+    },
+    {
+        "question": "Which word means 'with very little light'?",
+        "options": ["Dimly", "Contemporary", "Expense", "Bottleneck"],
+        "answer": "Dimly"
+    },
+    {
+        "question": "Which word means 'modern or belonging to the present time'?",
+        "options": ["Contemporary", "Annual", "Current", "Conventional"],
+        "answer": "Contemporary"
+    },
+    {
+        "question": "Which word means 'traditional and usual'?",
+        "options": ["Conventional", "Contemporary", "Expense", "Audit"],
+        "answer": "Conventional"
+    },
+    {
+        "question": "Which word means 'extremely clever or impressive'?",
+        "options": ["Brilliant", "Bilingual", "Audit", "Expense"],
+        "answer": "Brilliant"
+    },
+    {
+        "question": "Which word refers to 'mental or emotional strain'?",
+        "options": ["Tension", "Expense", "Sow", "Audit"],
+        "answer": "Tension"
+    },
+    {
+        "question": "Which word means 'became more intense or serious'?",
+        "options": ["Intensified", "Justify", "Expense", "Audit"],
+        "answer": "Intensified"
+    },
+    {
+        "question": "Which word means 'main ideas or recurring subjects in a work or discussion'?",
+        "options": ["Themes", "Sculptures", "Audit", "Dimly"],
+        "answer": "Themes"
+    },
+    {
+        "question": "Which word refers to 'a period of one thousand years'?",
+        "options": ["Millennium", "Era", "Audit", "Expense"],
+        "answer": "Millennium"
+    },
+    {
+        "question": "Which word means 'to walk without a clear destination'?",
+        "options": ["Wander", "Staggering", "Audit", "Expense"],
+        "answer": "Wander"
+    },
+    {
+        "question": "Which word means 'able to speak two languages fluently'?",
+        "options": ["Bilingual", "Brilliant", "Audit", "Expense"],
+        "answer": "Bilingual"
+    },
+    {
+        "question": "Which word means 'very shocking or surprising in size or amount'?",
+        "options": ["Staggering", "Justify", "Contemporary", "Themes"],
+        "answer": "Staggering"
+    },
+    {
+        "question": "Which word means 'to show or prove something to be right or reasonable'?",
+        "options": ["Justify", "Worthy", "Audit", "Expense"],
+        "answer": "Justify"
+    },
+    {
+        "question": "Which word means 'the cost required for something'?",
+        "options": ["Expense", "Shed", "Audit", "Themes"],
+        "answer": "Expense"
+    },
+    {
+        "question": "Which word means 'certain to happen, unavoidable'?",
+        "options": ["Inevitable", "Expense", "Audit", "Wander"],
+        "answer": "Inevitable"
+    }
+]
