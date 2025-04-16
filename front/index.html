@@ -248,7 +248,13 @@
 <script>
     const userId = localStorage.getItem("user_id");
 
-    fetch(' https://serval-keen-visually.ngrok-free.app/leaderboard')
+    fetch(' https://serval-keen-visually.ngrok-free.app/leaderboard', {
+        method: 'GET',
+        headers: {
+            'Content-Type': 'application/json',
+            "ngrok-skip-browser-warning": "69420"
+        }
+    })
         .then(response => response.json())
         .then(data => {
             const podium = document.getElementById('leaderboard');

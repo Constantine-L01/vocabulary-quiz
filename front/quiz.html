@@ -239,10 +239,11 @@
             const [level, question_set_with_filename] = filePath.split("/");
             const question_set = question_set_with_filename.replace(".json", "");
             try {
-                const response = await fetch(' https://serval-keen-visually.ngrok-free.app/save-score', {
+                const response = await fetch('https://serval-keen-visually.ngrok-free.app/save-score', {
                     method: 'POST',
                     headers: {
                         'Content-Type': 'application/json',
+                        "ngrok-skip-browser-warning": "69420"
                     },
                     body: JSON.stringify({
                         user_id: localStorage.getItem("user_id"),

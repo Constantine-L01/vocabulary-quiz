@@ -8,8 +8,6 @@ const PORT = 3000;
 
 // Debug: show existing tables
 const tables = db.prepare("SELECT name FROM sqlite_master WHERE type='table'").all();
-console.log("Tables:", tables);
-
 // CORS middleware (adjust origin as needed for frontend)
 app.use(cors());
 
@@ -67,6 +65,7 @@ app.get('/history/:userId', (req, res) => {
 
 // Get top 3 users by total score percentage
 app.get('/leaderboard', (req, res) => {
+    console.log("leaderboard");
     const stmt = db.prepare(`
         SELECT 
             users.id AS user_id,
@@ -89,6 +88,8 @@ app.get('/leaderboard', (req, res) => {
         profile_pic: user.profile_pic,
         score: `${Math.round((user.total_correct / user.total_questions) * 100)}%`
     }));
+
+    console.log(topUsers);
 
     res.json(topUsers);
 });
