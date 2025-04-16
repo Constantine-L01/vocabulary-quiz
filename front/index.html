@@ -5,70 +5,311 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="google" content="notranslate">
-    <title>Select Quiz</title>
+    <title>Home</title>
     <link rel="stylesheet" href="style.css">
+
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f7f9fc;
+            color: #333;
+            padding-bottom: 60px;
+            /* Prevents overlap of floating button */
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 30px auto;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            gap: 30px;
+        }
+
+        /* Leaderboard Card Styling */
+        .leaderboard-card {
+            text-align: center;
+        }
+
+        .leaderboard-podium {
+            display: flex;
+            justify-content: center;
+            align-items: flex-end;
+            gap: 20px;
+            margin-top: 20px;
+        }
+
+        .leaderboard-user {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            font-size: 16px;
+            color: #333;
+            font-weight: 500;
+        }
+
+        .profile-pic {
+            object-fit: cover;
+            border-radius: 12px;
+            margin: 5px 0;
+        }
+
+        /* Champion */
+        .leaderboard-user.first .profile-pic {
+            width: 180px;
+            height: 180px;
+        }
+
+        /* Second Place */
+        .leaderboard-user.second .profile-pic {
+            width: 145px;
+            height: 145px;
+        }
+
+        /* Third Place */
+        .leaderboard-user.third .profile-pic {
+            width: 120px;
+            height: 120px;
+        }
+
+        .score {
+            font-size: 18px;
+            font-weight: bold;
+            color: #007BFF;
+            margin-bottom: 5px;
+        }
+
+        .username {
+            margin-top: 5px;
+        }
+
+        .card {
+            background-color: white;
+            border-radius: 12px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+            padding: 20px;
+        }
+
+        .card h3 {
+            margin-top: 0;
+            font-size: 22px;
+            color: #333;
+        }
+
+        .card p {
+            font-size: 16px;
+            color: #555;
+        }
+
+        .button-group {
+            display: flex;
+            gap: 20px;
+            justify-content: space-between;
+        }
+
+        .button-group button {
+            padding: 12px 25px;
+            border-radius: 8px;
+            background-color: #007BFF;
+            color: white;
+            font-size: 18px;
+            border: none;
+            text-decoration: none;
+            text-align: center;
+            width: 100%;
+            max-width: 200px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        .button-group button:hover {
+            background-color: #0056b3;
+        }
+
+        .quiz-button {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 8px;
+            font-size: 18px;
+            cursor: pointer;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+            transition: background-color 0.3s ease;
+            z-index: 10;
+        }
+
+        .quiz-button:hover {
+            background-color: #0056b3;
+        }
+
+        /* Mobile responsive */
+        @media (max-width: 768px) {
+            .container {
+                flex-direction: column;
+            }
+        }
+
+        .history-card {
+            margin-top: 20px;
+            padding: 0;
+            /* Remove inner padding */
+            background-color: #ffffff;
+            border-radius: 12px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+            overflow: hidden;
+            /* Ensures no padding around table */
+        }
+
+        .history-title {
+            text-align: center;
+            padding: 16px;
+            font-size: 22px;
+            background-color: #fff;
+            margin: 0;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .history-table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 16px;
+        }
+
+        .history-table thead {
+            background-color: #000;
+            color: #fff;
+        }
+
+        .history-table th,
+        .history-table td {
+            padding: 14px;
+            text-align: center;
+            border-bottom: 1px solid #e0e0e0;
+        }
+
+        /* Remove left and right borders by default */
+        .history-table th:first-child,
+        .history-table td:first-child {
+            padding-left: 20px;
+        }
+
+        .history-table th:last-child,
+        .history-table td:last-child {
+            padding-right: 20px;
+        }
+
+        .history-table tbody tr:nth-child(even) {
+            background-color: #fafafa;
+        }
+
+        .history-table tbody tr:hover {
+            background-color: #f0f8ff;
+        }
+    </style>
 </head>
 
 <body>
-    <div class="container" style="font-size: 20px;">
-        <h1>Welcome to the Vocabulary Quiz</h1>
-        <p>Select a question set to begin:</p>
+    <div class="container">
+        <!-- Leaderboard Card -->
+        <div class="card leaderboard-card">
+            <h3>Leaderboard</h3>
+            <div class="leaderboard-podium" id="leaderboard">
+                <!-- Leaderboard users will be inserted here -->
+            </div>
+        </div>
 
-        <label for="levelSelect"><strong>Level:</strong></label>
-        <select id="levelSelect" onchange="updateQuestionSets()">
-            <option value="B2">B2</option>
-            <option value="C1">C1</option>
-            <option value="IELTS17">IELTS 17</option>
-        </select>
-
-        <br><br>
-
-        <label for="questionSet"><strong>Question Set:</strong></label>
-        <select id="questionSet">
-            <option value="A.json">Set A</option>
-            <option value="B.json">Set B</option>
-            <option value="C.json">Set C</option>
-            <option value="D.json">Set D</option>
-            <option value="E.json">Set E</option>
-            <option value="Test2.json">Test 2</option>
-            <option value="Test2Listening.json">Test 2 Listening</option>
-        </select>
-
-        <br><br>
-
-        <label for="modeSelect"><strong>Mode:</strong></label>
-        <select id="modeSelect">
-            <option value="practice">Practice</option>
-            <option value="exam">Exam</option>
-        </select>
-
-        <button onclick="startQuiz()">Start Quiz</button>
+        <div class="card history-card">
+            <h3 class="history-title">History</h3>
+            <table class="history-table">
+                <thead>
+                    <tr>
+                        <th>No</th>
+                        <th>Time</th>
+                        <th>Level</th>
+                        <th>Set</th>
+                        <th>Score</th>
+                    </tr>
+                </thead>
+                <tbody>
+                </tbody>
+            </table>
+        </div>
     </div>
 
-    <script src="script.js"></script>
-    <script>
-        function updateQuestionSets() {
-            const level = document.getElementById("levelSelect").value;
-            const questionSetSelect = document.getElementById("questionSet");
-
-            // Optional: dynamically update question sets if each level has different sets
-            // You can implement this later, for now we assume all levels have A/B/C.json
-        }
-
-        function startQuiz() {
-            const level = document.getElementById("levelSelect").value;
-            const questionSet = document.getElementById("questionSet").value;
-            const mode = document.getElementById("modeSelect").value;
-
-            const filePath = `${level}/${questionSet}`;
-
-            localStorage.setItem("questionFile", filePath);
-            localStorage.setItem("quizMode", mode);  // Store mode
-
-            window.location.href = "quiz.html";
-        }
-
-    </script>
+    <!-- Floating Quiz Button -->
+    <button class="quiz-button" onclick="window.location.href='quiz_initialization.html'">Start New Quiz</button>
 </body>
+<script>
+    const userId = localStorage.getItem("user_id");
+
+    fetch('http://localhost:3000/leaderboard')
+        .then(response => response.json())
+        .then(data => {
+            const podium = document.getElementById('leaderboard');
+
+            const placeClassMap = {
+                1: 'first',
+                2: 'second',
+                3: 'third'
+            };
+
+            // Arrange podium visually: 3rd, 1st, 2nd
+            const sorted = [data[2], data[0], data[1]];
+
+            sorted.forEach((user, i) => {
+                if (!user) return;
+                const place = placeClassMap[user.rank];
+
+                const div = document.createElement('div');
+                div.className = `leaderboard-user ${place}`;
+                div.innerHTML = `
+                    <div class="score">${user.score}</div>
+                    <img src="images/${user.profile_pic}" alt="${user.username}" class="profile-pic">
+                    <div class="username">${user.username}</div>
+                `;
+                podium.appendChild(div);
+            });
+        })
+        .catch(err => {
+            console.error('Failed to load leaderboard:', err);
+        });
+
+    function formatDate(timestamp) {
+        const date = new Date(timestamp);
+        const day = String(date.getDate()).padStart(2, '0');
+        const month = String(date.getMonth() + 1).padStart(2, '0'); // Months are 0-based
+        const year = date.getFullYear();
+        return `${day}/${month}/${year}`;
+    }
+
+    async function loadHistory() {
+        const res = await fetch(`http://localhost:3000/history/${userId}`);
+        const data = await res.json();
+
+        const tbody = document.querySelector('.history-table tbody');
+        tbody.innerHTML = ''; // clear previous entries
+
+        data.forEach(row => {
+            const tr = document.createElement('tr');
+            time = formatDate(row.time);
+            tr.innerHTML = `
+                <td>${row.no}</td>
+                <td>${time}</td>
+                <td>${row.level}</td>
+                <td>${row.question_set}</td>
+                <td>${row.score}</td>
+            `;
+            tbody.appendChild(tr);
+        });
+    }
+
+    // Call it on page load
+    document.addEventListener('DOMContentLoaded', loadHistory);
+</script>
 
 </html>

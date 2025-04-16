@@ -3,21 +3,95 @@
 <head>
   <meta charset="UTF-8">
   <title>Login</title>
+  <style>
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f3f4f6;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+
+    .card {
+      background-color: #ffffff;
+      padding: 30px;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+      width: 320px;
+    }
+
+    h2 {
+      text-align: center;
+      margin-bottom: 20px;
+      color: #333333;
+    }
+
+    label {
+      display: block;
+      margin-bottom: 5px;
+      color: #333333;
+    }
+
+    input[type="text"],
+    input[type="password"] {
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 15px;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+    }
+
+    button {
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 10px;
+      border: none;
+      border-radius: 6px;
+      font-size: 16px;
+      cursor: pointer;
+      color: white;
+    }
+
+    button[type="submit"] {
+      background-color: #2563eb; /* Blue for user login */
+    }
+
+    button[type="button"] {
+      background-color: #6b7280; /* Gray for guest login */
+    }
+
+    button:hover {
+      opacity: 0.95;
+    }
+
+    #login-error {
+      text-align: center;
+      color: red;
+      margin-top: 10px;
+    }
+  </style>
 </head>
 <body>
-  <h2>Login</h2>
-  <form id="login-form">
-    <label>Username:</label>
-    <input type="text" id="username" required><br><br>
+  <div class="card">
+    <h2>Login</h2>
+    <form id="login-form">
+      <label>Username:</label>
+      <input type="text" id="username" required>
 
-    <label>Password:</label>
-    <input type="password" id="password" required><br><br>
+      <label>Password:</label>
+      <input type="password" id="password" required>
 
-    <button type="submit">Login</button>
-    <button type="button" onclick="guestLogin()">Login as Guest</button>
-  </form>
-
-  <p id="login-error" style="color: red;"></p>
+      <button type="submit">Login</button>
+      <button type="button" onclick="guestLogin()">Login as Guest</button>
+    </form>
+    <p id="login-error"></p>
+  </div>
 
   <script>
     document.getElementById("login-form").addEventListener("submit", async function(e) {
@@ -34,9 +108,9 @@
 
       if (response.ok) {
         const data = await response.json();
-        localStorage.setItem("username", data.username); // store for later
+        localStorage.setItem("username", data.username);
         localStorage.setItem("user_id", data.user_id);
-        window.location.href = "index.html"; // or quiz page
+        window.location.href = "index.html";
       } else {
         const err = await response.json();
         document.getElementById("login-error").innerText = err.message || "Login failed";
@@ -45,7 +119,7 @@
 
     function guestLogin() {
       localStorage.setItem("guest", "true");
-      window.location.href = "index.html"; // or quiz page
+      window.location.href = "index.html";
     }
   </script>
 </body>

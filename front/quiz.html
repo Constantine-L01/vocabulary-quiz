@@ -58,7 +58,7 @@
 
 <body>
     <h1>VocabQuiz</h1>
-    <canvas id="quiz-canvas" width="850" height="300"></canvas>
+    <canvas id="quiz-canvas" width="850" height="350"></canvas>
     <div style="margin-top: 0px;">
         <button id="nextButton" disabled>Next Question</button>
     </div>
@@ -81,7 +81,7 @@
         let attemptedQuestions = 0;
         let optionRects = [];
 
-        const questionSet = new URLSearchParams(window.location.search).get("set") || "A.json";
+        const questionSet = new URLSearchParams(window.location.search).get("set");
 
         async function loadQuestions() {
             const filePath = localStorage.getItem("questionFile");
@@ -123,26 +123,49 @@
 
             let yPosition = 50;  // Starting y position for the question text
             lines.forEach(line => {
-                ctx.fillText(line, 50, yPosition);  // Draw each line of the question
-                yPosition += 30;  // Adjust vertical spacing between lines
+                ctx.fillText(line, 50, yPosition);
+                yPosition += 30;
             });
 
-            // Draw options
+            yPosition += 30; // ← Add this extra line to create space after the question (acts like "Add space after paragraph")
+
+            // Draw options with extra spacing between characters
             const optionLabels = ["A", "B", "C", "D"];
             optionRects = [];
 
             ctx.font = "22px Arial";
+
+            const textMetrics = ctx.measureText("M"); // Get approximate text height
+            const textHeight = textMetrics.actualBoundingBoxAscent + textMetrics.actualBoundingBoxDescent;
+
             options.forEach((opt, index) => {
                 const x = 50;
                 const y = yPosition + index * 60;
-                ctx.fillText(`${optionLabels[index]}) ${opt}`, x, y);
-                optionRects.push({ x, y: y - 30, width: 700, height: 40, option: opt });
+                const spacedOption = addSpacingToText(`${optionLabels[index]}) ${opt}`);
+                ctx.fillText(spacedOption, x, y);
+                optionRects.push({
+                    x,
+                    y: y - textHeight,
+                    width: 700,
+                    height: textHeight + 10,
+                    option: opt
+                });
             });
 
             updateCounters();
             document.getElementById("result").innerText = "";
 
-            nextButton.disabled = true; // Always disable Next at the start
+            nextButton.disabled = true;
+        }
+
+        function addSpacingToText(text) {
+            const splitIndex = text.indexOf(')') + 1; // Find the end of the label, e.g., A)
+            const label = text.slice(0, splitIndex);  // A)
+            const option = text.slice(splitIndex + 1); // the actual option text, remove the space after )
+
+            // Add space between characters in the option text only
+            const spacedOption = option.split('').join('  ');
+            return `${label} ${spacedOption}`; // Keep only 1 space between label and spaced option
         }
 
         function wrapText(text, maxWidth) {
@@ -212,14 +235,19 @@
         }
 
         async function saveScore() {
+            const filePath = localStorage.getItem("questionFile");
+            const [level, question_set_with_filename] = filePath.split("/");
+            const question_set = question_set_with_filename.replace(".json", "");
             try {
                 const response = await fetch('http://localhost:3000/save-score', {
                     method: 'POST',
-                    credentials: 'include',  // Important! This sends cookies/session
                     headers: {
                         'Content-Type': 'application/json',
                     },
                     body: JSON.stringify({
+                        user_id: localStorage.getItem("user_id"),
+                        level: level,
+                        question_set: question_set,
                         correct: correctAnswers,
                         total: selectedQuestions.length,
                     }),

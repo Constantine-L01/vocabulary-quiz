@@ -1,5 +1,4 @@
 const express = require('express');
-const session = require('express-session');
 const Database = require('better-sqlite3');
 const cors = require('cors');
 
@@ -7,27 +6,16 @@ const db = new Database('quiz.db');
 const app = express();
 const PORT = 3000;
 
+// Debug: show existing tables
 const tables = db.prepare("SELECT name FROM sqlite_master WHERE type='table'").all();
 console.log("Tables:", tables);
 
+// CORS middleware (adjust origin as needed for frontend)
+app.use(cors());
+
 app.use(express.json());
 
-app.use(session({
-    secret: 'simple-secret',
-    resave: false,
-    saveUninitialized: false,
-    cookie: {
-        maxAge: 1000 * 60 * 60 * 24 * 365 * 10, // 10 years
-        secure: false
-    }
-}));
-
-app.use(cors({
-    origin: 'http://127.0.0.1:5500',  // frontend origin
-    credentials: true
-}));
-
-// Login with username and password
+// Login: check credentials, return user_id
 app.post('/login', (req, res) => {
     const { username, password } = req.body;
 
@@ -35,36 +23,74 @@ app.post('/login', (req, res) => {
     const user = stmt.get(username, password);
 
     if (user) {
-        req.session.user = { username };
-        res.json({ message: 'Login successful' });
+        res.json({
+            message: 'Login successful',
+            user_id: user.id,
+            username: user.username,
+        });
     } else {
         res.status(401).json({ error: 'Invalid username or password' });
     }
 });
 
-// Guest login
-app.post('/guest', (req, res) => {
-    req.session.user = { username: 'guest' };
-    res.json({ message: 'Logged in as guest' });
-});
-
-// Auth check
-function requireAuth(req, res, next) {
-    if (!req.session.user || req.session.user.username === 'guest') {
-        return res.status(403).json({ error: 'Not allowed for guest' });
-    }
-    next();
-}
-
-// Save score
+// Save score: client sends user_id
 app.post('/save-score', (req, res) => {
-    const { correct, total } = req.body;
-    const username = req.session.user.username;
+    const { user_id, correct, total, level, question_set } = req.body;
 
-    const stmt = db.prepare('INSERT INTO exam_scores (username, correct, total, timestamp) VALUES (?, ?, ?, ?)');
-    stmt.run(username, correct, total, Date.now());
+    const stmt = db.prepare('INSERT INTO scores (user_id, correct, total, timestamp, level, question_set) VALUES (?, ?, ?, ?, ?, ?)');
+    stmt.run(user_id, correct, total, Date.now(), level, question_set);
 
     res.json({ message: 'Score saved successfully' });
+});
+
+app.get('/history/:userId', (req, res) => {
+    const userId = req.params.userId;
+
+    const stmt = db.prepare(`
+        SELECT level, question_set, correct, total, timestamp
+        FROM scores
+        WHERE user_id = ?
+        ORDER BY timestamp DESC
+        LIMIT 50
+    `);
+
+    const rows = stmt.all(userId).map((row, index) => ({
+        no: index + 1,
+        level: row.level,
+        question_set: row.question_set,
+        score: `${Math.round((row.correct / row.total) * 100)}%`,
+        time: row.timestamp,
+    }));
+
+    res.json(rows);
+});
+
+// Get top 3 users by total score percentage
+app.get('/leaderboard', (req, res) => {
+    const stmt = db.prepare(`
+        SELECT 
+            users.id AS user_id,
+            users.username,
+            users.profile_pic,
+            SUM(scores.correct) AS total_correct,
+            SUM(scores.total) AS total_questions
+        FROM scores
+        JOIN users ON scores.user_id = users.id
+        GROUP BY users.id
+        HAVING total_questions > 0 AND total_correct > 0
+        ORDER BY (1.0 * total_correct / total_questions) DESC
+        LIMIT 3
+    `);
+
+    const topUsers = stmt.all().map((user, index) => ({
+        rank: index + 1,
+        user_id: user.user_id,
+        username: user.username,
+        profile_pic: user.profile_pic,
+        score: `${Math.round((user.total_correct / user.total_questions) * 100)}%`
+    }));
+
+    res.json(topUsers);
 });
 
 app.listen(PORT, () => {
