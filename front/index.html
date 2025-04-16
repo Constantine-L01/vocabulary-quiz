@@ -295,7 +295,13 @@
     }
 
     async function loadHistory() {
-        const res = await fetch(` https://serval-keen-visually.ngrok-free.app/history/${userId}`);
+        const res = await fetch(` https://serval-keen-visually.ngrok-free.app/history/${userId}`, {
+            method: 'GET',
+            headers: {
+                'Content-Type': 'application/json',
+                "ngrok-skip-browser-warning": "69420"
+            }
+        });
         const data = await res.json();
 
         const tbody = document.querySelector('.history-table tbody');
