@@ -248,7 +248,7 @@
 <script>
     const userId = localStorage.getItem("user_id");
 
-    fetch('http://localhost:3000/leaderboard')
+    fetch(' https://serval-keen-visually.ngrok-free.app/leaderboard')
         .then(response => response.json())
         .then(data => {
             const podium = document.getElementById('leaderboard');
@@ -289,7 +289,7 @@
     }
 
     async function loadHistory() {
-        const res = await fetch(`http://localhost:3000/history/${userId}`);
+        const res = await fetch(` https://serval-keen-visually.ngrok-free.app/history/${userId}`);
         const data = await res.json();
 
         const tbody = document.querySelector('.history-table tbody');
