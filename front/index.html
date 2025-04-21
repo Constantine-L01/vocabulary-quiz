@@ -246,16 +246,12 @@
 </body>
 <script src="script.js"></script>
 <script>
-    const userId = localStorage.getItem("user_id");
+    const userId = getUserIdFromToken();
 
-    fetch(' https://serval-keen-visually.ngrok-free.app/leaderboard', {
+    // Fetch leaderboard
+    fetchWithAuth('/leaderboard', {
         method: 'GET',
-        headers: {
-            'Content-Type': 'application/json',
-            "ngrok-skip-browser-warning": "69420"
-        }
     })
-        .then(response => response.json())
         .then(data => {
             const podium = document.getElementById('leaderboard');
 
@@ -275,7 +271,7 @@
                 const div = document.createElement('div');
                 div.className = `leaderboard-user ${place}`;
                 div.innerHTML = `
-                    <div class="score">${user.score}</div>
+                    <div class="score">${user.total_score}</div>
                     <img src="images/${user.profile_pic}" alt="${user.username}" class="profile-pic">
                     <div class="username">${user.username}</div>
                 `;
@@ -294,22 +290,18 @@
         return `${day}/${month}/${year}`;
     }
 
+    // Fetch user history
     async function loadHistory() {
-        const res = await fetch(` https://serval-keen-visually.ngrok-free.app/history/${userId}`, {
+        const data = await fetchWithAuth(`/history/${userId}`, {
             method: 'GET',
-            headers: {
-                'Content-Type': 'application/json',
-                "ngrok-skip-browser-warning": "69420"
-            }
         });
-        const data = await res.json();
 
         const tbody = document.querySelector('.history-table tbody');
         tbody.innerHTML = ''; // clear previous entries
 
         data.forEach(row => {
             const tr = document.createElement('tr');
-            time = formatDate(row.time);
+            const time = formatDate(row.time);
             tr.innerHTML = `
                 <td>${row.no}</td>
                 <td>${time}</td>
