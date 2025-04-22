@@ -6,11 +6,11 @@ const { Pool } = require('pg'); // Import PostgreSQL client
 
 // PostgreSQL connection pool
 const pool = new Pool({
-    user: 'your_username',       // Replace with your PostgreSQL username
-    host: 'localhost',           // Replace with your PostgreSQL host
-    database: 'quiz',            // Replace with your PostgreSQL database name
-    password: 'your_password',   // Replace with your PostgreSQL password
-    port: 5432,                  // Default PostgreSQL port
+    user: process.env.PG_USER || 'your_username',       // Use Render PG_USER or fallback to local
+    host: process.env.PG_HOST || 'localhost',                // Use Render PG_HOST or fallback to localhost
+    database: process.env.PG_DATABASE || 'quiz',             // Use Render PG_DATABASE or fallback to local DB
+    password: process.env.PG_PASSWORD || 'your_password', // Use Render PG_PASSWORD or fallback to local
+    port: process.env.PG_PORT || 5432,                       // Use Render PG_PORT or fallback to default port
 });
 
 const app = express();
