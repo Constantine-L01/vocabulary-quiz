@@ -1,0 +1,367 @@
+[
+    {
+        "question": "Which word refers to 'a material, typically produced by weaving or knitting textile fibers'?",
+        "options": ["Fabric", "Fake", "Fantasy", "Fee"],
+        "answer": "Fabric"
+    },
+    {
+        "question": "Which word means 'extremely good or impressive'?",
+        "options": ["Fabulous", "Fault", "Figure", "Fix"],
+        "answer": "Fabulous"
+    },
+    {
+        "question": "Which word means 'a building or service provided for a particular purpose'?",
+        "options": ["Facility", "Finance", "Finding", "File"],
+        "answer": "Facility"
+    },
+    {
+        "question": "Which word refers to 'a department in a college or university'?",
+        "options": ["Faculty", "Firm", "Fellow", "Fare"],
+        "answer": "Faculty"
+    },
+    {
+        "question": "Which word describes someone or something that did not succeed?",
+        "options": ["Failed", "Fake", "Fold", "Fame"],
+        "answer": "Failed"
+    },
+    {
+        "question": "Which word means 'lack of success'?",
+        "options": ["Failure", "Fault", "Feel", "Fantasy"],
+        "answer": "Failure"
+    },
+    {
+        "question": "Which word means 'complete trust or confidence in something or someone'?",
+        "options": ["Faith", "Favour", "Flavour", "Fee"],
+        "answer": "Faith"
+    },
+    {
+        "question": "Which word means 'not real, counterfeit'?",
+        "options": ["Fake", "Fabulous", "Flexible", "Fellow"],
+        "answer": "Fake"
+    },
+    {
+        "question": "Which word means 'the state of being known or recognized by many people'?",
+        "options": ["Fame", "Firework", "Faculty", "Fault"],
+        "answer": "Fame"
+    },
+    {
+        "question": "Which word refers to 'an imagined scenario or story that is often unrealistic'?",
+        "options": ["Fantasy", "Fabric", "Firefighter", "Finance"],
+        "answer": "Fantasy"
+    },
+    {
+        "question": "Which word refers to 'the money a passenger has to pay for travel'?",
+        "options": ["Fare", "Fee", "Fault", "Figure"],
+        "answer": "Fare"
+    },
+    {
+        "question": "Which word means 'responsibility for a mistake or wrong'?",
+        "options": ["Fault", "Faith", "Fellow", "Feel"],
+        "answer": "Fault"
+    },
+    {
+        "question": "Which word means 'an act of kindness or a helpful action'?",
+        "options": ["Favour", "Firework", "Flexible", "Fold"],
+        "answer": "Favour"
+    },
+    {
+        "question": "Which word refers to 'the soft, light covering of birds'?",
+        "options": ["Feather", "Fabric", "Flavour", "Fantasy"],
+        "answer": "Feather"
+    },
+    {
+        "question": "Which word means 'a payment made for a service or privilege'?",
+        "options": ["Fee", "File", "Feel", "Flash"],
+        "answer": "Fee"
+    },
+    {
+        "question": "Which word means 'to give food to a person or animal'?",
+        "options": ["Feed", "Fix", "Flash", "Float"],
+        "answer": "Feed"
+    },
+    {
+        "question": "Which word means 'opinions or responses about how well something is working'?",
+        "options": ["Feedback", "Finding", "Firm", "File"],
+        "answer": "Feedback"
+    },
+    {
+        "question": "Which word means 'to experience an emotion or physical sensation'?",
+        "options": ["Feel", "Figure", "Fellow", "Flame"],
+        "answer": "Feel"
+    },
+    {
+        "question": "Which word means 'a person in the same group or situation as you'?",
+        "options": ["Fellow", "Fantasy", "Fold", "Flash"],
+        "answer": "Fellow"
+    },
+    {
+        "question": "Which word can mean 'a number or a person’s shape or outline'?",
+        "options": ["Figure", "File", "Flavour", "Flame"],
+        "answer": "Figure"
+    },
+    {
+        "question": "Which word refers to 'a collection of documents or information stored together'?",
+        "options": ["File", "Finance", "Fix", "Flavour"],
+        "answer": "File"
+    },
+    {
+        "question": "Which word refers to 'money matters or the management of money'?",
+        "options": ["Finance", "Fault", "Figure", "Facility"],
+        "answer": "Finance"
+    },
+    {
+        "question": "Which word refers to 'information discovered from research or investigation'?",
+        "options": ["Finding", "File", "Faith", "Fee"],
+        "answer": "Finding"
+    },
+    {
+        "question": "Which word means 'a person whose job is to put out fires'?",
+        "options": ["Firefighter", "Figure", "Fellow", "Flavour"],
+        "answer": "Firefighter"
+    },
+    {
+        "question": "Which word means 'an explosive device used in celebrations'?",
+        "options": ["Firework", "Flavour", "Fabric", "Fake"],
+        "answer": "Firework"
+    },
+    {
+        "question": "Which word can mean 'a company' or 'strong and steady'?",
+        "options": ["Firm", "Fare", "Faith", "Fold"],
+        "answer": "Firm"
+    },
+    {
+        "question": "Which word means 'in a strong and definite way'?",
+        "options": ["Firmly", "Fabulous", "Feather", "File"],
+        "answer": "Firmly"
+    },
+    {
+        "question": "Which word means 'to repair something'?",
+        "options": ["Fix", "Fold", "Feel", "Firework"],
+        "answer": "Fix"
+    },
+    {
+        "question": "Which word refers to 'a hot, burning gas or fire'?",
+        "options": ["Flame", "Flash", "Fare", "Favour"],
+        "answer": "Flame"
+    },
+    {
+        "question": "Which word refers to 'a sudden burst of light or emotion'?",
+        "options": ["Flash", "Firm", "Fault", "Figure"],
+        "answer": "Flash"
+    },
+    {
+        "question": "Which word refers to 'the taste of food or drink'?",
+        "options": ["Flavour", "Faith", "Firefighter", "Fold"],
+        "answer": "Flavour"
+    },
+    {
+        "question": "Which word describes someone or something that can bend or adapt easily?",
+        "options": ["Flexible", "Firm", "Fellow", "Fantasy"],
+        "answer": "Flexible"
+    },
+    {
+        "question": "Which word means 'to stay on the surface of a liquid without sinking'?",
+        "options": ["Float", "Fix", "Fold", "Figure"],
+        "answer": "Float"
+    },
+    {
+        "question": "Which word means 'to bend something over onto itself'?",
+        "options": ["Fold", "Flash", "File", "Fellow"],
+        "answer": "Fold"
+    },
+    {
+        "question": "Which word means 'able to be folded'?",
+        "options": ["Folding", "Firm", "Faith", "Fare"],
+        "answer": "Folding"
+    },
+    {
+        "question": "Which word refers to 'coming next or as a result'?",
+        "options": ["Following", "Finding", "Feel", "Fake"],
+        "answer": "Following"
+    },
+    {
+        "question": "Which word means 'having a strong liking for someone or something'?",
+        "options": ["Fond", "Former", "Forum", "Fossil"],
+        "answer": "Fond"
+    },
+    {
+        "question": "Which word means 'a person who acts unwisely or lacks judgment'?",
+        "options": ["Fool", "Found", "Fraction", "Fuel"],
+        "answer": "Fool"
+    },
+    {
+        "question": "Which word means 'to not allow something'?",
+        "options": ["Forbid", "Forecast", "Fulfil", "Fund"],
+        "answer": "Forbid"
+    },
+    {
+        "question": "Which word means 'a prediction of future weather or conditions'?",
+        "options": ["Forecast", "Format", "Formation", "Frequency"],
+        "answer": "Forecast"
+    },
+    {
+        "question": "Which word means 'to stop blaming someone for a mistake or wrong'?",
+        "options": ["Forgive", "Function", "Founder", "Free"],
+        "answer": "Forgive"
+    },
+    {
+        "question": "Which word means 'the arrangement or layout of something'?",
+        "options": ["Format", "Forum", "Fraction", "Framework"],
+        "answer": "Format"
+    },
+    {
+        "question": "Which word means 'the process of being created or formed'?",
+        "options": ["Formation", "Fraction", "Frequency", "Freedom"],
+        "answer": "Formation"
+    },
+    {
+        "question": "Which word means 'previous in time or position'?",
+        "options": ["Former", "Frequent", "Fraud", "Function"],
+        "answer": "Former"
+    },
+    {
+        "question": "Which word means 'in the past'?",
+        "options": ["Formerly", "Forward", "Fossil", "Found"],
+        "answer": "Formerly"
+    },
+    {
+        "question": "Which word means 'lucky or having good fortune'?",
+        "options": ["Fortunate", "Fundamental", "Fraction", "Frequency"],
+        "answer": "Fortunate"
+    },
+    {
+        "question": "Which word means 'wealth or chance happening'?",
+        "options": ["Fortune", "Fund", "Free", "Fraud"],
+        "answer": "Fortune"
+    },
+    {
+        "question": "Which word means 'a place for public discussion or exchange of ideas'?",
+        "options": ["Forum", "Formation", "Fraction", "Founder"],
+        "answer": "Forum"
+    },
+    {
+        "question": "Which word means 'toward the front or in advance'?",
+        "options": ["Forward", "Found", "Freely", "Full-time"],
+        "answer": "Forward"
+    },
+    {
+        "question": "Which word refers to 'the remains of ancient life preserved in rock'?",
+        "options": ["Fossil", "Format", "Fraction", "Forum"],
+        "answer": "Fossil"
+    },
+    {
+        "question": "Which word means 'to establish or create an institution or organization'?",
+        "options": ["Found", "Format", "Fuel", "Forgive"],
+        "answer": "Found"
+    },
+    {
+        "question": "Which word means 'a base or groundwork for something'?",
+        "options": ["Foundation", "Fraction", "Format", "Fraud"],
+        "answer": "Foundation"
+    },
+    {
+        "question": "Which word refers to 'a person who establishes an institution or company'?",
+        "options": ["Founder", "Fool", "Function", "Fossil"],
+        "answer": "Founder"
+    },
+    {
+        "question": "Which word means 'a small part of a whole'?",
+        "options": ["Fraction", "Formation", "Format", "Forum"],
+        "answer": "Fraction"
+    },
+    {
+        "question": "Which word means 'a small broken part or piece of something'?",
+        "options": ["Fragment", "Found", "Frequency", "Founder"],
+        "answer": "Fragment"
+    },
+    {
+        "question": "Which word means 'a structure or system of rules and ideas'?",
+        "options": ["Framework", "Fraud", "Format", "Fraction"],
+        "answer": "Framework"
+    },
+    {
+        "question": "Which word means 'a dishonest act intended to deceive'?",
+        "options": ["Fraud", "Fraction", "Found", "Founder"],
+        "answer": "Fraud"
+    },
+    {
+        "question": "Which word means 'not under the control of others'?",
+        "options": ["Free", "Format", "Frequent", "Fraction"],
+        "answer": "Free"
+    },
+    {
+        "question": "Which word means 'the state of being able to act without restriction'?",
+        "options": ["Freedom", "Found", "Fraction", "Function"],
+        "answer": "Freedom"
+    },
+    {
+        "question": "Which word means 'in a way that is not restricted'?",
+        "options": ["Freely", "Fundamentally", "Format", "Formerly"],
+        "answer": "Freely"
+    },
+    {
+        "question": "Which word refers to 'the number of times something occurs in a period'?",
+        "options": ["Frequency", "Fraction", "Forum", "Formation"],
+        "answer": "Frequency"
+    },
+    {
+        "question": "Which word means 'happening often'?",
+        "options": ["Frequent", "Forward", "Fraction", "Format"],
+        "answer": "Frequent"
+    },
+    {
+        "question": "Which word means 'a source of energy like gasoline or coal'?",
+        "options": ["Fuel", "Fraction", "Function", "Format"],
+        "answer": "Fuel"
+    },
+    {
+        "question": "Which word means 'to complete or carry out something as desired'?",
+        "options": ["Fulfil", "Found", "Function", "Format"],
+        "answer": "Fulfil"
+    },
+    {
+        "question": "Which word describes a job that requires all of someone’s working hours?",
+        "options": ["Full-time", "Frequent", "Format", "Fossil"],
+        "answer": "Full-time"
+    },
+    {
+        "question": "Which word means 'completely or entirely'?",
+        "options": ["Fully", "Found", "Format", "Fragment"],
+        "answer": "Fully"
+    },
+    {
+        "question": "Which word means 'the purpose something serves or the way it works'?",
+        "options": ["Function", "Fuel", "Faith", "Favour"],
+        "answer": "Function"
+    },
+    {
+        "question": "Which word means 'money saved or made available for a particular purpose'?",
+        "options": ["Fund", "Fossil", "Function", "Format"],
+        "answer": "Fund"
+    },
+    {
+        "question": "Which word means 'serving as an essential base or core'?",
+        "options": ["Fundamental", "Forward", "Former", "Forum"],
+        "answer": "Fundamental"
+    },
+    {
+        "question": "Which word means 'in a basic and important way'?",
+        "options": ["Fundamentally", "Freely", "Fully", "Function"],
+        "answer": "Fundamentally"
+    },
+    {
+        "question": "Which word refers to 'money provided for a particular purpose'?",
+        "options": ["Funding", "Fraction", "Faith", "Format"],
+        "answer": "Funding"
+    },
+    {
+        "question": "Which word means 'very angry'?",
+        "options": ["Furious", "Fond", "Free", "Frequent"],
+        "answer": "Furious"
+    },
+    {
+        "question": "Which word means 'in addition; moreover'?",
+        "options": ["Furthermore", "Format", "Formerly", "Fraction"],
+        "answer": "Furthermore"
+    }
+]

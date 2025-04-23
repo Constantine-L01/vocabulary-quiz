@@ -1,0 +1,157 @@
+[
+    {
+        "question": "Which word means 'to obtain or achieve something, often after effort'?",
+        "options": ["Gain", "Generate", "Gesture", "Genre"],
+        "answer": "Gain"
+    },
+    {
+        "question": "Which word is a unit of measurement for liquid capacity in the US and UK?",
+        "options": ["Gallon", "Gene", "Globe", "Gaming"],
+        "answer": "Gallon"
+    },
+    {
+        "question": "Which word refers to 'playing video games or participating in the video game industry'?",
+        "options": ["Gaming", "Gain", "Genre", "Gesture"],
+        "answer": "Gaming"
+    },
+    {
+        "question": "Which word means 'a group of people, often involved in criminal activities'?",
+        "options": ["Gang", "Gene", "Gesture", "Gallon"],
+        "answer": "Gang"
+    },
+    {
+        "question": "Which word refers to a person who is homosexual?",
+        "options": ["Gay", "Gain", "Gallon", "Genuinely"],
+        "answer": "Gay"
+    },
+    {
+        "question": "Which word refers to the state of being male or female, especially in relation to social and cultural roles?",
+        "options": ["Gender", "Gene", "Genre", "Gesture"],
+        "answer": "Gender"
+    },
+    {
+        "question": "Which word refers to a unit of heredity that is transferred from a parent to offspring?",
+        "options": ["Gene", "Gain", "Gang", "Gallon"],
+        "answer": "Gene"
+    },
+    {
+        "question": "Which word means 'to create or produce something'?",
+        "options": ["Generate", "Gesture", "Genre", "Gallon"],
+        "answer": "Generate"
+    },
+    {
+        "question": "Which word relates to genes or heredity?",
+        "options": ["Genetic", "Genuine", "Gesture", "Gain"],
+        "answer": "Genetic"
+    },
+    {
+        "question": "Which word refers to a person with exceptional intellectual ability or creativity?",
+        "options": ["Genius", "Genre", "Gene", "Gaming"],
+        "answer": "Genius"
+    },
+    {
+        "question": "Which word means 'a category of art, music, or literature'?",
+        "options": ["Genre", "Gesture", "Gain", "Gallon"],
+        "answer": "Genre"
+    },
+    {
+        "question": "Which word means 'real and sincere'?",
+        "options": ["Genuine", "Genetic", "Gang", "Gaming"],
+        "answer": "Genuine"
+    },
+    {
+        "question": "Which word means 'in a sincere or honest way'?",
+        "options": ["Genuinely", "Genre", "Gain", "Gesture"],
+        "answer": "Genuinely"
+    },
+    {
+        "question": "Which word means 'a movement of part of the body to express an idea or meaning'?",
+        "options": ["Gesture", "Gene", "Gallon", "Genius"],
+        "answer": "Gesture"
+    },
+    {
+        "question": "Which word refers to the process by which businesses or other organizations develop international influence or start operating on an international scale?",
+        "options": ["Globalization", "Genre", "Generate", "Gallon"],
+        "answer": "Globalization"
+    },
+    {
+        "question": "Which word means 'the earth or a spherical representation of the earth'?",
+        "options": ["Globe", "Gain", "Gang", "Genuinely"],
+        "answer": "Globe"
+    },
+    {
+        "question": "Which word means 'made of or resembling gold'?",
+        "options": ["Golden", "Gorgeous", "Grant", "Graphic"],
+        "answer": "Golden"
+    },
+    {
+        "question": "Which word refers to the quality of being morally good or virtuous?",
+        "options": ["Goodness", "Guideline", "Gradually", "Greenhouse"],
+        "answer": "Goodness"
+    },
+    {
+        "question": "Which word means 'very beautiful or attractive'?",
+        "options": ["Gorgeous", "Golden", "Greatly", "Grant"],
+        "answer": "Gorgeous"
+    },
+    {
+        "question": "Which word means 'to officially control or lead a country or organization'?",
+        "options": ["Govern", "Grant", "Guide", "Globe"],
+        "answer": "Govern"
+    },
+    {
+        "question": "Which word means 'to take something quickly and roughly'?",
+        "options": ["Grab", "Grade", "Go", "Gorgeous"],
+        "answer": "Grab"
+    },
+    {
+        "question": "Which word refers to a level of quality or a score in school?",
+        "options": ["Grade", "Grant", "Graphic", "Globe"],
+        "answer": "Grade"
+    },
+    {
+        "question": "Which word means 'in a slow and even manner over time'?",
+        "options": ["Gradually", "Graphics", "Goodness", "Greenhouse"],
+        "answer": "Gradually"
+    },
+    {
+        "question": "Which word means 'large and impressive in size or appearance'?",
+        "options": ["Grand", "Gorgeous", "Golden", "Grade"],
+        "answer": "Grand"
+    },
+    {
+        "question": "Which word means 'to officially give something (such as money or permission)'?",
+        "options": ["Grant", "Govern", "Gorgeous", "Greatly"],
+        "answer": "Grant"
+    },
+    {
+        "question": "Which word relates to visual art, especially involving drawing, printing, or computers?",
+        "options": ["Graphic", "Grant", "Greenhouse", "Gorgeous"],
+        "answer": "Graphic"
+    },
+    {
+        "question": "Which word refers to images or designs used in books, magazines, or computers?",
+        "options": ["Graphics", "Guideline", "Grant", "Goodness"],
+        "answer": "Graphics"
+    },
+    {
+        "question": "Which word means 'to a large extent or degree'?",
+        "options": ["Greatly", "Gradually", "Graphic", "Grab"],
+        "answer": "Greatly"
+    },
+    {
+        "question": "Which word refers to a building for growing plants that is made mostly of glass?",
+        "options": ["Greenhouse", "Graphics", "Govern", "Grand"],
+        "answer": "Greenhouse"
+    },
+    {
+        "question": "Which word means 'a formal promise that something will happen or be done'?",
+        "options": ["Guarantee", "Grant", "Graphic", "Goodness"],
+        "answer": "Guarantee"
+    },
+    {
+        "question": "Which word means 'a rule or instruction that shows how something should be done'?",
+        "options": ["Guideline", "Guarantee", "Govern", "Golden"],
+        "answer": "Guideline"
+    }
+]

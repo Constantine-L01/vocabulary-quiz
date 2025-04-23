@@ -1,0 +1,272 @@
+[
+    {
+        "question": "Which word refers to the background or setting of an event or situation?",
+        "options": ["Backdrop", "Backup", "Banner", "Bay"],
+        "answer": "Backdrop"
+    },
+    {
+        "question": "Which word means 'support or help, often in the form of approval or assistance'?",
+        "options": ["Backing", "Bail", "Beam", "Bare"],
+        "answer": "Backing"
+    },
+    {
+        "question": "Which word refers to a copy of data kept in case the original is lost?",
+        "options": ["Backup", "Ballot", "Bay", "Banner"],
+        "answer": "Backup"
+    },
+    {
+        "question": "Which word means 'to pay money to release someone from jail until their trial'?",
+        "options": ["Bail", "Ballot", "Backup", "Bare"],
+        "answer": "Bail"
+    },
+    {
+        "question": "Which word refers to a process of voting, especially in secret?",
+        "options": ["Ballot", "Banner", "Battlefield", "Beast"],
+        "answer": "Ballot"
+    },
+    {
+        "question": "Which word refers to the legal state of being unable to pay debts?",
+        "options": ["Bankruptcy", "Benchmark", "Backup", "Beam"],
+        "answer": "Bankruptcy"
+    },
+    {
+        "question": "Which word refers to a long strip of cloth or paper often used for decoration or to display a message?",
+        "options": ["Banner", "Backdrop", "Bay", "Bare"],
+        "answer": "Banner"
+    },
+    {
+        "question": "Which word means 'not covered by clothing or decoration'?",
+        "options": ["Bare", "Beam", "Backup", "Battlefield"],
+        "answer": "Bare"
+    },
+    {
+        "question": "Which word refers to a large, cylindrical container used for storing liquids?",
+        "options": ["Barrel", "Bass", "Bench", "Bay"],
+        "answer": "Barrel"
+    },
+    {
+        "question": "Which word refers to a low, deep sound or the lowest adult male singing voice?",
+        "options": ["Bass", "Beam", "Behalf", "Bay"],
+        "answer": "Bass"
+    },
+    {
+        "question": "Which word refers to a place where a battle is fought?",
+        "options": ["Battlefield", "Backdrop", "Banner", "Backup"],
+        "answer": "Battlefield"
+    },
+    {
+        "question": "Which word means 'a part of the sea or lake partly enclosed by land'?",
+        "options": ["Bay", "Bare", "Backup", "Barrel"],
+        "answer": "Bay"
+    },
+    {
+        "question": "Which word refers to a ray of light or a long, sturdy piece of wood or metal used in construction?",
+        "options": ["Beam", "Bail", "Ballot", "Bench"],
+        "answer": "Beam"
+    },
+    {
+        "question": "Which word means 'a wild, dangerous animal or a brutal person'?",
+        "options": ["Beast", "Barrel", "Backdrop", "Benchmark"],
+        "answer": "Beast"
+    },
+    {
+        "question": "Which word means 'as the representative of someone'?",
+        "options": ["Behalf", "Backup", "Bail", "Bass"],
+        "answer": "Behalf"
+    },
+    {
+        "question": "Which word describes something related to the way someone behaves?",
+        "options": ["Behavioural", "Beloved", "Bizarre", "Bay"],
+        "answer": "Behavioural"
+    },
+    {
+        "question": "Which word refers to someone who is dearly loved?",
+        "options": ["Beloved", "Beast", "Bay", "Bail"],
+        "answer": "Beloved"
+    },
+    {
+        "question": "Which word means 'a long seat for multiple people, often found in parks or courts'?",
+        "options": ["Bench", "Bay", "Beam", "Backup"],
+        "answer": "Bench"
+    },
+    {
+        "question": "Which word refers to a standard point of reference used for comparison?",
+        "options": ["Benchmark", "Backdrop", "Ballot", "Bail"],
+        "answer": "Benchmark"
+    },
+    {
+        "question": "Which word means 'under or lower than something else'?",
+        "options": ["Beneath", "Backdrop", "Bay", "Barrel"],
+        "answer": "Beneath"
+    },
+    {
+        "question": "Which word refers to a person who receives benefits, especially from a will or insurance policy?",
+        "options": ["Beneficiary", "Beloved", "Ballot", "Bishop"],
+        "answer": "Beneficiary"
+    },
+    {
+        "question": "Which word means 'to be disloyal to someone who trusts you'?",
+        "options": ["Betray", "Bind", "Back", "Beam"],
+        "answer": "Betray"
+    },
+    {
+        "question": "Which word refers to a drink, usually not alcoholic?",
+        "options": ["Beverage", "Ballot", "Bass", "Beam"],
+        "answer": "Beverage"
+    },
+    {
+        "question": "Which word means 'to tie or fasten something tightly'?",
+        "options": ["Bind", "Bail", "Barrel", "Bay"],
+        "answer": "Bind"
+    },
+    {
+        "question": "Which word refers to a written account of someone’s life?",
+        "options": ["Biography", "Backup", "Ballot", "Backdrop"],
+        "answer": "Biography"
+    },
+    {
+        "question": "Which word refers to a senior member of the Christian clergy, usually in charge of a diocese?",
+        "options": ["Bishop", "Beneficiary", "Beast", "Bare"],
+        "answer": "Bishop"
+    },
+    {
+        "question": "Which word means 'very strange or unusual'?",
+        "options": ["Bizarre", "Beloved", "Beam", "Bay"],
+        "answer": "Bizarre"
+    },
+    {
+        "question": "Which word refers to the flat cutting part of a tool or weapon?",
+        "options": ["Blade", "Blast", "Bow", "Bind"],
+        "answer": "Blade"
+    },
+    {
+        "question": "Which word means 'a sudden loud noise or explosion'?",
+        "options": ["Blast", "Boom", "Bounce", "Breach"],
+        "answer": "Blast"
+    },
+    {
+        "question": "Which word means 'to lose blood due to injury'?",
+        "options": ["Bleed", "Blend", "Bless", "Boast"],
+        "answer": "Bleed"
+    },
+    {
+        "question": "Which word means 'to mix two or more substances or qualities together'?",
+        "options": ["Blend", "Bounce", "Breakdown", "Blade"],
+        "answer": "Blend"
+    },
+    {
+        "question": "Which word means 'to ask for divine favor or to make something holy'?",
+        "options": ["Bless", "Boast", "Bury", "Blast"],
+        "answer": "Bless"
+    },
+    {
+        "question": "Which word refers to 'a gift or benefit regarded as coming from a higher power'?",
+        "options": ["Blessing", "Bonus", "Breakthrough", "Behalf"],
+        "answer": "Blessing"
+    },
+    {
+        "question": "Which word means 'to speak proudly about achievements or possessions'?",
+        "options": ["Boast", "Bounce", "Buffer", "Bind"],
+        "answer": "Boast"
+    },
+    {
+        "question": "Which word refers to 'something extra or a reward given in addition to what is usual'?",
+        "options": ["Bonus", "Boundary", "Blast", "Buddy"],
+        "answer": "Bonus"
+    },
+    {
+        "question": "Which word means 'a reservation, especially for travel or accommodation'?",
+        "options": ["Booking", "Boom", "Bind", "Blade"],
+        "answer": "Booking"
+    },
+    {
+        "question": "Which word refers to 'a period of rapid growth or increase'?",
+        "options": ["Boom", "Blast", "Buddy", "Bail"],
+        "answer": "Boom"
+    },
+    {
+        "question": "Which word means 'to spring back after hitting something or being dropped'?",
+        "options": ["Bounce", "Breed", "Burst", "Buffer"],
+        "answer": "Bounce"
+    },
+    {
+        "question": "Which word refers to 'a line that marks the limits of an area'?",
+        "options": ["Boundary", "Bow", "Breach", "Bulk"],
+        "answer": "Boundary"
+    },
+    {
+        "question": "Which word refers to 'a curved weapon used to shoot arrows or a gesture of bending the upper body forward'?",
+        "options": ["Bow", "Browser", "Boom", "Bonus"],
+        "answer": "Bow"
+    },
+    {
+        "question": "Which word means 'a violation or gap in a system, law, or agreement'?",
+        "options": ["Breach", "Breakthrough", "Backup", "Burst"],
+        "answer": "Breach"
+    },
+    {
+        "question": "Which word refers to 'a failure in a system or relationship, often leading to collapse'?",
+        "options": ["Breakdown", "Browser", "Buffer", "Blast"],
+        "answer": "Breakdown"
+    },
+    {
+        "question": "Which word refers to 'a significant discovery or development that advances progress'?",
+        "options": ["Breakthrough", "Burst", "Boundary", "Blade"],
+        "answer": "Breakthrough"
+    },
+    {
+        "question": "Which word means 'to produce or reproduce animals or plants'?",
+        "options": ["Breed", "Boast", "Bounce", "Booking"],
+        "answer": "Breed"
+    },
+    {
+        "question": "Which word refers to 'a high-capacity transmission technique using a wide range of frequencies'?",
+        "options": ["Broadband", "Broadcast", "Buffer", "Banner"],
+        "answer": "Broadband"
+    },
+    {
+        "question": "Which word refers to 'a software application used to access the internet'?",
+        "options": ["Browser", "Breaker", "Booster", "Bonus"],
+        "answer": "Browser"
+    },
+    {
+        "question": "Which word means 'extremely harsh or cruel'?",
+        "options": ["Brutal", "Blunt", "Brief", "Buddy"],
+        "answer": "Brutal"
+    },
+    {
+        "question": "Which word refers to 'a close friend or companion'?",
+        "options": ["Buddy", "Boss", "Band", "Buffer"],
+        "answer": "Buddy"
+    },
+    {
+        "question": "Which word means 'something that helps prevent or reduce the impact of shock or harm'?",
+        "options": ["Buffer", "Breakthrough", "Bulk", "Bonus"],
+        "answer": "Buffer"
+    },
+    {
+        "question": "Which word refers to 'a large mass or quantity of something'?",
+        "options": ["Bulk", "Bounce", "Banner", "Boast"],
+        "answer": "Bulk"
+    },
+    {
+        "question": "Which word refers to 'a heavy load or responsibility that is difficult to carry or deal with'?",
+        "options": ["Burden", "Banner", "Buddy", "Bail"],
+        "answer": "Burden"
+    },
+    {
+        "question": "Which word means 'a complex system of administration with many rules and procedures'?",
+        "options": ["Bureaucracy", "Breakdown", "Boast", "Boundary"],
+        "answer": "Bureaucracy"
+    },
+    {
+        "question": "Which word refers to 'the act or ceremony of placing a dead body in a grave'?",
+        "options": ["Burial", "Blessing", "Break", "Boom"],
+        "answer": "Burial"
+    },
+    {
+        "question": "Which word means 'to break open or apart suddenly and forcefully'?",
+        "options": ["Burst", "Blend", "Buffer", "Bow"],
+        "answer": "Burst"
+    }
+]
