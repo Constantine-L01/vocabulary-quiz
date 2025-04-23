@@ -269,486 +269,734 @@
         ],
         "answer": "delighted"
     },
-    [
-        {
-            "question": "Which word refers to 'the act of bringing something to a place or person, usually for delivery or transfer'?",
-            "options": [
-                "delivery",
-                "demand",
-                "depressing",
-                "deposit"
-            ],
-            "answer": "delivery"
-        },
-        {
-            "question": "Which word refers to 'a need or desire for something'?",
-            "options": [
-                "demand",
-                "desire",
-                "depart",
-                "desperately"
-            ],
-            "answer": "demand"
-        },
-        {
-            "question": "Which word refers to 'a system of government where the people elect their leaders'?",
-            "options": [
-                "democracy",
-                "democratic",
-                "depression",
-                "detailed"
-            ],
-            "answer": "democracy"
-        },
-        {
-            "question": "Which word refers to 'related to or supporting democracy'?",
-            "options": [
-                "democratic",
-                "demonstrate",
-                "depress",
-                "desire"
-            ],
-            "answer": "democratic"
-        },
-        {
-            "question": "Which word means 'to show clearly or make something known'?",
-            "options": [
-                "demonstrate",
-                "deny",
-                "depart",
-                "detail"
-            ],
-            "answer": "demonstrate"
-        },
-        {
-            "question": "Which word refers to 'an event or action intended to express an opinion or support for something'?",
-            "options": [
-                "demonstration",
-                "depressing",
-                "demand",
-                "depth"
-            ],
-            "answer": "demonstration"
-        },
-        {
-            "question": "Which word means 'to refuse to admit or accept something'?",
-            "options": [
-                "deny",
-                "depart",
-                "deserve",
-                "desire"
-            ],
-            "answer": "deny"
-        },
-        {
-            "question": "Which word means 'to go away or leave'?",
-            "options": [
-                "depart",
-                "demand",
-                "depressed",
-                "deposit"
-            ],
-            "answer": "depart"
-        },
-        {
-            "question": "Which word refers to 'something or someone that relies on something else for support or existence'?",
-            "options": [
-                "dependent",
-                "detailed",
-                "deserve",
-                "depth"
-            ],
-            "answer": "dependent"
-        },
-        {
-            "question": "Which word means 'to put money into a bank or another account'?",
-            "options": [
-                "deposit",
-                "depart",
-                "demonstrate",
-                "demand"
-            ],
-            "answer": "deposit"
-        },
-        {
-            "question": "Which word means 'feeling sad or without hope'?",
-            "options": [
-                "depressed",
-                "desire",
-                "detailed",
-                "democracy"
-            ],
-            "answer": "depressed"
-        },
-        {
-            "question": "Which word refers to 'causing sadness or discouragement'?",
-            "options": [
-                "depressing",
-                "departure",
-                "demand",
-                "detail"
-            ],
-            "answer": "depressing"
-        },
-        {
-            "question": "Which word refers to 'a long period of sadness or loss of hope'?",
-            "options": [
-                "depression",
-                "demonstration",
-                "defend",
-                "departure"
-            ],
-            "answer": "depression"
-        },
-        {
-            "question": "Which word refers to 'the quality of being deep or the distance from the top to the bottom of something'?",
-            "options": [
-                "depth",
-                "detailed",
-                "dare",
-                "demand"
-            ],
-            "answer": "depth"
-        },
-        {
-            "question": "Which word means 'to obtain something from a source or origin'?",
-            "options": [
-                "derive",
-                "demonstrate",
-                "depress",
-                "dare"
-            ],
-            "answer": "derive"
-        },
-        {
-            "question": "Which word refers to 'a barren, sandy area with little vegetation'?",
-            "options": [
-                "desert",
-                "democratic",
-                "defend",
-                "depressing"
-            ],
-            "answer": "desert"
-        },
-        {
-            "question": "Which word means 'to earn or be worthy of something'?",
-            "options": [
-                "deserve",
-                "demand",
-                "depth",
-                "delete"
-            ],
-            "answer": "deserve"
-        },
-        {
-            "question": "Which word refers to 'a strong feeling or longing for something'?",
-            "options": [
-                "desire",
-                "detailed",
-                "dare",
-                "defender"
-            ],
-            "answer": "desire"
-        },
-        {
-            "question": "Which word means 'feeling a great need or want for something'?",
-            "options": [
-                "desperate",
-                "detailed",
-                "defend",
-                "depart"
-            ],
-            "answer": "desperate"
-        },
-        {
-            "question": "Which word means 'in a manner showing urgency or strong need'?",
-            "options": [
-                "desperately",
-                "detailed",
-                "delete",
-                "dare"
-            ],
-            "answer": "desperately"
-        },
-        {
-            "question": "Which word refers to 'the act of causing great damage or ruin to something'?",
-            "options": [
-                "destruction",
-                "detail",
-                "defender",
-                "demand"
-            ],
-            "answer": "destruction"
-        },
-        {
-            "question": "Which word refers to 'an item of information or knowledge'?",
-            "options": [
-                "detail",
-                "detailed",
-                "dare",
-                "democracy"
-            ],
-            "answer": "detail"
-        },
-        {
-            "question": "Which word refers to 'providing many specific facts or pieces of information'?",
-            "options": [
-                "detailed",
-                "decent",
-                "defender",
-                "demonstrate"
-            ],
-            "answer": "detailed"
-        },
-        {
-            "question": "Which word means 'to discover or identify the presence of something'?",
-            "options": ["detect", "devote", "dig", "differ"],
-            "answer": "detect"
-        },
-        {
-            "question": "Which word refers to 'the firmness of purpose or resolve'?",
-            "options": ["determination", "differ", "dime", "discount"],
-            "answer": "determination"
-        },
-        {
-            "question": "Which word means 'to give a lot of time or effort to something'?",
-            "options": ["devote", "dig", "distract", "dismiss"],
-            "answer": "devote"
-        },
-        {
-            "question": "Which word means 'to be different or unlike something else'?",
-            "options": ["differ", "detect", "devote", "district"],
-            "answer": "differ"
-        },
-        {
-            "question": "Which word means 'to break up the ground with a tool or machine'?",
-            "options": ["dig", "dime", "distract", "distribute"],
-            "answer": "dig"
-        },
-        {
-            "question": "Which word refers to 'a small coin or unit of currency, especially in the U.S.'?",
-            "options": ["dime", "discount", "district", "distract"],
-            "answer": "dime"
-        },
-        {
-            "question": "Which word refers to 'a physical or mental condition that limits a person’s movements or activities'?",
-            "options": ["disability", "dismiss", "devote", "differ"],
-            "answer": "disability"
-        },
-        {
-            "question": "Which word means 'having a physical or mental impairment'?",
-            "options": ["disabled", "discount", "dime", "distract"],
-            "answer": "disabled"
-        },
-        {
-            "question": "Which word refers to 'a disagreement or difference of opinion'?",
-            "options": ["disagreement", "distract", "district", "discourage"],
-            "answer": "disagreement"
-        },
-        {
-            "question": "Which word means 'to let down or fail to meet expectations'?",
-            "options": ["disappoint", "dismay", "distract", "devote"],
-            "answer": "disappoint"
-        },
-        {
-            "question": "Which word refers to 'a feeling of unhappiness or dissatisfaction'?",
-            "options": ["disappointment", "devote", "distract", "dime"],
-            "answer": "disappointment"
-        },
-        {
-            "question": "Which word refers to 'a flat, circular object that is used to store or play data'?",
-            "options": ["disc", "district", "dime", "devote"],
-            "answer": "disc"
-        },
-        {
-            "question": "Which word means 'training or practice that is carried out with strict rules'?",
-            "options": ["discipline", "distract", "devote", "dismiss"],
-            "answer": "discipline"
-        },
-        {
-            "question": "Which word refers to 'a reduction in price or cost'?",
-            "options": ["discount", "district", "devote", "dismay"],
-            "answer": "discount"
-        },
-        {
-            "question": "Which word means 'to discourage someone from doing something'?",
-            "options": ["discourage", "dismiss", "detect", "distract"],
-            "answer": "discourage"
-        },
-        {
-            "question": "Which word means 'not truthful or not giving honest information'?",
-            "options": ["dishonest", "district", "devote", "discount"],
-            "answer": "dishonest"
-        },
-        {
-            "question": "Which word refers to 'to send away from one's presence'?",
-            "options": ["dismiss", "detect", "devote", "dig"],
-            "answer": "dismiss"
-        },
-        {
-            "question": "Which word means 'a state of confusion or disturbance, especially in the body'?",
-            "options": ["disorder", "discourage", "district", "devote"],
-            "answer": "disorder"
-        },
-        {
-            "question": "Which word refers to 'to show or exhibit something in a noticeable way'?",
-            "options": ["display", "devote", "distract", "disc"],
-            "answer": "display"
-        },
-        {
-            "question": "Which word means 'far away in space or time'?",
-            "options": ["distant", "distinct", "dismay", "devote"],
-            "answer": "distant"
-        },
-        {
-            "question": "Which word refers to 'something that is clearly different or separate from others'?",
-            "options": ["distinct", "distract", "discourage", "devote"],
-            "answer": "distinct"
-        },
-        {
-            "question": "Which word means 'to recognize or treat something as different'?",
-            "options": ["distinguish", "distract", "devote", "dismiss"],
-            "answer": "distinguish"
-        },
-        {
-            "question": "Which word means 'to divert someone’s attention or make them lose focus'?",
-            "options": ["distract", "discount", "distract", "dime"],
-            "answer": "distract"
-        },
-        {
-            "question": "Which word refers to 'to give out or allocate something to others'?",
-            "options": ["distribute", "discourage", "devote", "district"],
-            "answer": "distribute"
-        },
-        {
-            "question": "Which word refers to 'the process of giving something out or allocating'?",
-            "options": ["distribution", "dismiss", "devote", "district"],
-            "answer": "distribution"
-        },
-        {
-            "question": "Which word refers to 'a specific area or region within a larger place'?",
-            "options": ["district", "dismiss", "distract", "depress"],
-            "answer": "district"
-        },
-        {
-            "question": "Which word means 'to interrupt or disturb someone's peace or activity'?",
-            "options": ["disturb", "distract", "devote", "discount"],
-            "answer": "disturb"
-        },
-        {
-            "question": "Which word means 'to plunge or descend into something'?",
-            "options": ["dive", "distract", "discourage", "depress"],
-            "answer": "dive"
-        },
-        {
-            "question": "Which word refers to 'having different kinds or forms'?",
-            "options": ["diverse", "district", "distract", "devote"],
-            "answer": "diverse"
-        },
-        {
-            "question": "Which word refers to 'the state of having many different types'?",
-            "options": ["diversity", "district", "devote", "dismiss"],
-            "answer": "diversity"
-        },
-        {
-            "question": "Which word means 'to separate into parts or groups'?",
-            "options": ["divide", "distract", "devote", "dismiss"],
-            "answer": "divide"
-        },
-        {
-            "question": "Which word refers to 'the action of separating something into parts or categories'?",
-            "options": ["division", "document", "drought", "dominate"],
-            "answer": "division"
-        },
-        {
-            "question": "Which word refers to 'the legal dissolution of a marriage'?",
-            "options": ["divorce", "dominant", "dozen", "drag"],
-            "answer": "divorce"
-        },
-        {
-            "question": "Which word refers to 'a written or printed record that provides information or evidence'?",
-            "options": ["document", "dull", "duration", "drought"],
-            "answer": "document"
-        },
-        {
-            "question": "Which word refers to 'something related to or occurring within a country, especially the home or family'?",
-            "options": ["domestic", "dull", "drag", "duration"],
-            "answer": "domestic"
-        },
-        {
-            "question": "Which word means 'having greater power, influence, or importance than others'?",
-            "options": ["dominant", "drag", "drought", "dull"],
-            "answer": "dominant"
-        },
-        {
-            "question": "Which word means 'to have control over or influence something or someone'?",
-            "options": ["dominate", "dull", "duration", "dot"],
-            "answer": "dominate"
-        },
-        {
-            "question": "Which word refers to 'something given freely to help a cause or charity'?",
-            "options": ["donation", "drought", "duration", "document"],
-            "answer": "donation"
-        },
-        {
-            "question": "Which word refers to 'a small round mark, spot, or point'?",
-            "options": ["dot", "domestic", "divorce", "dull"],
-            "answer": "dot"
-        },
-        {
-            "question": "Which word refers to 'moving or going in a lower direction'?",
-            "options": ["downwards", "dramatic", "dull", "drought"],
-            "answer": "downwards"
-        },
-        {
-            "question": "Which word refers to 'a group of twelve items or units'?",
-            "options": ["dozen", "document", "dominate", "divorce"],
-            "answer": "dozen"
-        },
-        {
-            "question": "Which word refers to 'a preliminary version of something, often for review or discussion'?",
-            "options": ["draft", "dull", "dynamic", "dot"],
-            "answer": "draft"
-        },
-        {
-            "question": "Which word means 'to pull something with a lot of effort or force'?",
-            "options": ["drag", "drought", "downwards", "duration"],
-            "answer": "drag"
-        },
-        {
-            "question": "Which word refers to 'something that is very noticeable or striking, often in a way that causes strong feelings'?",
-            "options": ["dramatic", "dull", "domestic", "drought"],
-            "answer": "dramatic"
-        },
-        {
-            "question": "Which word refers to 'something that happens in a very noticeable or significant way'?",
-            "options": ["dramatically", "dull", "drought", "duration"],
-            "answer": "dramatically"
-        },
-        {
-            "question": "Which word refers to 'a prolonged period of abnormally low rainfall, leading to a water shortage'?",
-            "options": ["drought", "drag", "dot", "dominate"],
-            "answer": "drought"
-        },
-        {
-            "question": "Which word means 'lacking brightness or interest; boring'?",
-            "options": ["dull", "domestic", "draft", "distract"],
-            "answer": "dull"
-        },
-        {
-            "question": "Which word means 'to throw something away or discard it'?",
-            "options": ["dump", "dozen", "document", "drag"],
-            "answer": "dump"
-        },
-        {
-            "question": "Which word refers to 'the length of time something lasts or continues'?",
-            "options": ["duration", "drag", "divorce", "dull"],
-            "answer": "duration"
-        },
-        {
-            "question": "Which word refers to 'something characterized by constant change or progress'?",
-            "options": ["dynamic", "dull", "downwards", "dot"],
-            "answer": "dynamic"
-        }
-    ]
+    {
+        "question": "Which word refers to 'the act of bringing something to a place or person, usually for delivery or transfer'?",
+        "options": [
+            "delivery",
+            "demand",
+            "depressing",
+            "deposit"
+        ],
+        "answer": "delivery"
+    },
+    {
+        "question": "Which word refers to 'a need or desire for something'?",
+        "options": [
+            "demand",
+            "desire",
+            "depart",
+            "desperately"
+        ],
+        "answer": "demand"
+    },
+    {
+        "question": "Which word refers to 'a system of government where the people elect their leaders'?",
+        "options": [
+            "democracy",
+            "democratic",
+            "depression",
+            "detailed"
+        ],
+        "answer": "democracy"
+    },
+    {
+        "question": "Which word refers to 'related to or supporting democracy'?",
+        "options": [
+            "democratic",
+            "demonstrate",
+            "depress",
+            "desire"
+        ],
+        "answer": "democratic"
+    },
+    {
+        "question": "Which word means 'to show clearly or make something known'?",
+        "options": [
+            "demonstrate",
+            "deny",
+            "depart",
+            "detail"
+        ],
+        "answer": "demonstrate"
+    },
+    {
+        "question": "Which word refers to 'an event or action intended to express an opinion or support for something'?",
+        "options": [
+            "demonstration",
+            "depressing",
+            "demand",
+            "depth"
+        ],
+        "answer": "demonstration"
+    },
+    {
+        "question": "Which word means 'to refuse to admit or accept something'?",
+        "options": [
+            "deny",
+            "depart",
+            "deserve",
+            "desire"
+        ],
+        "answer": "deny"
+    },
+    {
+        "question": "Which word means 'to go away or leave'?",
+        "options": [
+            "depart",
+            "demand",
+            "depressed",
+            "deposit"
+        ],
+        "answer": "depart"
+    },
+    {
+        "question": "Which word refers to 'something or someone that relies on something else for support or existence'?",
+        "options": [
+            "dependent",
+            "detailed",
+            "deserve",
+            "depth"
+        ],
+        "answer": "dependent"
+    },
+    {
+        "question": "Which word means 'to put money into a bank or another account'?",
+        "options": [
+            "deposit",
+            "depart",
+            "demonstrate",
+            "demand"
+        ],
+        "answer": "deposit"
+    },
+    {
+        "question": "Which word means 'feeling sad or without hope'?",
+        "options": [
+            "depressed",
+            "desire",
+            "detailed",
+            "democracy"
+        ],
+        "answer": "depressed"
+    },
+    {
+        "question": "Which word refers to 'causing sadness or discouragement'?",
+        "options": [
+            "depressing",
+            "departure",
+            "demand",
+            "detail"
+        ],
+        "answer": "depressing"
+    },
+    {
+        "question": "Which word refers to 'a long period of sadness or loss of hope'?",
+        "options": [
+            "depression",
+            "demonstration",
+            "defend",
+            "departure"
+        ],
+        "answer": "depression"
+    },
+    {
+        "question": "Which word refers to 'the quality of being deep or the distance from the top to the bottom of something'?",
+        "options": [
+            "depth",
+            "detailed",
+            "dare",
+            "demand"
+        ],
+        "answer": "depth"
+    },
+    {
+        "question": "Which word means 'to obtain something from a source or origin'?",
+        "options": [
+            "derive",
+            "demonstrate",
+            "depress",
+            "dare"
+        ],
+        "answer": "derive"
+    },
+    {
+        "question": "Which word refers to 'a barren, sandy area with little vegetation'?",
+        "options": [
+            "desert",
+            "democratic",
+            "defend",
+            "depressing"
+        ],
+        "answer": "desert"
+    },
+    {
+        "question": "Which word means 'to earn or be worthy of something'?",
+        "options": [
+            "deserve",
+            "demand",
+            "depth",
+            "delete"
+        ],
+        "answer": "deserve"
+    },
+    {
+        "question": "Which word refers to 'a strong feeling or longing for something'?",
+        "options": [
+            "desire",
+            "detailed",
+            "dare",
+            "defender"
+        ],
+        "answer": "desire"
+    },
+    {
+        "question": "Which word means 'feeling a great need or want for something'?",
+        "options": [
+            "desperate",
+            "detailed",
+            "defend",
+            "depart"
+        ],
+        "answer": "desperate"
+    },
+    {
+        "question": "Which word means 'in a manner showing urgency or strong need'?",
+        "options": [
+            "desperately",
+            "detailed",
+            "delete",
+            "dare"
+        ],
+        "answer": "desperately"
+    },
+    {
+        "question": "Which word refers to 'the act of causing great damage or ruin to something'?",
+        "options": [
+            "destruction",
+            "detail",
+            "defender",
+            "demand"
+        ],
+        "answer": "destruction"
+    },
+    {
+        "question": "Which word refers to 'an item of information or knowledge'?",
+        "options": [
+            "detail",
+            "detailed",
+            "dare",
+            "democracy"
+        ],
+        "answer": "detail"
+    },
+    {
+        "question": "Which word refers to 'providing many specific facts or pieces of information'?",
+        "options": [
+            "detailed",
+            "decent",
+            "defender",
+            "demonstrate"
+        ],
+        "answer": "detailed"
+    },
+    {
+        "question": "Which word means 'to discover or identify the presence of something'?",
+        "options": [
+            "detect",
+            "devote",
+            "dig",
+            "differ"
+        ],
+        "answer": "detect"
+    },
+    {
+        "question": "Which word refers to 'the firmness of purpose or resolve'?",
+        "options": [
+            "determination",
+            "differ",
+            "dime",
+            "discount"
+        ],
+        "answer": "determination"
+    },
+    {
+        "question": "Which word means 'to give a lot of time or effort to something'?",
+        "options": [
+            "devote",
+            "dig",
+            "distract",
+            "dismiss"
+        ],
+        "answer": "devote"
+    },
+    {
+        "question": "Which word means 'to be different or unlike something else'?",
+        "options": [
+            "differ",
+            "detect",
+            "devote",
+            "district"
+        ],
+        "answer": "differ"
+    },
+    {
+        "question": "Which word means 'to break up the ground with a tool or machine'?",
+        "options": [
+            "dig",
+            "dime",
+            "distract",
+            "distribute"
+        ],
+        "answer": "dig"
+    },
+    {
+        "question": "Which word refers to 'a small coin or unit of currency, especially in the U.S.'?",
+        "options": [
+            "dime",
+            "discount",
+            "district",
+            "distract"
+        ],
+        "answer": "dime"
+    },
+    {
+        "question": "Which word refers to 'a physical or mental condition that limits a person’s movements or activities'?",
+        "options": [
+            "disability",
+            "dismiss",
+            "devote",
+            "differ"
+        ],
+        "answer": "disability"
+    },
+    {
+        "question": "Which word means 'having a physical or mental impairment'?",
+        "options": [
+            "disabled",
+            "discount",
+            "dime",
+            "distract"
+        ],
+        "answer": "disabled"
+    },
+    {
+        "question": "Which word refers to 'a disagreement or difference of opinion'?",
+        "options": [
+            "disagreement",
+            "distract",
+            "district",
+            "discourage"
+        ],
+        "answer": "disagreement"
+    },
+    {
+        "question": "Which word means 'to let down or fail to meet expectations'?",
+        "options": [
+            "disappoint",
+            "dismay",
+            "distract",
+            "devote"
+        ],
+        "answer": "disappoint"
+    },
+    {
+        "question": "Which word refers to 'a feeling of unhappiness or dissatisfaction'?",
+        "options": [
+            "disappointment",
+            "devote",
+            "distract",
+            "dime"
+        ],
+        "answer": "disappointment"
+    },
+    {
+        "question": "Which word refers to 'a flat, circular object that is used to store or play data'?",
+        "options": [
+            "disc",
+            "district",
+            "dime",
+            "devote"
+        ],
+        "answer": "disc"
+    },
+    {
+        "question": "Which word means 'training or practice that is carried out with strict rules'?",
+        "options": [
+            "discipline",
+            "distract",
+            "devote",
+            "dismiss"
+        ],
+        "answer": "discipline"
+    },
+    {
+        "question": "Which word refers to 'a reduction in price or cost'?",
+        "options": [
+            "discount",
+            "district",
+            "devote",
+            "dismay"
+        ],
+        "answer": "discount"
+    },
+    {
+        "question": "Which word means 'to discourage someone from doing something'?",
+        "options": [
+            "discourage",
+            "dismiss",
+            "detect",
+            "distract"
+        ],
+        "answer": "discourage"
+    },
+    {
+        "question": "Which word means 'not truthful or not giving honest information'?",
+        "options": [
+            "dishonest",
+            "district",
+            "devote",
+            "discount"
+        ],
+        "answer": "dishonest"
+    },
+    {
+        "question": "Which word refers to 'to send away from one's presence'?",
+        "options": [
+            "dismiss",
+            "detect",
+            "devote",
+            "dig"
+        ],
+        "answer": "dismiss"
+    },
+    {
+        "question": "Which word means 'a state of confusion or disturbance, especially in the body'?",
+        "options": [
+            "disorder",
+            "discourage",
+            "district",
+            "devote"
+        ],
+        "answer": "disorder"
+    },
+    {
+        "question": "Which word refers to 'to show or exhibit something in a noticeable way'?",
+        "options": [
+            "display",
+            "devote",
+            "distract",
+            "disc"
+        ],
+        "answer": "display"
+    },
+    {
+        "question": "Which word means 'far away in space or time'?",
+        "options": [
+            "distant",
+            "distinct",
+            "dismay",
+            "devote"
+        ],
+        "answer": "distant"
+    },
+    {
+        "question": "Which word refers to 'something that is clearly different or separate from others'?",
+        "options": [
+            "distinct",
+            "distract",
+            "discourage",
+            "devote"
+        ],
+        "answer": "distinct"
+    },
+    {
+        "question": "Which word means 'to recognize or treat something as different'?",
+        "options": [
+            "distinguish",
+            "distract",
+            "devote",
+            "dismiss"
+        ],
+        "answer": "distinguish"
+    },
+    {
+        "question": "Which word means 'to divert someone’s attention or make them lose focus'?",
+        "options": [
+            "distract",
+            "discount",
+            "distract",
+            "dime"
+        ],
+        "answer": "distract"
+    },
+    {
+        "question": "Which word refers to 'to give out or allocate something to others'?",
+        "options": [
+            "distribute",
+            "discourage",
+            "devote",
+            "district"
+        ],
+        "answer": "distribute"
+    },
+    {
+        "question": "Which word refers to 'the process of giving something out or allocating'?",
+        "options": [
+            "distribution",
+            "dismiss",
+            "devote",
+            "district"
+        ],
+        "answer": "distribution"
+    },
+    {
+        "question": "Which word refers to 'a specific area or region within a larger place'?",
+        "options": [
+            "district",
+            "dismiss",
+            "distract",
+            "depress"
+        ],
+        "answer": "district"
+    },
+    {
+        "question": "Which word means 'to interrupt or disturb someone's peace or activity'?",
+        "options": [
+            "disturb",
+            "distract",
+            "devote",
+            "discount"
+        ],
+        "answer": "disturb"
+    },
+    {
+        "question": "Which word means 'to plunge or descend into something'?",
+        "options": [
+            "dive",
+            "distract",
+            "discourage",
+            "depress"
+        ],
+        "answer": "dive"
+    },
+    {
+        "question": "Which word refers to 'having different kinds or forms'?",
+        "options": [
+            "diverse",
+            "district",
+            "distract",
+            "devote"
+        ],
+        "answer": "diverse"
+    },
+    {
+        "question": "Which word refers to 'the state of having many different types'?",
+        "options": [
+            "diversity",
+            "district",
+            "devote",
+            "dismiss"
+        ],
+        "answer": "diversity"
+    },
+    {
+        "question": "Which word means 'to separate into parts or groups'?",
+        "options": [
+            "divide",
+            "distract",
+            "devote",
+            "dismiss"
+        ],
+        "answer": "divide"
+    },
+    {
+        "question": "Which word refers to 'the action of separating something into parts or categories'?",
+        "options": [
+            "division",
+            "document",
+            "drought",
+            "dominate"
+        ],
+        "answer": "division"
+    },
+    {
+        "question": "Which word refers to 'the legal dissolution of a marriage'?",
+        "options": [
+            "divorce",
+            "dominant",
+            "dozen",
+            "drag"
+        ],
+        "answer": "divorce"
+    },
+    {
+        "question": "Which word refers to 'a written or printed record that provides information or evidence'?",
+        "options": [
+            "document",
+            "dull",
+            "duration",
+            "drought"
+        ],
+        "answer": "document"
+    },
+    {
+        "question": "Which word refers to 'something related to or occurring within a country, especially the home or family'?",
+        "options": [
+            "domestic",
+            "dull",
+            "drag",
+            "duration"
+        ],
+        "answer": "domestic"
+    },
+    {
+        "question": "Which word means 'having greater power, influence, or importance than others'?",
+        "options": [
+            "dominant",
+            "drag",
+            "drought",
+            "dull"
+        ],
+        "answer": "dominant"
+    },
+    {
+        "question": "Which word means 'to have control over or influence something or someone'?",
+        "options": [
+            "dominate",
+            "dull",
+            "duration",
+            "dot"
+        ],
+        "answer": "dominate"
+    },
+    {
+        "question": "Which word refers to 'something given freely to help a cause or charity'?",
+        "options": [
+            "donation",
+            "drought",
+            "duration",
+            "document"
+        ],
+        "answer": "donation"
+    },
+    {
+        "question": "Which word refers to 'a small round mark, spot, or point'?",
+        "options": [
+            "dot",
+            "domestic",
+            "divorce",
+            "dull"
+        ],
+        "answer": "dot"
+    },
+    {
+        "question": "Which word refers to 'moving or going in a lower direction'?",
+        "options": [
+            "downwards",
+            "dramatic",
+            "dull",
+            "drought"
+        ],
+        "answer": "downwards"
+    },
+    {
+        "question": "Which word refers to 'a group of twelve items or units'?",
+        "options": [
+            "dozen",
+            "document",
+            "dominate",
+            "divorce"
+        ],
+        "answer": "dozen"
+    },
+    {
+        "question": "Which word refers to 'a preliminary version of something, often for review or discussion'?",
+        "options": [
+            "draft",
+            "dull",
+            "dynamic",
+            "dot"
+        ],
+        "answer": "draft"
+    },
+    {
+        "question": "Which word means 'to pull something with a lot of effort or force'?",
+        "options": [
+            "drag",
+            "drought",
+            "downwards",
+            "duration"
+        ],
+        "answer": "drag"
+    },
+    {
+        "question": "Which word refers to 'something that is very noticeable or striking, often in a way that causes strong feelings'?",
+        "options": [
+            "dramatic",
+            "dull",
+            "domestic",
+            "drought"
+        ],
+        "answer": "dramatic"
+    },
+    {
+        "question": "Which word refers to 'something that happens in a very noticeable or significant way'?",
+        "options": [
+            "dramatically",
+            "dull",
+            "drought",
+            "duration"
+        ],
+        "answer": "dramatically"
+    },
+    {
+        "question": "Which word refers to 'a prolonged period of abnormally low rainfall, leading to a water shortage'?",
+        "options": [
+            "drought",
+            "drag",
+            "dot",
+            "dominate"
+        ],
+        "answer": "drought"
+    },
+    {
+        "question": "Which word means 'lacking brightness or interest; boring'?",
+        "options": [
+            "dull",
+            "domestic",
+            "draft",
+            "distract"
+        ],
+        "answer": "dull"
+    },
+    {
+        "question": "Which word means 'to throw something away or discard it'?",
+        "options": [
+            "dump",
+            "dozen",
+            "document",
+            "drag"
+        ],
+        "answer": "dump"
+    },
+    {
+        "question": "Which word refers to 'the length of time something lasts or continues'?",
+        "options": [
+            "duration",
+            "drag",
+            "divorce",
+            "dull"
+        ],
+        "answer": "duration"
+    },
+    {
+        "question": "Which word refers to 'something characterized by constant change or progress'?",
+        "options": [
+            "dynamic",
+            "dull",
+            "downwards",
+            "dot"
+        ],
+        "answer": "dynamic"
+    }
 ]
