@@ -1,0 +1,212 @@
+[
+  {
+    "question": "Which word refers to the natural home or environment of an animal, plant, or organism?",
+    "options": ["Habitat", "Harbour", "Healthcare", "Heel"],
+    "answer": "Habitat"
+  },
+  {
+    "question": "Which word means 'to deal with or manage something successfully'?",
+    "options": ["Handle", "Heal", "Hire", "Harm"],
+    "answer": "Handle"
+  },
+  {
+    "question": "Which word refers to a place on the coast where ships can dock safely?",
+    "options": ["Harbour", "Helmet", "Heaven", "Hip"],
+    "answer": "Harbour"
+  },
+  {
+    "question": "Which word means 'physical or mental injury or damage'?",
+    "options": ["Harm", "Hell", "Herb", "Hidden"],
+    "answer": "Harm"
+  },
+  {
+    "question": "Which word means 'causing damage or injury'?",
+    "options": ["Harmful", "High", "Hilarious", "Heel"],
+    "answer": "Harmful"
+  },
+  {
+    "question": "Which word refers to the main office or center of operations of an organization?",
+    "options": ["Headquarters", "Healthcare", "Helmet", "Handle"],
+    "answer": "Headquarters"
+  },
+  {
+    "question": "Which word means 'to make someone or something healthy again'?",
+    "options": ["Heal", "Handle", "Hire", "Herb"],
+    "answer": "Heal"
+  },
+  {
+    "question": "Which word refers to the organized provision of medical services to individuals or a community?",
+    "options": ["Healthcare", "Headquarters", "Harbour", "Heaven"],
+    "answer": "Healthcare"
+  },
+  {
+    "question": "Which word means 'the ability to perceive sounds' or 'a formal session for listening to arguments or evidence'?",
+    "options": ["Hearing", "Heel", "Handle", "Hidden"],
+    "answer": "Hearing"
+  },
+  {
+    "question": "Which word refers to a place believed to be the home of God or a state of eternal peace and happiness?",
+    "options": ["Heaven", "Hell", "Herb", "Harbour"],
+    "answer": "Heaven"
+  },
+  {
+    "question": "Which word refers to the back part of the human foot below the ankle?",
+    "options": ["Heel", "Hip", "Headquarters", "Heal"],
+    "answer": "Heel"
+  },
+  {
+    "question": "Which word refers to a place thought to be the opposite of heaven, associated with suffering and punishment?",
+    "options": ["Hell", "High", "Handle", "Helmet"],
+    "answer": "Hell"
+  },
+  {
+    "question": "Which word refers to a protective covering for the head, usually worn while riding a bike or motorcycle?",
+    "options": ["Helmet", "Hearing", "Heel", "Harbour"],
+    "answer": "Helmet"
+  },
+  {
+    "question": "Which word means 'for this reason' or 'as a result'?",
+    "options": ["Hence", "Hidden", "Heal", "Hip"],
+    "answer": "Hence"
+  },
+  {
+    "question": "Which word refers to a plant used for flavoring, food, medicine, or perfume?",
+    "options": ["Herb", "Harbour", "Heel", "Hell"],
+    "answer": "Herb"
+  },
+  {
+    "question": "Which word means 'to pause before doing something because of uncertainty'?",
+    "options": ["Hesitate", "Heal", "High", "Hidden"],
+    "answer": "Hesitate"
+  },
+  {
+    "question": "Which word means 'not visible or not meant to be seen'?",
+    "options": ["Hidden", "Handle", "Helmet", "Hip"],
+    "answer": "Hidden"
+  },
+  {
+    "question": "Which word can mean 'great in amount or degree' or refer to 'a state of being intoxicated'?",
+    "options": ["High", "Heel", "Herb", "Heal"],
+    "answer": "High"
+  },
+  {
+    "question": "Which word means 'extremely funny'?",
+    "options": ["Hilarious", "Harbour", "Hidden", "Healthcare"],
+    "answer": "Hilarious"
+  },
+  {
+    "question": "Which word refers to the joint between the thigh and the torso in humans and animals?",
+    "options": ["Hip", "Heel", "Helmet", "Handle"],
+    "answer": "Hip"
+  },
+  {
+    "question": "Which word means 'to give someone a job'?",
+    "options": ["Hire", "Heal", "Handle", "Hell"],
+    "answer": "Hire"
+  },
+  {
+    "question": "Which word refers to a person who studies or writes about history?",
+    "options": ["Historian", "Host", "Household", "Humour"],
+    "answer": "Historian"
+  },
+  {
+    "question": "Which word means 'to carry or support something in your hands or arms'?",
+    "options": ["Hold", "Hook", "Hurt", "Honey"],
+    "answer": "Hold"
+  },
+  {
+    "question": "Which word means 'having a space or empty inside'?",
+    "options": ["Hollow", "Hunger", "Humorous", "House"],
+    "answer": "Hollow"
+  },
+  {
+    "question": "Which word means 'connected to a god or religion and considered sacred'?",
+    "options": ["Holy", "Honour", "Hopefully", "Housing"],
+    "answer": "Holy"
+  },
+  {
+    "question": "Which word describes someone who has no place to live?",
+    "options": ["Homeless", "Historian", "Hollow", "Hurt"],
+    "answer": "Homeless"
+  },
+  {
+    "question": "Which word refers to the quality of being truthful and sincere?",
+    "options": ["Honesty", "Honey", "Hold", "Host"],
+    "answer": "Honesty"
+  },
+  {
+    "question": "Which word is a sweet substance made by bees?",
+    "options": ["Honey", "Hunger", "Household", "Hook"],
+    "answer": "Honey"
+  },
+  {
+    "question": "Which word means 'respect or esteem given to someone or something'?",
+    "options": ["Honour", "Humorous", "Housing", "Holy"],
+    "answer": "Honour"
+  },
+  {
+    "question": "Which word refers to a curved piece of metal used for catching fish or hanging things?",
+    "options": ["Hook", "Hold", "Host", "Honey"],
+    "answer": "Hook"
+  },
+  {
+    "question": "Which word is used to express a wish or expectation for something to happen?",
+    "options": ["Hopefully", "Hollow", "Hunger", "House"],
+    "answer": "Hopefully"
+  },
+  {
+    "question": "Which word refers to a person who receives or entertains guests?",
+    "options": ["Host", "Hold", "Hook", "Humour"],
+    "answer": "Host"
+  },
+  {
+    "question": "Which word means 'a building where people live, especially one family'?",
+    "options": ["House", "Housing", "Homeless", "Hold"],
+    "answer": "House"
+  },
+  {
+    "question": "Which word refers to all the people living in one house or apartment?",
+    "options": ["Household", "Host", "Honey", "Hopefully"],
+    "answer": "Household"
+  },
+  {
+    "question": "Which word refers to buildings or apartments for people to live in?",
+    "options": ["Housing", "Hold", "Humorous", "Hook"],
+    "answer": "Housing"
+  },
+  {
+    "question": "Which word describes something funny or amusing?",
+    "options": ["Humorous", "Holy", "Honey", "Host"],
+    "answer": "Humorous"
+  },
+  {
+    "question": "Which word refers to the ability to be funny or the quality of being amusing?",
+    "options": ["Humour", "Housing", "Hold", "Hopefully"],
+    "answer": "Humour"
+  },
+  {
+    "question": "Which word refers to the physical feeling you get when you need food?",
+    "options": ["Hunger", "Hollow", "Host", "Hook"],
+    "answer": "Hunger"
+  },
+  {
+    "question": "Which word means 'to chase and try to catch or kill wild animals'?",
+    "options": ["Hunt", "Hold", "Housing", "Humour"],
+    "answer": "Hunt"
+  },
+  {
+    "question": "Which word refers to the activity of looking for or killing wild animals for food or sport?",
+    "options": ["Hunting", "Hopefully", "Honey", "Host"],
+    "answer": "Hunting"
+  },
+  {
+    "question": "Which word means 'to cause pain or injury'?",
+    "options": ["Hurt", "Hold", "Hook", "Hollow"],
+    "answer": "Hurt"
+  },
+  {
+    "question": "Which word refers to an idea or theory that is not yet proven but is used as the basis for further study or research?",
+    "options": ["Hypothesis", "Historian", "Housing", "Hold"],
+    "answer": "Hypothesis"
+  }
+]

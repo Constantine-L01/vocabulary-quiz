@@ -1,0 +1,807 @@
+[
+  {
+    "question": "Which word refers to a cupboard or piece of furniture with shelves or drawers used for storing things?",
+    "options": ["Cabinet", "Canvas", "Cargo", "Carriage"],
+    "answer": "Cabinet"
+  },
+  {
+    "question": "Which word refers to the process of using numbers to find out an amount or value?",
+    "options": ["Calculation", "Caution", "Catalogue", "Clash"],
+    "answer": "Calculation"
+  },
+  {
+    "question": "Which word refers to a strong cloth used by artists for painting or by printers for printing?",
+    "options": ["Canvas", "Cattle", "Capitalist", "Casino"],
+    "answer": "Canvas"
+  },
+  {
+    "question": "Which word refers to the ability or power to do something?",
+    "options": ["Capability", "Clarify", "Cling", "Civic"],
+    "answer": "Capability"
+  },
+  {
+    "question": "Which word refers to an economic system where trade and industry are controlled by private owners for profit?",
+    "options": ["Capitalism", "Cargo", "Cemetery", "Charter"],
+    "answer": "Capitalism"
+  },
+  {
+    "question": "Which word refers to a person who supports or believes in capitalism?",
+    "options": ["Capitalist", "Citizen", "Clash", "Charm"],
+    "answer": "Capitalist"
+  },
+  {
+    "question": "Which word refers to goods carried by a ship, plane, or other large vehicle?",
+    "options": ["Cargo", "Catalogue", "Chunk", "Choir"],
+    "answer": "Cargo"
+  },
+  {
+    "question": "Which word refers to a vehicle pulled by horses, used in the past to carry people?",
+    "options": ["Carriage", "Canvas", "Cease", "Chaos"],
+    "answer": "Carriage"
+  },
+  {
+    "question": "Which word means 'to cut into something to make a shape or design'?",
+    "options": ["Carve", "Cater", "Cling", "Clarify"],
+    "answer": "Carve"
+  },
+  {
+    "question": "Which word refers to a building where people gamble or play games of chance?",
+    "options": ["Casino", "Cabinet", "Civilian", "Characterise"],
+    "answer": "Casino"
+  },
+  {
+    "question": "Which word refers to a person injured or killed in an accident or war?",
+    "options": ["Casualty", "Citizen", "Canvas", "Calculation"],
+    "answer": "Casualty"
+  },
+  {
+    "question": "Which word refers to a list of items arranged in a specific order, often with descriptions?",
+    "options": ["Catalogue", "Cargo", "Chaos", "Clinical"],
+    "answer": "Catalogue"
+  },
+  {
+    "question": "Which word means 'to provide food or service for an event or group'?",
+    "options": ["Cater", "Caution", "Capitalist", "Canvas"],
+    "answer": "Cater"
+  },
+  {
+    "question": "Which word refers to large farm animals such as cows and bulls?",
+    "options": ["Cattle", "Civic", "Clarify", "Carve"],
+    "answer": "Cattle"
+  },
+  {
+    "question": "Which word refers to care taken to avoid danger or mistakes?",
+    "options": ["Caution", "Clash", "Cater", "Cemetery"],
+    "answer": "Caution"
+  },
+  {
+    "question": "Which word means 'being careful to avoid danger or risk'?",
+    "options": ["Cautious", "Clinical", "Chunk", "Characterise"],
+    "answer": "Cautious"
+  },
+  {
+    "question": "Which word means 'to stop happening or to end something'?",
+    "options": ["Cease", "Cling", "Capitalism", "Clarify"],
+    "answer": "Cease"
+  },
+  {
+    "question": "Which word refers to a place where dead people are buried?",
+    "options": ["Cemetery", "Cabinet", "Charter", "Canvas"],
+    "answer": "Cemetery"
+  },
+  {
+    "question": "Which word refers to a large room, especially one used for meetings or official purposes?",
+    "options": ["Chamber", "Cargo", "Citizen", "Clash"],
+    "answer": "Chamber"
+  },
+  {
+    "question": "Which word refers to a state of complete disorder and confusion?",
+    "options": ["Chaos", "Caution", "Capitalist", "Catalogue"],
+    "answer": "Chaos"
+  },
+  {
+    "question": "Which word means 'to describe the distinctive nature or features of something'?",
+    "options": ["Characterise", "Cling", "Chunk", "Clarify"],
+    "answer": "Characterise"
+  },
+  {
+    "question": "Which word refers to a pleasing or attractive quality or feature?",
+    "options": ["Charm", "Civic", "Canvas", "Casualty"],
+    "answer": "Charm"
+  },
+  {
+    "question": "Which word refers to a formal document outlining rights or permissions granted to an organization or group?",
+    "options": ["Charter", "Catalogue", "Chunk", "Chaos"],
+    "answer": "Charter"
+  },
+  {
+    "question": "Which word refers to a group of people who sing together, usually in a church?",
+    "options": ["Choir", "Cargo", "Canvas", "Cattle"],
+    "answer": "Choir"
+  },
+  {
+    "question": "Which word describes a disease or condition that continues for a long time or keeps coming back?",
+    "options": ["Chronic", "Clash", "Calculation", "Casino"],
+    "answer": "Chronic"
+  },
+  {
+    "question": "Which word refers to a thick piece or lump of something?",
+    "options": ["Chunk", "Civic", "Cater", "Clarify"],
+    "answer": "Chunk"
+  },
+  {
+    "question": "Which word means 'to move or cause to move continuously or freely through a closed system or area'?",
+    "options": ["Circulate", "Carve", "Caution", "Cease"],
+    "answer": "Circulate"
+  },
+  {
+    "question": "Which word refers to the movement of something (like air, money, or information) around a system?",
+    "options": ["Circulation", "Canvas", "Citizen", "Cling"],
+    "answer": "Circulation"
+  },
+  {
+    "question": "Which word refers to the status of being a legal member of a country?",
+    "options": ["Citizenship", "Chaos", "Cargo", "Chamber"],
+    "answer": "Citizenship"
+  },
+  {
+    "question": "Which word relates to the duties or activities of people in relation to their town or city?",
+    "options": ["Civic", "Clarity", "Carve", "Choir"],
+    "answer": "Civic"
+  },
+  {
+    "question": "Which word refers to a person who is not a member of the armed forces or the police?",
+    "options": ["Civilian", "Cargo", "Capitalist", "Catalogue"],
+    "answer": "Civilian"
+  },
+  {
+    "question": "Which word means 'the quality of being clear and easy to understand'?",
+    "options": ["Clarity", "Clash", "Calculation", "Cease"],
+    "answer": "Clarity"
+  },
+  {
+    "question": "Which word means 'a conflict or fight, especially between two opposing groups'?",
+    "options": ["Clash", "Cater", "Canvas", "Chronic"],
+    "answer": "Clash"
+  },
+  {
+    "question": "Which word means 'the act of arranging things into groups or categories based on shared qualities'?",
+    "options": ["Classification", "Capitalism", "Clarify", "Characterise"],
+    "answer": "Classification"
+  },
+  {
+    "question": "Which word means 'to hold on tightly to someone or something'?",
+    "options": ["Cling", "Canvas", "Cease", "Cargo"],
+    "answer": "Cling"
+  },
+  {
+    "question": "Which word describes something related to the observation and treatment of actual patients, rather than theoretical or laboratory studies?",
+    "options": ["Clinical", "Capitalist", "Catalogue", "Clarity"],
+    "answer": "Clinical"
+  },
+  {
+    "question": "Which word refers to the act of closing something or bringing it to an end?",
+    "options": ["Closure", "Cluster", "Concession", "Combat"],
+    "answer": "Closure"
+  },
+  {
+    "question": "Which word refers to a group of similar things or people positioned closely together?",
+    "options": ["Cluster", "Columnist", "Commence", "Cocktail"],
+    "answer": "Cluster"
+  },
+  {
+    "question": "Which word refers to a temporary alliance of political parties or groups?",
+    "options": ["Coalition", "Commentator", "Combat", "Companion"],
+    "answer": "Coalition"
+  },
+  {
+    "question": "Which word describes something that is located near or along the coast?",
+    "options": ["Coastal", "Closure", "Compute", "Colonial"],
+    "answer": "Coastal"
+  },
+  {
+    "question": "Which word refers to an alcoholic mixed drink, usually served in a glass?",
+    "options": ["Cocktail", "Cluster", "Commodity", "Compliance"],
+    "answer": "Cocktail"
+  },
+  {
+    "question": "Which word relates to the mental processes of perception, memory, judgment, and reasoning?",
+    "options": ["Cognitive", "Civic", "Complement", "Conceive"],
+    "answer": "Cognitive"
+  },
+  {
+    "question": "Which word means 'to happen at the same time'?",
+    "options": ["Coincide", "Compile", "Compensate", "Commentary"],
+    "answer": "Coincide"
+  },
+  {
+    "question": "Which word means 'to work together with someone to achieve a shared goal'?",
+    "options": ["Collaborate", "Commentator", "Combat", "Conceive"],
+    "answer": "Collaborate"
+  },
+  {
+    "question": "Which word refers to the act of working together with others to achieve something?",
+    "options": ["Collaboration", "Complication", "Commence", "Concession"],
+    "answer": "Collaboration"
+  },
+  {
+    "question": "Which word refers to a group or shared action done by people working together?",
+    "options": ["Collective", "Columnist", "Combat", "Compelling"],
+    "answer": "Collective"
+  },
+  {
+    "question": "Which word means 'an accident in which two or more objects crash into each other'?",
+    "options": ["Collision", "Closure", "Compliance", "Cognitive"],
+    "answer": "Collision"
+  },
+  {
+    "question": "Which word describes things relating to a colony or colonies, especially in history?",
+    "options": ["Colonial", "Cognitive", "Comparable", "Commentary"],
+    "answer": "Colonial"
+  },
+  {
+    "question": "Which word refers to a person who regularly writes articles giving opinions or commentary in newspapers or magazines?",
+    "options": ["Columnist", "Companion", "Compiler", "Commissioner"],
+    "answer": "Columnist"
+  },
+  {
+    "question": "Which word means 'to fight or struggle against something or someone'?",
+    "options": ["Combat", "Conceal", "Commence", "Concede"],
+    "answer": "Combat"
+  },
+  {
+    "question": "Which word means 'to begin or start something'?",
+    "options": ["Commence", "Commentary", "Closure", "Cluster"],
+    "answer": "Commence"
+  },
+  {
+    "question": "Which word refers to a spoken or written explanation or criticism of something, especially in media or sports?",
+    "options": ["Commentary", "Commodity", "Compliance", "Coalition"],
+    "answer": "Commentary"
+  },
+  {
+    "question": "Which word refers to someone who describes events, especially on TV or radio, such as sports or news?",
+    "options": ["Commentator", "Compiler", "Cognitive", "Columnist"],
+    "answer": "Commentator"
+  },
+  {
+    "question": "Which word refers to the activity of buying and selling, especially on a large scale?",
+    "options": ["Commerce", "Cluster", "Compliance", "Complication"],
+    "answer": "Commerce"
+  },
+  {
+    "question": "Which word refers to a person with official authority in a government department or other organization?",
+    "options": ["Commissioner", "Columnist", "Clash", "Compiler"],
+    "answer": "Commissioner"
+  },
+  {
+    "question": "Which word refers to a raw material or primary agricultural product that can be bought and sold?",
+    "options": ["Commodity", "Cocktail", "Compensation", "Combat"],
+    "answer": "Commodity"
+  },
+  {
+    "question": "Which word refers to someone who supports the ideas of communism?",
+    "options": ["Communist", "Coalition", "Complication", "Concession"],
+    "answer": "Communist"
+  },
+  {
+    "question": "Which word refers to a person you spend a lot of time with or travel with?",
+    "options": ["Companion", "Compiler", "Cognitive", "Combat"],
+    "answer": "Companion"
+  },
+  {
+    "question": "Which word means 'able to be compared or similar in size, amount, or quality'?",
+    "options": ["Comparable", "Commentator", "Conceive", "Closure"],
+    "answer": "Comparable"
+  },
+  {
+    "question": "Which word refers to a feeling of deep sympathy and concern for someone suffering?",
+    "options": ["Compassion", "Coalition", "Commence", "Conceal"],
+    "answer": "Compassion"
+  },
+  {
+    "question": "Which word means 'to force someone to do something'?",
+    "options": ["Compel", "Compile", "Commerce", "Columnist"],
+    "answer": "Compel"
+  },
+  {
+    "question": "Which word describes something that is very interesting or powerful, and holds your attention?",
+    "options": ["Compelling", "Combat", "Cluster", "Cognitive"],
+    "answer": "Compelling"
+  },
+  {
+    "question": "Which word means 'to give money or something else in return for work, loss, or injury'?",
+    "options": ["Compensate", "Commentary", "Comparable", "Combat"],
+    "answer": "Compensate"
+  },
+  {
+    "question": "Which word refers to the money given to someone to make up for loss, damage, or injury?",
+    "options": ["Compensation", "Compliance", "Closure", "Commerce"],
+    "answer": "Compensation"
+  },
+  {
+    "question": "Which word means 'the ability to do something successfully or efficiently'?",
+    "options": ["Competence", "Commence", "Coalition", "Compute"],
+    "answer": "Competence"
+  },
+  {
+    "question": "Which word describes someone who has the necessary skills or knowledge to do something well?",
+    "options": ["Competent", "Compelling", "Cognitive", "Coastal"],
+    "answer": "Competent"
+  },
+  {
+    "question": "Which word means 'to collect information into a single list or report'?",
+    "options": ["Compile", "Commentator", "Concede", "Complication"],
+    "answer": "Compile"
+  },
+  {
+    "question": "Which word refers to something that completes or enhances something else?",
+    "options": ["Complement", "Combat", "Compensation", "Compel"],
+    "answer": "Complement"
+  },
+  {
+    "question": "Which word refers to the state of being difficult or having many parts that are connected in a hard-to-understand way?",
+    "options": ["Complexity", "Commence", "Cluster", "Clash"],
+    "answer": "Complexity"
+  },
+  {
+    "question": "Which word refers to following rules or standards, especially official ones?",
+    "options": ["Compliance", "Complication", "Commerce", "Compassion"],
+    "answer": "Compliance"
+  },
+  {
+    "question": "Which word refers to a difficulty or problem that makes a situation more complex?",
+    "options": ["Complication", "Companion", "Closure", "Compile"],
+    "answer": "Complication"
+  },
+  {
+    "question": "Which word means 'to act in accordance with rules, requests, or commands'?",
+    "options": ["Comply", "Coincide", "Compile", "Concede"],
+    "answer": "Comply"
+  },
+  {
+    "question": "Which word refers to the way in which something is put together or arranged, especially in writing or music?",
+    "options": ["Composition", "Cluster", "Complement", "Compel"],
+    "answer": "Composition"
+  },
+  {
+    "question": "Which word means 'to settle a dispute by each side giving up something'?",
+    "options": ["Compromise", "Commentary", "Compliance", "Combat"],
+    "answer": "Compromise"
+  },
+  {
+    "question": "Which word means 'to calculate or determine something using a computer or mathematical methods'?",
+    "options": ["Compute", "Compile", "Combat", "Compare"],
+    "answer": "Compute"
+  },
+  {
+    "question": "Which word means 'to hide or keep something secret'?",
+    "options": ["Conceal", "Concede", "Cluster", "Commence"],
+    "answer": "Conceal"
+  },
+  {
+    "question": "Which word means 'to admit that something is true or valid after first denying or resisting it'?",
+    "options": ["Concede", "Compensate", "Combat", "Cater"],
+    "answer": "Concede"
+  },
+  {
+    "question": "Which word means 'to form or create an idea in the mind'?",
+    "options": ["Conceive", "Compile", "Compare", "Compensate"],
+    "answer": "Conceive"
+  },
+  {
+    "question": "Which word refers to the act of forming an idea or plan, or a basic understanding of something?",
+    "options": ["Conception", "Compliance", "Complication", "Compute"],
+    "answer": "Conception"
+  },
+  {
+    "question": "Which word refers to something given up or allowed, often in negotiations or arguments?",
+    "options": ["Concession", "Compassion", "Commodity", "Cluster"],
+    "answer": "Concession"
+  },
+  {
+    "question": "Which word means 'to strongly disapprove of or criticize someone or something, especially for moral reasons'?",
+    "options": ["Condemn", "Compel", "Compute", "Commentary"],
+    "answer": "Condemn"
+  },
+  {
+    "question": "Which word means 'to grant or bestow something to someone'?",
+    "options": ["Confer", "Consultation", "Contend", "Contribute"],
+    "answer": "Confer"
+  },
+  {
+    "question": "Which word refers to a formal statement admitting to something, often a wrongdoing?",
+    "options": ["Confession", "Consequence", "Contemplation", "Convey"],
+    "answer": "Confession"
+  },
+  {
+    "question": "Which word refers to the arrangement or setup of something, particularly in technology or systems?",
+    "options": ["Configuration", "Constitution", "Consultation", "Contender"],
+    "answer": "Configuration"
+  },
+  {
+    "question": "Which word means 'to limit or restrict something'?",
+    "options": ["Confine", "Concede", "Contemplate", "Conviction"],
+    "answer": "Confine"
+  },
+  {
+    "question": "Which word refers to the act of verifying or assuring something is correct or accurate?",
+    "options": ["Confirmation", "Confrontation", "Conviction", "Consultation"],
+    "answer": "Confirmation"
+  },
+  {
+    "question": "Which word means 'to face or challenge something directly'?",
+    "options": ["Confront", "Conserve", "Concede", "Contend"],
+    "answer": "Confront"
+  },
+  {
+    "question": "Which word refers to a situation where two parties come face-to-face, often leading to conflict?",
+    "options": ["Confrontation", "Contender", "Confession", "Configuration"],
+    "answer": "Confrontation"
+  },
+  {
+    "question": "Which word means 'to praise or express good wishes to someone for an achievement or occasion'?",
+    "options": ["Congratulate", "Conquer", "Contemplate", "Confront"],
+    "answer": "Congratulate"
+  },
+  {
+    "question": "Which word refers to a group of people gathered together for a religious service or meeting?",
+    "options": ["Congregation", "Consultation", "Consequence", "Contender"],
+    "answer": "Congregation"
+  },
+  {
+    "question": "Which word refers to something related to a congress or formal legislative body?",
+    "options": ["Congressional", "Consequence", "Contention", "Constitutional"],
+    "answer": "Congressional"
+  },
+  {
+    "question": "Which word means 'to defeat or gain control over something, often in a battle or contest'?",
+    "options": ["Conquer", "Confer", "Contemplate", "Contender"],
+    "answer": "Conquer"
+  },
+  {
+    "question": "Which word refers to the inner sense of right and wrong, often guiding behavior?",
+    "options": ["Conscience", "Consultation", "Confirmation", "Contention"],
+    "answer": "Conscience"
+  },
+  {
+    "question": "Which word refers to a state of awareness, especially regarding thoughts, feelings, or surroundings?",
+    "options": ["Consciousness", "Confine", "Consequence", "Contender"],
+    "answer": "Consciousness"
+  },
+  {
+    "question": "Which word means 'following one after another in order, without interruption'?",
+    "options": ["Consecutive", "Contemplative", "Contractor", "Contender"],
+    "answer": "Consecutive"
+  },
+  {
+    "question": "Which word means 'general agreement or majority opinion on an issue'?",
+    "options": ["Consensus", "Conserve", "Constitution", "Contention"],
+    "answer": "Consensus"
+  },
+  {
+    "question": "Which word refers to permission or approval for something to happen or be done?",
+    "options": ["Consent", "Consultation", "Conception", "Confine"],
+    "answer": "Consent"
+  },
+  {
+    "question": "Which word means 'to preserve or protect something from harm or destruction'?",
+    "options": ["Conserve", "Concede", "Contend", "Confess"],
+    "answer": "Conserve"
+  },
+  {
+    "question": "Which word refers to the quality of being consistent, especially in behavior or performance?",
+    "options": ["Consistency", "Consultation", "Contention", "Consequence"],
+    "answer": "Consistency"
+  },
+  {
+    "question": "Which word refers to the act of bringing together or making something stronger or more unified?",
+    "options": ["Consolidate", "Confess", "Confront", "Conceive"],
+    "answer": "Consolidate"
+  },
+  {
+    "question": "Which word means 'to form or make up something, such as a group or system'?",
+    "options": ["Constitute", "Contemplate", "Confession", "Conquer"],
+    "answer": "Constitute"
+  },
+  {
+    "question": "Which word refers to a body of fundamental principles or laws that govern a country or organization?",
+    "options": ["Constitution", "Consciousness", "Confess", "Conserve"],
+    "answer": "Constitution"
+  },
+  {
+    "question": "Which word refers to something that is in accordance with a constitution, or is legally allowed by it?",
+    "options": ["Constitutional", "Consequence", "Consensus", "Contender"],
+    "answer": "Constitutional"
+  },
+  {
+    "question": "Which word refers to a limitation or restriction, often imposed by law or authority?",
+    "options": ["Constraint", "Contend", "Consultation", "Confirm"],
+    "answer": "Constraint"
+  },
+  {
+    "question": "Which word refers to a meeting or discussion, usually for advice or decision-making?",
+    "options": ["Consultation", "Comprehension", "Confirmation", "Conserve"],
+    "answer": "Consultation"
+  },
+  {
+    "question": "Which word means 'to think deeply or carefully about something, especially over time'?",
+    "options": ["Contemplate", "Conquer", "Contend", "Confirm"],
+    "answer": "Contemplate"
+  },
+  {
+    "question": "Which word refers to the feeling of strong disapproval or disrespect toward something or someone?",
+    "options": ["Contempt", "Consciousness", "Conserve", "Confine"],
+    "answer": "Contempt"
+  },
+  {
+    "question": "Which word means 'to argue or compete for something, often with effort and determination'?",
+    "options": ["Contend", "Confer", "Consult", "Contemplate"],
+    "answer": "Contend"
+  },
+  {
+    "question": "Which word refers to a person or thing that competes for a prize or title in a contest?",
+    "options": ["Contender", "Consequence", "Commentator", "Cognitive"],
+    "answer": "Contender"
+  },
+  {
+    "question": "Which word refers to something that is contained within or included in something else?",
+    "options": ["Content", "Conscience", "Consist", "Consciousness"],
+    "answer": "Content"
+  },
+  {
+    "question": "Which word refers to a disagreement or dispute, often in the context of a competition or debate?",
+    "options": ["Contention", "Contemplate", "Convey", "Commence"],
+    "answer": "Contention"
+  },
+  {
+    "question": "Which word means 'without interruption, continuously'?",
+    "options": ["Continually", "Consequence", "Consultation", "Consciousness"],
+    "answer": "Continually"
+  },
+  {
+    "question": "Which word refers to a person or company that undertakes construction work or provides services?",
+    "options": ["Contractor", "Contender", "Confession", "Contention"],
+    "answer": "Contractor"
+  },
+  {
+    "question": "Which word refers to a situation where one statement contradicts or is opposed to another?",
+    "options": ["Contradiction", "Contend", "Consequence", "Cognition"],
+    "answer": "Contradiction"
+  },
+  {
+    "question": "Which word means 'opposite in nature or direction; mutually opposed'?",
+    "options": ["Contrary", "Contractor", "Consciousness", "Contention"],
+    "answer": "Contrary"
+  },
+  {
+    "question": "Which word refers to someone who contributes to a particular cause or activity?",
+    "options": ["Contributor", "Contender", "Confess", "Comply"],
+    "answer": "Contributor"
+  },
+  {
+    "question": "Which word refers to a transformation or change from one form to another?",
+    "options": ["Conversion", "Conquer", "Comprehension", "Consciousness"],
+    "answer": "Conversion"
+  },
+  {
+    "question": "Which word means 'to declare someone guilty of a crime, especially in a court of law'?",
+    "options": ["Convict", "Contender", "Conform", "Consult"],
+    "answer": "Convict"
+  },
+  {
+    "question": "Which word refers to a firm belief or opinion, especially one formed through evidence or reasoning?",
+    "options": ["Conviction", "Consciousness", "Contention", "Conflict"],
+    "answer": "Conviction"
+  },
+  {
+    "question": "Which word means 'to work together with others toward a common goal'?",
+    "options": ["Cooperate", "Contractor", "Contribute", "Confine"],
+    "answer": "Cooperate"
+  },
+  {
+    "question": "Which word refers to an environment where people work together in harmony to achieve goals?",
+    "options": ["Cooperative", "Cognitive", "Contrary", "Contender"],
+    "answer": "Cooperative"
+  },
+  {
+    "question": "Which word means 'to organize or arrange things in a way that makes them work together effectively'?",
+    "options": ["Coordinate", "Counsellor", "Craft", "Cynical"],
+    "answer": "Coordinate"
+  },
+  {
+    "question": "Which word refers to the action or process of arranging or managing something in an effective manner?",
+    "options": ["Coordination", "Coup", "Cynical", "Counterpart"],
+    "answer": "Coordination"
+  },
+  {
+    "question": "Which word refers to a person who organizes or manages something, particularly an event or activity?",
+    "options": ["Coordinator", "Councillor", "Correspondent", "Cynical"],
+    "answer": "Coordinator"
+  },
+  {
+    "question": "Which word refers to a reddish-brown metal used for electrical wiring and other applications?",
+    "options": ["Copper", "Crown", "Cynical", "Crush"],
+    "answer": "Copper"
+  },
+  {
+    "question": "Which word refers to the legal right granted to the creator of a work to control its reproduction and use?",
+    "options": ["Copyright", "Critique", "Coordination", "Crisis"],
+    "answer": "Copyright"
+  },
+  {
+    "question": "Which word refers to the process of making something right or correct, especially a mistake?",
+    "options": ["Correction", "Cynical", "Crown", "Crush"],
+    "answer": "Correction"
+  },
+  {
+    "question": "Which word means 'to show a relationship or connection between things'?",
+    "options": ["Correlate", "Cynical", "Councillor", "Crude"],
+    "answer": "Correlate"
+  },
+  {
+    "question": "Which word refers to a mutual relationship or connection between two or more things?",
+    "options": ["Correlation", "Cynical", "Counterpart", "Crown"],
+    "answer": "Correlation"
+  },
+  {
+    "question": "Which word means 'to be in agreement or to match in some way'?",
+    "options": ["Correspond", "Coup", "Counsellor", "Cynical"],
+    "answer": "Correspond"
+  },
+  {
+    "question": "Which word refers to the exchange of information or communication between people or organizations?",
+    "options": ["Correspondence", "Crush", "Cynical", "Crown"],
+    "answer": "Correspondence"
+  },
+  {
+    "question": "Which word refers to a person who reports news or information, especially for a newspaper or broadcast?",
+    "options": ["Correspondent", "Cynical", "Councillor", "Counterpart"],
+    "answer": "Correspondent"
+  },
+  {
+    "question": "Which word refers to something that matches or is in agreement with something else?",
+    "options": ["Corresponding", "Counterpart", "Crown", "Crush"],
+    "answer": "Corresponding"
+  },
+  {
+    "question": "Which word means 'to change or influence something, often for the worse'?",
+    "options": ["Corrupt", "Cynical", "Crawl", "Coup"],
+    "answer": "Corrupt"
+  },
+  {
+    "question": "Which word refers to the act or process of becoming corrupt or the state of being corrupt?",
+    "options": ["Corruption", "Cynical", "Crisis", "Crawl"],
+    "answer": "Corruption"
+  },
+  {
+    "question": "Which word means 'having a high price or value, often because it is difficult to obtain'?",
+    "options": ["Costly", "Cynical", "Crown", "Crawl"],
+    "answer": "Costly"
+  },
+  {
+    "question": "Which word refers to a person elected to represent a local government or other council?",
+    "options": ["Councillor", "Creator", "Cynical", "Crisis"],
+    "answer": "Councillor"
+  },
+  {
+    "question": "Which word refers to the process of providing advice or support to someone, especially for emotional or psychological issues?",
+    "options": ["Counselling", "Crush", "Cynical", "Coup"],
+    "answer": "Counselling"
+  },
+  {
+    "question": "Which word refers to a professional who provides advice, especially for personal or psychological issues?",
+    "options": ["Counsellor", "Cynical", "Crisis", "Crawl"],
+    "answer": "Counsellor"
+  },
+  {
+    "question": "Which word means 'to oppose or argue against something in a discussion or debate'?",
+    "options": ["Counter (argue)", "Cynical", "Crisis", "Crown"],
+    "answer": "Counter (argue)"
+  },
+  {
+    "question": "Which word refers to a person or thing that corresponds to another in some way, often as a match or equivalent?",
+    "options": ["Counterpart", "Cynical", "Crisis", "Crawl"],
+    "answer": "Counterpart"
+  },
+  {
+    "question": "Which word means 'too many to be counted, often used to describe something abundant or vast'?",
+    "options": ["Countless", "Cynical", "Crisis", "Crown"],
+    "answer": "Countless"
+  },
+  {
+    "question": "Which word refers to a sudden and often violent change in power or control, especially by force?",
+    "options": ["Coup", "Cynical", "Crisis", "Crawl"],
+    "answer": "Coup"
+  },
+  {
+    "question": "Which word refers to polite behavior or gestures, especially in social settings?",
+    "options": ["Courtesy", "Crisis", "Cynical", "Crown"],
+    "answer": "Courtesy"
+  },
+  {
+    "question": "Which word refers to the skill or ability involved in making things, especially by hand?",
+    "options": ["Craft", "Cynical", "Crisis", "Crawl"],
+    "answer": "Craft"
+  },
+  {
+    "question": "Which word means 'to move slowly or with difficulty, often on hands and knees'?",
+    "options": ["Crawl", "Crisis", "Cynical", "Crown"],
+    "answer": "Crawl"
+  },
+  {
+    "question": "Which word refers to the person or entity responsible for making something, especially in an artistic or professional sense?",
+    "options": ["Creator", "Crisis", "Cynical", "Crawl"],
+    "answer": "Creator"
+  },
+  {
+    "question": "Which word refers to the quality of being trustworthy or believable, especially in a public or professional context?",
+    "options": ["Credibility", "Cynical", "Crisis", "Crawl"],
+    "answer": "Credibility"
+  },
+  {
+    "question": "Which word means 'believable or trustworthy, especially when it comes to information or sources'?",
+    "options": ["Credible", "Cynical", "Crisis", "Crown"],
+    "answer": "Credible"
+  },
+  {
+    "question": "Which word means 'to move slowly, especially in a stealthy or secretive way'?",
+    "options": ["Creep", "Crisis", "Cynical", "Crown"],
+    "answer": "Creep"
+  },
+  {
+    "question": "Which word refers to a detailed and critical analysis of something, often in a review or evaluation?",
+    "options": ["Critique", "Cynical", "Crisis", "Crown"],
+    "answer": "Critique"
+  },
+  {
+    "question": "Which word refers to the top part or uppermost point of something, often used for royalty or importance?",
+    "options": ["Crown", "Cynical", "Crisis", "Crawl"],
+    "answer": "Crown"
+  },
+  {
+    "question": "Which word refers to something in its natural state, often raw or unrefined?",
+    "options": ["Crude", "Cynical", "Crisis", "Crown"],
+    "answer": "Crude"
+  },
+  {
+    "question": "Which word means 'to squeeze or press something with force, often to break it down'?",
+    "options": ["Crush", "Cynical", "Crisis", "Crown"],
+    "answer": "Crush"
+  },
+  {
+    "question": "Which word refers to a transparent, solid mineral or gemstone often valued for its clarity and color?",
+    "options": ["Crystal", "Crisis", "Cynical", "Crawl"],
+    "answer": "Crystal"
+  },
+  {
+    "question": "Which word refers to a system of religious beliefs, often involving a following or group of adherents?",
+    "options": ["Cult", "Cynical", "Crisis", "Crawl"],
+    "answer": "Cult"
+  },
+  {
+    "question": "Which word means 'to prepare or improve something, often through effort or cultivation'?",
+    "options": ["Cultivate", "Cynical", "Crisis", "Crown"],
+    "answer": "Cultivate"
+  },
+  {
+    "question": "Which word refers to a strong desire to know or learn something, often leading to exploration or inquiry?",
+    "options": ["Curiosity", "Crisis", "Cynical", "Crown"],
+    "answer": "Curiosity"
+  },
+  {
+    "question": "Which word refers to the protective care or control of something or someone, especially by the authorities?",
+    "options": ["Custody", "Cynical", "Crisis", "Crawl"],
+    "answer": "Custody"
+  },
+  {
+    "question": "Which word refers to something that is cutting-edge, innovative, or groundbreaking?",
+    "options": ["Cutting", "Cynical", "Crisis", "Crown"],
+    "answer": "Cutting"
+  },
+  {
+    "question": "Which word means 'distrustful of the sincerity or motives of others'?",
+    "options": ["Cynical", "Crisis", "Crisis", "Crown"],
+    "answer": "Cynical"
+  }
+]
