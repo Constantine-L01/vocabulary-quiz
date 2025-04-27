@@ -1,0 +1,392 @@
+[
+    {
+        "question": "Which word refers to 'a symbol or image that represents something'?",
+        "options": ["Icon", "ID", "Ideal", "Illusion"],
+        "answer": "Icon"
+    },
+    {
+        "question": "Which word is the abbreviation for 'identification'?",
+        "options": ["ID", "Illustrate", "Impress", "Index"],
+        "answer": "ID"
+    },
+    {
+        "question": "Which word describes 'a standard of perfection or excellence'?",
+        "options": ["Ideal", "Identical", "Immune", "Incident"],
+        "answer": "Ideal"
+    },
+    {
+        "question": "Which word means 'exactly the same'?",
+        "options": ["Identical", "Industrial", "Infer", "Inhabit"],
+        "answer": "Identical"
+    },
+    {
+        "question": "Which word refers to 'something that deceives by giving a false impression'?",
+        "options": ["Illusion", "Illustration", "Income", "Inch"],
+        "answer": "Illusion"
+    },
+    {
+        "question": "Which word means 'to explain something clearly using examples or pictures'?",
+        "options": ["Illustrate", "Implant", "Indication", "Index"],
+        "answer": "Illustrate"
+    },
+    {
+        "question": "Which word refers to 'a drawing or picture used to explain something'?",
+        "options": ["Illustration", "Icon", "Industrial", "Independence"],
+        "answer": "Illustration"
+    },
+    {
+        "question": "Which word describes 'the ability to form new ideas, images, or concepts'?",
+        "options": ["Imagination", "Incentive", "Infer", "Infrastructure"],
+        "answer": "Imagination"
+    },
+    {
+        "question": "Which word refers to 'the act of moving to a new country to live permanently'?",
+        "options": ["Immigration", "Income", "Incident", "Index"],
+        "answer": "Immigration"
+    },
+    {
+        "question": "Which word describes 'being protected against disease'?",
+        "options": ["Immune", "Incorrect", "Impatient", "Incentive"],
+        "answer": "Immune"
+    },
+    {
+        "question": "Which word means 'not willing to wait'?",
+        "options": ["Impatient", "Impress", "Illusion", "Index"],
+        "answer": "Impatient"
+    },
+    {
+        "question": "Which word means 'to put a plan or system into action'?",
+        "options": ["Implement", "Inform", "Initial", "Inflation"],
+        "answer": "Implement"
+    },
+    {
+        "question": "Which word refers to 'a possible effect or result of an action or decision'?",
+        "options": ["Implication", "Infection", "Info", "Indication"],
+        "answer": "Implication"
+    },
+    {
+        "question": "Which word means 'to suggest without directly saying it'?",
+        "options": ["Imply", "Index", "Incorporate", "Incident"],
+        "answer": "Imply"
+    },
+    {
+        "question": "Which word means 'to forcibly make someone accept something'?",
+        "options": ["Impose", "Infer", "Industrial", "Incentive"],
+        "answer": "Impose"
+    },
+    {
+        "question": "Which word means 'to affect someone deeply and strongly'?",
+        "options": ["Impress", "Incorporate", "Indication", "Info"],
+        "answer": "Impress"
+    },
+    {
+        "question": "Which word describes the feeling of admiration after seeing something great?",
+        "options": ["Impressed", "Incorrect", "Initial", "Index"],
+        "answer": "Impressed"
+    },
+    {
+        "question": "Which word means 'something that motivates or encourages a person to do something'?",
+        "options": ["Incentive", "Inch", "Incident", "Indication"],
+        "answer": "Incentive"
+    },
+    {
+        "question": "Which word refers to 'a small unit of length equal to about 2.54 centimeters'?",
+        "options": ["Inch", "Icon", "Info", "Income"],
+        "answer": "Inch"
+    },
+    {
+        "question": "Which word means 'an event, especially one that is unusual or unpleasant'?",
+        "options": ["Incident", "Income", "Illusion", "Immigration"],
+        "answer": "Incident"
+    },
+    {
+        "question": "Which word means 'the money earned from work, investments, or business'?",
+        "options": ["Income", "Incorporate", "Incentive", "Industrial"],
+        "answer": "Income"
+    },
+    {
+        "question": "Which word means 'to include something as part of a group or system'?",
+        "options": ["Incorporate", "Infer", "Inflation", "Inhabit"],
+        "answer": "Incorporate"
+    },
+    {
+        "question": "Which word means 'not correct or wrong'?",
+        "options": ["Incorrect", "Ideal", "Incident", "Incentive"],
+        "answer": "Incorrect"
+    },
+    {
+        "question": "Which word means 'more and more over time'?",
+        "options": ["Increasingly", "Index", "Incentive", "Illusion"],
+        "answer": "Increasingly"
+    },
+    {
+        "question": "Which word refers to 'freedom from control or influence of others'?",
+        "options": ["Independence", "Infrastructure", "Industrial", "Inch"],
+        "answer": "Independence"
+    },
+    {
+        "question": "Which word refers to 'a list of items or names usually arranged alphabetically'?",
+        "options": ["Index", "Incident", "Illusion", "Immigration"],
+        "answer": "Index"
+    },
+    {
+        "question": "Which word means 'a sign that shows something exists or is likely to happen'?",
+        "options": ["Indication", "Income", "Industrial", "Index"],
+        "answer": "Indication"
+    },
+    {
+        "question": "Which word describes something related to industry or factories?",
+        "options": ["Industrial", "Ideal", "Illusion", "Initial"],
+        "answer": "Industrial"
+    },
+    {
+        "question": "Which word means 'certain to happen'?",
+        "options": ["Inevitable", "Incorrect", "Incident", "Illustrate"],
+        "answer": "Inevitable"
+    },
+    {
+        "question": "Which word means 'without a doubt happening'?",
+        "options": ["Inevitably", "Infer", "Industrial", "Illustration"],
+        "answer": "Inevitably"
+    },
+    {
+        "question": "Which word refers to 'an illness caused by bacteria, viruses, etc.'?",
+        "options": ["Infection", "Immigration", "Icon", "ID"],
+        "answer": "Infection"
+    },
+    {
+        "question": "Which word means 'to draw a conclusion from evidence'?",
+        "options": ["Infer", "Implant", "Index", "Incident"],
+        "answer": "Infer"
+    },
+    {
+        "question": "Which word refers to 'the general rise in prices and fall in the value of money'?",
+        "options": ["Inflation", "Industrial", "Incident", "Illusion"],
+        "answer": "Inflation"
+    },
+    {
+        "question": "Which word is an informal abbreviation for 'information'?",
+        "options": ["Info", "Icon", "Incentive", "Inch"],
+        "answer": "Info"
+    },
+    {
+        "question": "Which word means 'to give someone facts or details'?",
+        "options": ["Inform", "Illustrate", "Inch", "Indication"],
+        "answer": "Inform"
+    },
+    {
+        "question": "Which word refers to 'the basic physical structures needed for a society, like roads and power supplies'?",
+        "options": ["Infrastructure", "Industrial", "Incident", "Income"],
+        "answer": "Infrastructure"
+    },
+    {
+        "question": "Which word refers to 'a person who lives in a particular place'?",
+        "options": ["Inhabitant", "Income", "Immigration", "Incident"],
+        "answer": "Inhabitant"
+    },
+    {
+        "question": "Which word means 'to receive something from someone after they have died'?",
+        "options": ["Inherit", "Illustrate", "Impress", "Illusion"],
+        "answer": "Inherit"
+    },
+    {
+        "question": "Which word describes 'happening at the beginning'?",
+        "options": ["Initial", "Industrial", "Incident", "Index"],
+        "answer": "Initial"
+    },
+    {
+        "question": "Which word means 'at the beginning'?",
+        "options": ["Initially", "Insert", "Instance", "Interval"],
+        "answer": "Initially"
+    },
+    {
+        "question": "Which word refers to 'a new plan or action to solve a problem'?",
+        "options": ["Initiative", "Ink", "Internal", "Insight"],
+        "answer": "Initiative"
+    },
+    {
+        "question": "Which word refers to 'a colored liquid used for writing or printing'?",
+        "options": ["Ink", "Instance", "Instant", "Input"],
+        "answer": "Ink"
+    },
+    {
+        "question": "Which word describes 'situated inside or close to the center'?",
+        "options": ["Inner", "Insert", "Insurance", "Interval"],
+        "answer": "Inner"
+    },
+    {
+        "question": "Which word refers to 'the introduction of new ideas, methods, or inventions'?",
+        "options": ["Innovation", "Insurance", "Inspector", "Interpretation"],
+        "answer": "Innovation"
+    },
+    {
+        "question": "Which word describes something 'new and creative'?",
+        "options": ["Innovative", "Investigation", "Invasion", "Interval"],
+        "answer": "Innovative"
+    },
+    {
+        "question": "Which word means 'something that is put into a system, like ideas or information'?",
+        "options": ["Input", "Inner", "Investigation", "Investitor"],
+        "answer": "Input"
+    },
+    {
+        "question": "Which word means 'to put something inside something else'?",
+        "options": ["Insert", "Isolate", "Interpret", "Interact"],
+        "answer": "Insert"
+    },
+    {
+        "question": "Which word refers to 'a deep understanding of something'?",
+        "options": ["Insight", "Insurance", "Innovative", "Inner"],
+        "answer": "Insight"
+    },
+    {
+        "question": "Which word means 'to demand something forcefully'?",
+        "options": ["Insist", "Interpret", "Insert", "Interval"],
+        "answer": "Insist"
+    },
+    {
+        "question": "Which word refers to 'someone whose job is to check that things are done correctly'?",
+        "options": ["Inspector", "Investor", "Isolate", "Insurance"],
+        "answer": "Inspector"
+    },
+    {
+        "question": "Which word means 'to motivate or encourage someone'?",
+        "options": ["Inspire", "Inner", "Initial", "Insert"],
+        "answer": "Inspire"
+    },
+    {
+        "question": "Which word means 'to put equipment or machinery in position ready for use'?",
+        "options": ["Install", "Initiative", "Investigation", "Interval"],
+        "answer": "Install"
+    },
+    {
+        "question": "Which word refers to 'the act of putting equipment into position'?",
+        "options": ["Installation", "Insurance", "Interpretation", "Investment"],
+        "answer": "Installation"
+    },
+    {
+        "question": "Which word refers to 'an example of something happening'?",
+        "options": ["Instance", "Inspector", "Interval", "Insert"],
+        "answer": "Instance"
+    },
+    {
+        "question": "Which word means 'happening immediately'?",
+        "options": ["Instant", "Insurance", "Investment", "Interaction"],
+        "answer": "Instant"
+    },
+    {
+        "question": "Which word means 'without delay'?",
+        "options": ["Instantly", "Interval", "Insert", "Insight"],
+        "answer": "Instantly"
+    },
+    {
+        "question": "Which word refers to 'an organization that does research or education'?",
+        "options": ["Institute", "Investor", "Invasion", "Input"],
+        "answer": "Institute"
+    },
+    {
+        "question": "Which word refers to 'an important organization like a university or a hospital'?",
+        "options": ["Institution", "Insurance", "Insert", "Isolate"],
+        "answer": "Institution"
+    },
+    {
+        "question": "Which word refers to 'protection against financial loss'?",
+        "options": ["Insurance", "Inner", "Insert", "Insight"],
+        "answer": "Insurance"
+    },
+    {
+        "question": "Which word means 'to combine two or more things so that they work together'?",
+        "options": ["Integrate", "Interact", "Interval", "Inspire"],
+        "answer": "Integrate"
+    },
+    {
+        "question": "Which word refers to 'a person who uses the mind for study or complex work'?",
+        "options": ["Intellectual", "Inspector", "Investor", "Instance"],
+        "answer": "Intellectual"
+    },
+    {
+        "question": "Which word means 'planned or meant to happen'?",
+        "options": ["Intended", "Insurance", "Insert", "Initiative"],
+        "answer": "Intended"
+    },
+    {
+        "question": "Which word means 'very strong or extreme'?",
+        "options": ["Intense", "Interval", "Isolate", "Input"],
+        "answer": "Intense"
+    },
+    {
+        "question": "Which word means 'to communicate or work together'?",
+        "options": ["Interact", "Insert", "Input", "Insurance"],
+        "answer": "Interact"
+    },
+    {
+        "question": "Which word refers to 'the act of communicating or working together'?",
+        "options": ["Interaction", "Insurance", "Insert", "Insight"],
+        "answer": "Interaction"
+    },
+    {
+        "question": "Which word means 'inside a particular organization or country'?",
+        "options": ["Internal", "Interval", "Instant", "Insight"],
+        "answer": "Internal"
+    },
+    {
+        "question": "Which word means 'to explain the meaning of something'?",
+        "options": ["Interpret", "Install", "Insert", "Input"],
+        "answer": "Interpret"
+    },
+    {
+        "question": "Which word refers to 'the explanation of the meaning of something'?",
+        "options": ["Interpretation", "Institution", "Interval", "Insurance"],
+        "answer": "Interpretation"
+    },
+    {
+        "question": "Which word means 'to stop someone from speaking or working'?",
+        "options": ["Interrupt", "Investigation", "Institute", "Initial"],
+        "answer": "Interrupt"
+    },
+    {
+        "question": "Which word means 'a short period between two events'?",
+        "options": ["Interval", "Interaction", "Instance", "Insight"],
+        "answer": "Interval"
+    },
+    {
+        "question": "Which word means 'to enter a place by force'?",
+        "options": ["Invade", "Install", "Insert", "Input"],
+        "answer": "Invade"
+    },
+    {
+        "question": "Which word refers to 'an aggressive entrance by force'?",
+        "options": ["Invasion", "Interaction", "Interval", "Instance"],
+        "answer": "Invasion"
+    },
+    {
+        "question": "Which word refers to 'the process of examining something carefully to discover the truth'?",
+        "options": ["Investigation", "Investment", "Institution", "Interval"],
+        "answer": "Investigation"
+    },
+    {
+        "question": "Which word refers to 'the act of putting money into something to make a profit'?",
+        "options": ["Investment", "Input", "Initiative", "Insurance"],
+        "answer": "Investment"
+    },
+    {
+        "question": "Which word refers to 'a person who puts money into something to make a profit'?",
+        "options": ["Investor", "Inspector", "Input", "Interval"],
+        "answer": "Investor"
+    },
+    {
+        "question": "Which word means 'to separate someone or something from others'?",
+        "options": ["Isolate", "Interact", "Invest", "Interpret"],
+        "answer": "Isolate"
+    },
+    {
+        "question": "Which word describes 'happening away from other people or places'?",
+        "options": ["Isolated", "Interval", "Institution", "Investment"],
+        "answer": "Isolated"
+    },
+    {
+        "question": "Which word refers to 'an important topic or problem for debate or discussion'?",
+        "options": ["Issue", "Input", "Interval", "Investigation"],
+        "answer": "Issue"
+    }
+]

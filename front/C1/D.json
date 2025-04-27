@@ -1,0 +1,477 @@
+[
+  {
+    "question": "Which word refers to a barrier built across a river to hold back water?",
+    "options": ["Dam", "Debris", "Delegate", "Defect"],
+    "answer": "Dam"
+  },
+  {
+    "question": "Which word means 'causing harm or injury'?",
+    "options": ["Damaging", "Defensive", "Delicate", "Dawn"],
+    "answer": "Damaging"
+  },
+  {
+    "question": "Which word refers to the time each day when light first appears in the sky?",
+    "options": ["Dawn", "Debut", "Deed", "Denial"],
+    "answer": "Dawn"
+  },
+  {
+    "question": "Which word refers to scattered fragments, typically of something wrecked or destroyed?",
+    "options": ["Debris", "Deed", "Delegate", "Demon"],
+    "answer": "Debris"
+  },
+  {
+    "question": "Which word means 'a person's first appearance or performance in a particular capacity or role'?",
+    "options": ["Debut", "Default", "Defy", "Dam"],
+    "answer": "Debut"
+  },
+  {
+    "question": "Which term describes the process of making important choices, especially in a formal context?",
+    "options": ["Decision-making", "Declaration", "Density", "Demon"],
+    "answer": "Decision-making"
+  },
+  {
+    "question": "Which word means 'able to make decisions quickly and effectively'?",
+    "options": ["Decisive", "Delicate", "Denounce", "Delegate"],
+    "answer": "Decisive"
+  },
+  {
+    "question": "Which word refers to an official announcement, often made publicly?",
+    "options": ["Declaration", "Debris", "Default", "Deficit"],
+    "answer": "Declaration"
+  },
+  {
+    "question": "Which word describes someone who is devoted to a cause or task?",
+    "options": ["Dedicated", "Dense", "Deficiency", "Delegate"],
+    "answer": "Dedicated"
+  },
+  {
+    "question": "Which word refers to the quality of being devoted or committed to a task or purpose?",
+    "options": ["Dedication", "Density", "Debut", "Demon"],
+    "answer": "Dedication"
+  },
+  {
+    "question": "Which word means 'an action that is performed intentionally or consciously'?",
+    "options": ["Deed", "Debris", "Deficit", "Delicate"],
+    "answer": "Deed"
+  },
+  {
+    "question": "Which word means 'to consider or judge in a particular way'?",
+    "options": ["Deem", "Delegate", "Dawn", "Defy"],
+    "answer": "Deem"
+  },
+  {
+    "question": "Which word refers to the failure to fulfill an obligation, especially a financial one?",
+    "options": ["Default", "Deficiency", "Debris", "Defensive"],
+    "answer": "Default"
+  },
+  {
+    "question": "Which word refers to a fault or imperfection in something?",
+    "options": ["Defect", "Dedication", "Debut", "Crisis"],
+    "answer": "Defect"
+  },
+  {
+    "question": "Which word describes behavior intended to protect against attack or harm?",
+    "options": ["Defensive", "Deem", "Dawn", "Density"],
+    "answer": "Defensive"
+  },
+  {
+    "question": "Which word means 'a lack or shortage of something that is necessary'?",
+    "options": ["Deficiency", "Delegate", "Debris", "Deed"],
+    "answer": "Deficiency"
+  },
+  {
+    "question": "Which word refers to the amount by which something, especially a sum of money, is too small?",
+    "options": ["Deficit", "Dedication", "Damaging", "Dense"],
+    "answer": "Deficit"
+  },
+  {
+    "question": "Which word means 'to openly resist or refuse to obey'?",
+    "options": ["Defy", "Debut", "Dense", "Deem"],
+    "answer": "Defy"
+  },
+  {
+    "question": "Which word refers to a person chosen to represent others at a meeting or conference?",
+    "options": ["Delegate", "Default", "Deficiency", "Deed"],
+    "answer": "Delegate"
+  },
+  {
+    "question": "Which word refers to a group of people officially sent to represent others?",
+    "options": ["Delegation", "Debris", "Demon", "Declaration"],
+    "answer": "Delegation"
+  },
+  {
+    "question": "Which word means 'easily damaged or requiring careful handling'?",
+    "options": ["Delicate", "Deed", "Dawn", "Default"],
+    "answer": "Delicate"
+  },
+  {
+    "question": "Which word refers to an evil spirit or a wicked person?",
+    "options": ["Demon", "Delegate", "Deem", "Density"],
+    "answer": "Demon"
+  },
+  {
+    "question": "Which word means 'the act of refusing to accept the truth or reality of something'?",
+    "options": ["Denial", "Debris", "Deed", "Density"],
+    "answer": "Denial"
+  },
+  {
+    "question": "Which word means 'to publicly declare something to be wrong or evil'?",
+    "options": ["Denounce", "Debris", "Delegate", "Defensive"],
+    "answer": "Denounce"
+  },
+  {
+    "question": "Which word describes something that is closely packed together or difficult to see through?",
+    "options": ["Dense", "Dedication", "Crown", "Cynical"],
+    "answer": "Dense"
+  },
+  {
+    "question": "Which word refers to the degree of compactness of a substance or area?",
+    "options": ["Density", "Debris", "Demon", "Delegate"],
+    "answer": "Density"
+  },
+  {
+    "question": "Which word refers to the state of relying on or needing someone or something for support?",
+    "options": ["Dependence", "Deployment", "Descent", "Detection"],
+    "answer": "Dependence"
+  },
+  {
+    "question": "Which word means 'to represent or show something in a picture or story'?",
+    "options": ["Depict", "Deprive", "Deputy", "Devise"],
+    "answer": "Depict"
+  },
+  {
+    "question": "Which word means 'to move soldiers or equipment into position for military action'?",
+    "options": ["Deploy", "Descend", "Deteriorate", "Dictate"],
+    "answer": "Deploy"
+  },
+  {
+    "question": "Which word refers to the act of moving soldiers or equipment into position for action?",
+    "options": ["Deployment", "Descent", "Detention", "Diagnosis"],
+    "answer": "Deployment"
+  },
+  {
+    "question": "Which word means 'to take something away from someone'?",
+    "options": ["Deprive", "Depict", "Deputy", "Detection"],
+    "answer": "Deprive"
+  },
+  {
+    "question": "Which word refers to a person who is appointed to assist or act as a substitute for someone else?",
+    "options": ["Deputy", "Dependence", "Diagnosis", "Desktop"],
+    "answer": "Deputy"
+  },
+  {
+    "question": "Which word means 'to move downward'?",
+    "options": ["Descend", "Deploy", "Deprive", "Desktop"],
+    "answer": "Descend"
+  },
+  {
+    "question": "Which word refers to an action of moving downward or a downward slope?",
+    "options": ["Descent", "Devastate", "Detection", "Detain"],
+    "answer": "Descent"
+  },
+  {
+    "question": "Which word means 'to officially choose someone for a particular purpose'?",
+    "options": ["Designate", "Deprive", "Dictate", "Dependence"],
+    "answer": "Designate"
+  },
+  {
+    "question": "Which word describes something that is worth having or wanting?",
+    "options": ["Desirable", "Deputy", "Deployment", "Deteriorate"],
+    "answer": "Desirable"
+  },
+  {
+    "question": "Which word refers to a computer that is intended to be used at a single location and not moved around?",
+    "options": ["Desktop", "Diagnosis", "Deprive", "Descent"],
+    "answer": "Desktop"
+  },
+  {
+    "question": "Which word describes something that causes a lot of damage or harm?",
+    "options": ["Destructive", "Deputy", "Detection", "Deploy"],
+    "answer": "Destructive"
+  },
+  {
+    "question": "Which word means 'to keep someone in custody, especially for legal reasons'?",
+    "options": ["Detain", "Deprive", "Devastate", "Descend"],
+    "answer": "Detain"
+  },
+  {
+    "question": "Which word refers to the act of discovering the existence or presence of something?",
+    "options": ["Detection", "Deprivation", "Diagnosis", "Deployment"],
+    "answer": "Detection"
+  },
+  {
+    "question": "Which word refers to the act of keeping someone in custody, especially as a punishment?",
+    "options": ["Detention", "Depict", "Deputy", "Desirable"],
+    "answer": "Detention"
+  },
+  {
+    "question": "Which word means 'to become worse in quality or condition over time'?",
+    "options": ["Deteriorate", "Deploy", "Dependence", "Desktop"],
+    "answer": "Deteriorate"
+  },
+  {
+    "question": "Which word means 'to cause great destruction or suffering'?",
+    "options": ["Devastate", "Deputy", "Designate", "Detection"],
+    "answer": "Devastate"
+  },
+  {
+    "question": "Which word refers to a powerful evil spirit or the embodiment of evil in religion and folklore?",
+    "options": ["Devil", "Deprive", "Diagnosis", "Descent"],
+    "answer": "Devil"
+  },
+  {
+    "question": "Which word means 'to invent or plan something new'?",
+    "options": ["Devise", "Deploy", "Detection", "Desirable"],
+    "answer": "Devise"
+  },
+  {
+    "question": "Which word means 'to identify a disease or medical condition through examination'?",
+    "options": ["Diagnose", "Descent", "Desktop", "Devastate"],
+    "answer": "Diagnose"
+  },
+  {
+    "question": "Which word refers to the identification of the nature of an illness or other problem by examination?",
+    "options": ["Diagnosis", "Dictate", "Dependence", "Debris"],
+    "answer": "Diagnosis"
+  },
+  {
+    "question": "Which word means 'to give orders or state something with authority'?",
+    "options": ["Dictate", "Deploy", "Deputy", "Desirable"],
+    "answer": "Dictate"
+  },
+  {
+    "question": "Which word refers to a ruler with total power, often ruling oppressively?",
+    "options": ["Dictator", "Diplomat", "Dilemma", "Directory"],
+    "answer": "Dictator"
+  },
+  {
+    "question": "Which word means 'to recognize or show the difference between things'?",
+    "options": ["Differentiate", "Diminish", "Dip", "Disclose"],
+    "answer": "Differentiate"
+  },
+  {
+    "question": "Which word refers to the state or quality of being worthy of respect?",
+    "options": ["Dignity", "Dilemma", "Discretion", "Dimension"],
+    "answer": "Dignity"
+  },
+  {
+    "question": "Which word means 'a situation in which a difficult choice must be made between alternatives'?",
+    "options": ["Dilemma", "Dictator", "Distinction", "Disrupt"],
+    "answer": "Dilemma"
+  },
+  {
+    "question": "Which word refers to a measurable extent, such as length, width, or height?",
+    "options": ["Dimension", "Directory", "Disclosure", "Distinction"],
+    "answer": "Dimension"
+  },
+  {
+    "question": "Which word means 'to make or become less'?",
+    "options": ["Diminish", "Dip", "Dispose", "Dismissal"],
+    "answer": "Diminish"
+  },
+  {
+    "question": "Which word means 'to briefly immerse something in liquid'?",
+    "options": ["Dip", "Displace", "Disrupt", "Discharge"],
+    "answer": "Dip"
+  },
+  {
+    "question": "Which word refers to a person who represents their country's government in another country?",
+    "options": ["Diplomat", "Dictator", "Directory", "Disclosure"],
+    "answer": "Diplomat"
+  },
+  {
+    "question": "Which word describes something related to the management of relations between countries?",
+    "options": ["Diplomatic", "Disastrous", "Distinctive", "Diminish"],
+    "answer": "Diplomatic"
+  },
+  {
+    "question": "Which word refers to a list of names and addresses or other organized information?",
+    "options": ["Directory", "Dimension", "Distinction", "Disposal"],
+    "answer": "Directory"
+  },
+  {
+    "question": "Which word describes causing great damage or suffering?",
+    "options": ["Disastrous", "Disruptive", "Dilemma", "Diminish"],
+    "answer": "Disastrous"
+  },
+  {
+    "question": "Which word means 'to throw away or get rid of something unwanted'?",
+    "options": ["Discard", "Disclose", "Discharge", "Disrupt"],
+    "answer": "Discard"
+  },
+  {
+    "question": "Which word means 'to release someone from a duty or allow them to leave'?",
+    "options": ["Discharge", "Dissolve", "Discriminate", "Diminish"],
+    "answer": "Discharge"
+  },
+  {
+    "question": "Which word means 'to make something known publicly or reveal something hidden'?",
+    "options": ["Disclose", "Dispose", "Dilemma", "Dimension"],
+    "answer": "Disclose"
+  },
+  {
+    "question": "Which word refers to the act of making something known that was secret?",
+    "options": ["Disclosure", "Directory", "Dignity", "Distinctive"],
+    "answer": "Disclosure"
+  },
+  {
+    "question": "Which word means 'written or spoken communication or debate'?",
+    "options": ["Discourse", "Dilemma", "Dimension", "Diminish"],
+    "answer": "Discourse"
+  },
+  {
+    "question": "Which word refers to the freedom to decide what should be done in a particular situation?",
+    "options": ["Discretion", "Dissolve", "Dilemma", "Distinction"],
+    "answer": "Discretion"
+  },
+  {
+    "question": "Which word refers to unfair treatment of different categories of people, especially on the grounds of race, age, or gender?",
+    "options": ["Discrimination", "Disruption", "Displace", "Disclosure"],
+    "answer": "Discrimination"
+  },
+  {
+    "question": "Which word refers to the act of removing someone from a position or job?",
+    "options": ["Dismissal", "Disposal", "Dilemma", "Distinction"],
+    "answer": "Dismissal"
+  },
+  {
+    "question": "Which word means 'to force something or someone to move from its usual place'?",
+    "options": ["Displace", "Dip", "Dictate", "Diplomatic"],
+    "answer": "Displace"
+  },
+  {
+    "question": "Which word refers to the act of getting rid of something, especially waste?",
+    "options": ["Disposal", "Directory", "Disclosure", "Discharge"],
+    "answer": "Disposal"
+  },
+  {
+    "question": "Which word means 'to get rid of by throwing away or giving to someone else'?",
+    "options": ["Dispose", "Diminish", "Disrupt", "Dissolve"],
+    "answer": "Dispose"
+  },
+  {
+    "question": "Which word means 'a disagreement or argument'?",
+    "options": ["Dispute", "Dilemma", "Directory", "Devastate"],
+    "answer": "Dispute"
+  },
+  {
+    "question": "Which word means 'to interrupt or disturb the normal order of something'?",
+    "options": ["Disrupt", "Displace", "Dispose", "Diminish"],
+    "answer": "Disrupt"
+  },
+  {
+    "question": "Which word refers to a disturbance or problem that interrupts an event, activity, or process?",
+    "options": ["Disruption", "Discharge", "Dilemma", "Devastate"],
+    "answer": "Disruption"
+  },
+  {
+    "question": "Which word means 'to officially end or break apart something, such as an organization'?",
+    "options": ["Dissolve", "Dispute", "Discretion", "Disclosure"],
+    "answer": "Dissolve"
+  },
+  {
+    "question": "Which word refers to a difference or contrast between similar things or people?",
+    "options": ["Distinction", "Dimension", "Directory", "Dip"],
+    "answer": "Distinction"
+  },
+  {
+    "question": "Which word describes something that is characteristic of one person or thing, making it easy to recognize?",
+    "options": ["Distinctive", "Disastrous", "Disruption", "Diplomatic"],
+    "answer": "Distinctive"
+  },
+  {
+    "question": "Which word means 'to twist something out of its original shape or meaning'?",
+    "options": ["Distort", "Divert", "Drain", "Drift"],
+    "answer": "Distort"
+  },
+  {
+    "question": "Which word refers to 'extreme anxiety, sorrow, or pain'?",
+    "options": ["Distress", "Doctrine", "Dose", "Duo"],
+    "answer": "Distress"
+  },
+  {
+    "question": "Which word describes something that causes worry, upset, or anxiety?",
+    "options": ["Disturbing", "Dual", "Driving", "Drain"],
+    "answer": "Disturbing"
+  },
+  {
+    "question": "Which word means 'to change the direction of something'?",
+    "options": ["Divert", "Distress", "Drown", "Dumb"],
+    "answer": "Divert"
+  },
+  {
+    "question": "Which word relates to 'a god or a deity'?",
+    "options": ["Divine", "Domain", "Documentation", "Dose"],
+    "answer": "Divine"
+  },
+  {
+    "question": "Which word refers to 'a set of beliefs held and taught by a group, especially a religion or political group'?",
+    "options": ["Doctrine", "Driving", "Duo", "Drain"],
+    "answer": "Doctrine"
+  },
+  {
+    "question": "Which word refers to 'the process of providing official papers or records'?",
+    "options": ["Documentation", "Dominance", "Drift", "Donor"],
+    "answer": "Documentation"
+  },
+  {
+    "question": "Which word means 'an area of territory or knowledge controlled by a particular group or activity'?",
+    "options": ["Domain", "Doctrine", "Dose", "Dumb"],
+    "answer": "Domain"
+  },
+  {
+    "question": "Which word refers to 'power and influence over others'?",
+    "options": ["Dominance", "Drain", "Divert", "Duo"],
+    "answer": "Dominance"
+  },
+  {
+    "question": "Which word refers to 'a person who gives something, especially money or blood, to help others'?",
+    "options": ["Donor", "Driving", "Drift", "Documentation"],
+    "answer": "Donor"
+  },
+  {
+    "question": "Which word refers to 'a measured quantity of a medicine taken at one time'?",
+    "options": ["Dose", "Doctrine", "Domain", "Dumb"],
+    "answer": "Dose"
+  },
+  {
+    "question": "Which word means 'to cause liquid to flow away from something'?",
+    "options": ["Drain", "Drift", "Dual", "Dub"],
+    "answer": "Drain"
+  },
+  {
+    "question": "Which word means 'to move slowly and gradually, often without purpose'?",
+    "options": ["Drift", "Drain", "Driving", "Distort"],
+    "answer": "Drift"
+  },
+  {
+    "question": "Which word describes something related to the act of operating or controlling a vehicle?",
+    "options": ["Driving", "Dual", "Divert", "Drain"],
+    "answer": "Driving"
+  },
+  {
+    "question": "Which word means 'to die by being submerged in and inhaling water'?",
+    "options": ["Drown", "Dose", "Drift", "Divine"],
+    "answer": "Drown"
+  },
+  {
+    "question": "Which word describes something made up of two parts or aspects?",
+    "options": ["Dual", "Duo", "Drain", "Dose"],
+    "answer": "Dual"
+  },
+  {
+    "question": "Which word means 'to give a nickname or a new name to someone or something'?",
+    "options": ["Dub", "Donor", "Drain", "Dumb"],
+    "answer": "Dub"
+  },
+  {
+    "question": "Which word describes someone lacking intelligence or common sense (informally and rudely)?",
+    "options": ["Dumb", "Dose", "Doctrine", "Drain"],
+    "answer": "Dumb"
+  },
+  {
+    "question": "Which word refers to 'a pair of people or things, especially in music or entertainment'?",
+    "options": ["Duo", "Domain", "Drain", "Drift"],
+    "answer": "Duo"
+  }
+]
