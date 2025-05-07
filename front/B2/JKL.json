@@ -1,0 +1,262 @@
+[
+    {
+        "question": "Which word refers to a place where criminals are kept as punishment?",
+        "options": ["Jail", "Jet", "Justice", "Judgement"],
+        "answer": "Jail"
+    },
+    {
+        "question": "Which word refers to a fast airplane used for travel or military purposes?",
+        "options": ["Jet", "Jury", "Joint", "Joy"],
+        "answer": "Jet"
+    },
+    {
+        "question": "Which word refers to something shared by two or more people?",
+        "options": ["Joint", "Journalism", "Judgement", "Junior"],
+        "answer": "Joint"
+    },
+    {
+        "question": "Which word refers to the profession of collecting and writing news stories?",
+        "options": ["Journalism", "Justice", "Jet", "Jury"],
+        "answer": "Journalism"
+    },
+    {
+        "question": "Which word means a strong feeling of great happiness?",
+        "options": ["Joy", "Jail", "Joint", "Judgement"],
+        "answer": "Joy"
+    },
+    {
+        "question": "Which word means the ability to make considered decisions or come to sensible conclusions?",
+        "options": ["Judgement", "Junior", "Justice", "Jet"],
+        "answer": "Judgement"
+    },
+    {
+        "question": "Which word describes someone who is of a lower rank or younger age?",
+        "options": ["Junior", "Judge", "Joint", "Jury"],
+        "answer": "Junior"
+    },
+    {
+        "question": "Which word refers to a group of people who decide the outcome of a legal case in court?",
+        "options": ["Jury", "Journalism", "Justice", "Joy"],
+        "answer": "Jury"
+    },
+    {
+        "question": "Which word refers to fairness and the legal system that upholds it?",
+        "options": ["Justice", "Jail", "Jet", "Judgement"],
+        "answer": "Justice"
+    },
+    {
+        "question": "Which word means to show or prove that something is right or reasonable?",
+        "options": ["Justify", "Judge", "Jail", "Joy"],
+        "answer": "Justify"
+    },
+    {
+        "question": "Which word refers to a school for very young children, typically aged 4–6?",
+        "options": ["Kindergarten", "Junior", "Journalism", "Kit"],
+        "answer": "Kindergarten"
+    },
+    {
+        "question": "Which word refers to a set of tools or equipment for a particular purpose?",
+        "options": ["Kit", "Kindergarten", "Jet", "Joint"],
+        "answer": "Kit"
+    },
+    {
+        "question": "Which word refers to physical work, especially hard work for wages?",
+        "options": ["Labour", "Lens", "Ladder", "League"],
+        "answer": "Labour"
+    },
+    {
+        "question": "Which word refers to a structure used for climbing up or down?",
+        "options": ["Ladder", "Labour", "Leave", "Lean"],
+        "answer": "Ladder"
+    },
+    {
+        "question": "Which word refers to the act of arriving on the ground, especially from the air?",
+        "options": ["Landing", "Launch", "Leave", "Level"],
+        "answer": "Landing"
+    },
+    {
+        "question": "Which word means a large area of countryside or natural scenery?",
+        "options": ["Landscape", "Lane", "Lighting", "Labour"],
+        "answer": "Landscape"
+    },
+    {
+        "question": "Which word refers to a narrow road, often in the countryside or between buildings?",
+        "options": ["Lane", "Labour", "Ladder", "Level"],
+        "answer": "Lane"
+    },
+    {
+        "question": "Which word means 'mostly or mainly'?",
+        "options": ["Largely", "Lately", "Lean", "Latest"],
+        "answer": "Largely"
+    },
+    {
+        "question": "Which word means 'recently'?",
+        "options": ["Lately", "Lean", "Launch", "Likewise"],
+        "answer": "Lately"
+    },
+    {
+        "question": "Which word refers to the most recent or newest?",
+        "options": ["Latest", "Lately", "Labour", "Lane"],
+        "answer": "Latest"
+    },
+    {
+        "question": "Which word means 'to start something new, especially a project or product'?",
+        "options": ["Launch", "Lean", "Level", "Lighting"],
+        "answer": "Launch"
+    },
+    {
+        "question": "Which word refers to the ability to guide and manage a group or organization?",
+        "options": ["Leadership", "League", "Level", "Likewise"],
+        "answer": "Leadership"
+    },
+    {
+        "question": "Which word refers to a group of sports teams or people competing against each other?",
+        "options": ["League", "Labour", "Ladder", "Launch"],
+        "answer": "League"
+    },
+    {
+        "question": "Which word means 'to bend your body forward or rest against something'?",
+        "options": ["Lean", "Leave", "Latest", "Level"],
+        "answer": "Lean"
+    },
+    {
+        "question": "Which word means 'to go away from a place or a person'?",
+        "options": ["Leave", "Lean", "Launch", "Lens"],
+        "answer": "Leave"
+    },
+    {
+        "question": "Which word refers to a traditional story or person admired for heroic acts?",
+        "options": ["Legend", "Labour", "Leadership", "Jury"],
+        "answer": "Legend"
+    },
+    {
+        "question": "Which word refers to a curved piece of glass used in cameras and glasses?",
+        "options": ["Lens", "Level", "Lane", "Ladder"],
+        "answer": "Lens"
+    },
+    {
+        "question": "Which word means 'a specific height or rank'?",
+        "options": ["Level", "Labour", "Lane", "Latest"],
+        "answer": "Level"
+    },
+    {
+        "question": "Which word refers to an official document giving permission to do something?",
+        "options": ["Licence", "Leadership", "Labour", "Lean"],
+        "answer": "Licence"
+    },
+    {
+        "question": "Which word refers to the entire duration of a person's life?",
+        "options": ["Lifetime", "Latest", "Leave", "Labour"],
+        "answer": "Lifetime"
+    },
+    {
+        "question": "Which word refers to the arrangement or effect of lights in a space?",
+        "options": ["Lighting", "Lens", "Labour", "Lean"],
+        "answer": "Lighting"
+    },
+    {
+        "question": "Which word means 'in the same way' or 'also'?",
+        "options": ["Likewise", "Latest", "Lately", "Labour"],
+        "answer": "Likewise"
+    },
+    {
+        "question": "Which word refers to a restriction or something that controls what is possible?",
+        "options": ["Limitation", "Loan", "Lively", "Line"],
+        "answer": "Limitation"
+    },
+    {
+        "question": "Which word means 'not very great in size, amount, or ability'?",
+        "options": ["Limited", "Loan", "Lord", "Lyric"],
+        "answer": "Limited"
+    },
+    {
+        "question": "Which word refers to a long narrow mark or path?",
+        "options": ["Line", "Logo", "Load", "Low"],
+        "answer": "Line"
+    },
+    {
+        "question": "Which word means 'in a literal or exact way'?",
+        "options": ["Literally", "Literary", "Logical", "Loan"],
+        "answer": "Literally"
+    },
+    {
+        "question": "Which word relates to books or the writing of literature?",
+        "options": ["Literary", "Literally", "Lively", "Litter"],
+        "answer": "Literary"
+    },
+    {
+        "question": "Which word refers to trash that is left on the ground in public places?",
+        "options": ["Litter", "Limitation", "Loan", "Lord"],
+        "answer": "Litter"
+    },
+    {
+        "question": "Which word means 'full of life and energy'?",
+        "options": ["Lively", "Loyal", "Logical", "Low"],
+        "answer": "Lively"
+    },
+    {
+        "question": "Which word refers to something that is being carried or transported?",
+        "options": ["Load", "Loan", "Line", "Lyric"],
+        "answer": "Load"
+    },
+    {
+        "question": "Which word refers to borrowed money that must be paid back?",
+        "options": ["Loan", "Load", "Logo", "Lord"],
+        "answer": "Loan"
+    },
+    {
+        "question": "Which word describes reasoning that makes sense and is consistent?",
+        "options": ["Logical", "Loyal", "Literary", "Lyric"],
+        "answer": "Logical"
+    },
+    {
+        "question": "Which word refers to a small design used by companies for identification?",
+        "options": ["Logo", "Line", "Ladder", "Literary"],
+        "answer": "Logo"
+    },
+    {
+        "question": "Which word means lasting for a long time or into the future?",
+        "options": ["Long-term", "Low", "Loan", "Lively"],
+        "answer": "Long-term"
+    },
+    {
+        "question": "Which word describes something that is not tightly fixed or held together?",
+        "options": ["Loose", "Load", "Loyal", "Lyric"],
+        "answer": "Loose"
+    },
+    {
+        "question": "Which word refers to a male noble or a man of high rank?",
+        "options": ["Lord", "Loan", "Loyal", "Line"],
+        "answer": "Lord"
+    },
+    {
+        "question": "Which word refers to a game of chance where people buy tickets to win prizes?",
+        "options": ["Lottery", "Loan", "Logo", "Lyric"],
+        "answer": "Lottery"
+    },
+    {
+        "question": "Which word describes something that is not high in amount or position?",
+        "options": ["Low", "Lively", "Loyal", "Loan"],
+        "answer": "Low"
+    },
+    {
+        "question": "Which word means 'to reduce something in amount, value, or level'?",
+        "options": ["Lower", "Load", "Loan", "Lyric"],
+        "answer": "Lower"
+    },
+    {
+        "question": "Which word describes someone who remains faithful to a person or cause?",
+        "options": ["Loyal", "Logical", "Lively", "Lord"],
+        "answer": "Loyal"
+    },
+    {
+        "question": "Which word refers to one of the two organs used for breathing?",
+        "options": ["Lung", "Load", "Loan", "Line"],
+        "answer": "Lung"
+    },
+    {
+        "question": "Which word refers to the words of a song?",
+        "options": ["Lyric", "Literary", "Loan", "Logo"],
+        "answer": "Lyric"
+    }
+]
